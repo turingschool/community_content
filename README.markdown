@@ -37,3 +37,13 @@ All prep sessions take place at 4:05PM.
 * Tuesday: Outline
 * Wednesday: Draft slides & content
 * Thursday: Rehearsal
+
+## Picking a Topic
+
+* You don't need to be an expert on a topic. You can do the research and become
+expert enough to deliver a valuable talk.
+* A talk needs to teach something of value to the audience.
+* A talk needs to be at an appropriate level for the audience, not too basic
+and not too advanced.
+* A talk needs to have a *message*, not just a subject. "Introduction to RSpec"
+is boring, "Why You Should Use RSpec" has a message.
