@@ -11,13 +11,13 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Gustavo Villagrana
 
-* Topic:  Extreme Programming
-* Theme:  Software Methodologies/Techniques
+* Topic: Extreme Programming
+* Theme: Software Methodologies/Techniques
 
 ### Hilary Denton
 
-* Topic: Tim_Berners-Lee
-* Theme:Historic and Present people in programming
+* Topic: Tim Berners-Lee
+* Theme: Historic and Present People in Programming
 
 ### Corey Davis
 
