@@ -11,8 +11,8 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Gustavo Villagrana
 
-* Topic:
-* Theme:
+* Topic: Extreme Programming
+* Theme: Why it came to existence, its importance & relevance today, its future outlook compared to Agile programming. 
 
 ### Hilary Denton
 
