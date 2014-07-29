@@ -6,8 +6,8 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Chad Brading
 
-* Topic:
-* Theme:
+* Topic: RSpec
+* Theme: Software Testing
 
 ### Gustavo Villagrana
 
