@@ -14,7 +14,7 @@ The week of their lightning talk, a student will:
 of their age, gender, socio-economic background, religious beliefs, or sexual
 orientation
 
-## Themes and Topics
+## Topics & Themes
 
 Students will work with the facilitator to select their topic and prepare the
 presentation. Topics should fit into one of the themes below. Each week there
