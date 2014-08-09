@@ -14,11 +14,11 @@ The week of their lightning talk, a student will:
 of their age, gender, socio-economic background, religious beliefs, or sexual
 orientation
 
-## Topics
+## Themes and Topics
 
 Students will work with the facilitator to select their topic and prepare the
-presentation. Topics should fit into one of the domains below. Each week there
-may only be *one* talk per domain, but not all domains will be used.
+presentation. Topics should fit into one of the themes below. Each week there
+may only be *one* talk per theme, but not all themes will be used.
 
 * Ruby architecture (patterns, approaches, etc)
 * JavaScript architecture (patterns, approaches, etc)
