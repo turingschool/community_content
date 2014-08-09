@@ -7,19 +7,19 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 ### Chad Brading
 
 * Topic: RSpec
-* Theme: Software Libraries
+* Theme: Software Libraries (Ruby, JavaScript, etc)
 
 ### Gustavo Villagrana
 
 * Topic: Extreme Programming
-* Theme: Software Methodologies/Techniques
+* Theme: General Software Methodologies / Techniques
 
 ### Hilary Denton
 
 * Topic: Tim Berners-Lee
-* Theme: Historic and Present People in Programming
+* Theme: Historical or Present-day People in Computer Science
 
 ### Corey Davis
 
-* Topic: Considerations via website comparison
-* Theme: UX
+* Topic: Web UX
+* Theme: Design / User Experience
