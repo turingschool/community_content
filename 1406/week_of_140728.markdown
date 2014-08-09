@@ -21,5 +21,5 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Corey Davis
 
-* Topic: UX
-* Theme: Considerations via website comparison
+* Topic: Considerations via website comparison
+* Theme: UX
