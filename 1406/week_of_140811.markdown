@@ -11,8 +11,8 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 
 ### Emily Davis
 
-* Topic:
-* Theme:
+* Topic: The TDD Holy War
+* Theme: Software Testing
 
 ### Marc Garreau
 
