@@ -6,8 +6,8 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 
 ### Jonmichael Chambers
 
-* Topic: Ruby Architecture?
-* Theme: Clean Code & Code Climate
+* Topic: Clean Code & Code Climate
+* Theme: General Software Methodologies / Techniques
 
 ### Emily Davis
 
@@ -17,7 +17,7 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 ### Marc Garreau
 
 * Topic: Intro to Node.js
-* Theme: JS Architecture
+* Theme: JavaScript Architecture
 
 ### Robert Gu
 
