@@ -6,13 +6,13 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 ### Eric Fransen
 
-* Topic:
-* Theme:
+* Topic: Swift
+* Theme: Software Libraries
 
 ### Allison Larson
 
-* Topic: Agile
-* Theme: General Software Methodologies/Techniques
+* Topic:
+* Theme:
 
 ### Alan Smith
 
