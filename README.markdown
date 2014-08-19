@@ -28,6 +28,7 @@ may only be *one* talk per theme, but not all themes will be used.
 * Design / User Experience
 * Computer Hardware
 * Software Libraries (Ruby, JavaScript, etc)
+* Programming Languages
 
 ## Schedule
 
