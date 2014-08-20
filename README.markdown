@@ -29,6 +29,7 @@ may only be *one* talk per theme, but not all themes will be used.
 * Computer Hardware
 * Software Libraries
 * Programming Languages
+* DevOps
 
 ## Schedule
 
