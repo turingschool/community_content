@@ -21,5 +21,5 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 ### Andrew Watkins
 
-* Topic:
-* Theme:
+* Topic: Terminal/Unix Shell
+* Theme: pimp-my-shell
