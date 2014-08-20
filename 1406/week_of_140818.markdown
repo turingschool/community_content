@@ -16,8 +16,8 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 ### Alan Smith
 
-* Topic:
-* Theme:
+* Topic: Ember.js
+* Theme: JavaScript architecture
 
 ### Andrew Watkins
 
