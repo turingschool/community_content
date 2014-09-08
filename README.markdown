@@ -30,6 +30,7 @@ may only be *one* talk per theme, but not all themes will be used.
 * Software Libraries
 * Programming Languages
 * DevOps
+* Technology & Society
 
 ## Schedule
 
