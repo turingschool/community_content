@@ -24,7 +24,7 @@ may only be *one* talk per theme, but not all themes will be used.
 * JavaScript Architecture
 * General Software Methodologies / Techniques
 * Software Testing
-* Historical or Present-day People in Computer Science
+* Historical or Present-day People in Computer Science -- Horacio Chavez
 * Design / User Experience
 * Computer Hardware
 * Software Libraries
