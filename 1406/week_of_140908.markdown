@@ -21,8 +21,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Will Faurot
 
-* Topic:
-* Theme:
+* Topic: Computer hardware 
+* Theme: HDDs
 
 ### Andy Mention
 
