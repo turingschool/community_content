@@ -26,5 +26,5 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Andy Mention
 
-* Topic:
-* Theme:
+* Topic: Django
+* Theme: Django alone and vs Rails
