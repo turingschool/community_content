@@ -16,5 +16,5 @@ Sara Simon, Ian Andersen, Jim Sutton
 
 ### Jim Sutton
 
-* Topic:
-* Theme:
+* Topic: Sass
+* Theme: General Software Methodologies / Techniques (right?)
