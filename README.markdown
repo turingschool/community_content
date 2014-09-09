@@ -20,16 +20,16 @@ Students will work with the facilitator to select their topic and prepare the
 presentation. Topics should fit into one of the themes below. Each week there
 may only be *one* talk per theme, but not all themes will be used.
 
-* Ruby Architecture
-* JavaScript Architecture
-* General Software Methodologies / Techniques
-* Software Testing
-* Historical or Present-day People in Computer Science
-* Design / User Experience
 * Computer Hardware
-* Software Libraries
-* Programming Languages
+* Design / User Experience
 * DevOps
+* General Software Methodologies / Techniques
+* Historical or Present-day People in Computer Science
+* JavaScript Architecture / Libraries
+* Programming Languages
+* Ruby Architecture / Libraries
+* Software Libraries
+* Software Testing
 * Technology & Society
 
 ## Schedule
