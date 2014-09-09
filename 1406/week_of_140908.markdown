@@ -6,8 +6,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Horacio Chavez
 
-* Topic:
-* Theme:
+* Topic: Standing on the shoulders of giants
+* Theme: Historical or Present-day People in Computer Science
 
 ### Tim Proctor
 
