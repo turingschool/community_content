@@ -12,7 +12,7 @@ Sara Simon, Ian Andersen, Jim Sutton
 ### Ian Andersen
 
 * Topic: Genetic Algorithms with Ruby Processing
-* Theme: Ruby Architecture/Libraries
+* Theme: Ruby Architecture / Libraries
 
 ### Jim Sutton
 
