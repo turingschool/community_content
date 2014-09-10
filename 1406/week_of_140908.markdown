@@ -11,8 +11,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Tim Proctor
 
-* Topic:
-* Theme:
+* Topic: Elixer
+* Theme: Software Language
 
 ### Tan Doan
 
