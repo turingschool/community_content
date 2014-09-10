@@ -11,8 +11,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Tim Proctor
 
-* Topic: Elixer
-* Theme: Software Language
+* Topic: Elixir
+* Theme: Programming Languages
 
 ### Tan Doan
 
@@ -27,4 +27,4 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 ### Andy Mention
 
 * Topic: Django
-* Theme: Programming Languages
+* Theme: Software Libraries
