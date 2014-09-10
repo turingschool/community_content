@@ -19,6 +19,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Computer Hardware
 * Design / User Experience
 * DevOps
+* Front End Development
 * General Software Methodologies / Techniques
 * Historical or Present-day People in Computer Science
 * JavaScript Architecture / Libraries
