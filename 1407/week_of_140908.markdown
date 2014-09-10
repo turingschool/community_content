@@ -17,4 +17,4 @@ Sara Simon, Ian Andersen, Jim Sutton
 ### Jim Sutton
 
 * Topic: Sass
-* Theme: General Software Methodologies / Techniques (right?)
+* Theme: Software Libraries
