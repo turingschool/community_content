@@ -2,8 +2,8 @@
 
 ### Luke Aiken
 
-* Topic:
-* Theme:
+* Topic: Vim
+* Theme: General Software Methodologies / Techniques
 
 ### Jessica Goulding
 
