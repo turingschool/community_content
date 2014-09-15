@@ -17,6 +17,6 @@
 
 ### Aaron Paul Wortham
 
-* Topic:
-* Theme:
+* Topic: Robotics in today's world
+* Theme: computer science
 
