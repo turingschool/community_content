@@ -11,8 +11,8 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Gustavo Villagrana
 
-* Topic:
-* Theme:
+* Topic: OATH & OMNIA
+* Theme: Software Libraries
 
 ### Hilary Denton
 
