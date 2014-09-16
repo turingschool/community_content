@@ -2,13 +2,13 @@
 
 ### Luke Aiken
 
-* Topic: Vim
-* Theme: General Software Methodologies / Techniques
+* Topic:
+* Theme:
 
 ### Jessica Goulding
 
-* Topic: How to integrate with the tech scene within your community 
-* Theme:Technology & Society 
+* Topic:
+* Theme:
 
 ### Kavita Sachdeva
 
@@ -17,6 +17,6 @@
 
 ### Aaron Paul Wortham
 
-* Topic:
-* Theme:
+* Topic:robotics and how it may impact you in the next ten years
+* Theme:computer hardware/software
 
