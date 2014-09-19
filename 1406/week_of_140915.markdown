@@ -11,7 +11,7 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Gustavo Villagrana
 
-* Topic: OATH & OMNIA
+* Topic: OAuth & OmniAuth
 * Theme: Software Libraries
 
 ### Hilary Denton
