@@ -1,5 +1,7 @@
 ## Topics & Themes
 
+Luke Aiken, Jessica Goulding, Kavita Sachdeva, Aaron Paul Wortham
+
 ### Luke Aiken
 
 * Topic: Vim
@@ -7,8 +9,8 @@
 
 ### Jessica Goulding
 
-* Topic: How to Integrate with your Tech Community 
-* Theme: Technology & Society 
+* Topic: How to Integrate with your Tech Community
+* Theme: Technology & Society
 
 ### Kavita Sachdeva
 
@@ -17,6 +19,5 @@
 
 ### Aaron Paul Wortham
 
-* Topic:
-* Theme:
-
+* Topic: Websockets
+* Theme: DevOps
