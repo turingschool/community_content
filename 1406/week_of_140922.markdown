@@ -16,8 +16,8 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 
 ### Marc Garreau
 
-* Topic:
-* Theme:
+* Topic: Ruby Arch/Libraries
+* Theme: Intro to EventMachine
 
 ### Robert Gu
 
