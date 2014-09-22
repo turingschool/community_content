@@ -6,8 +6,8 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 
 ### Jonmichael Chambers
 
-* Topic:
-* Theme:
+* Topic: Ngrok
+* Theme: Software Testing
 
 ### Emily Davis
 
