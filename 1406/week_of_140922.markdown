@@ -11,8 +11,8 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 
 ### Emily Davis
 
-* Topic:
-* Theme:
+* Topic: Agile without Discipline is Chaos
+* Theme: General Software Methodologies / Techniques
 
 ### Marc Garreau
 
