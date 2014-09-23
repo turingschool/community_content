@@ -22,4 +22,4 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 ### Robert Gu
 
 * Topic: Fun With JQuery
-* Theme: Javascript Libraries
+* Theme: JavaScript Architecture / Libraries
