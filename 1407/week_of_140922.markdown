@@ -9,8 +9,8 @@ Rolando Navarrete, Glen Egbert, Cara Dennis
 
 ### Glen Egbert
 
-* Topic:Go 
-* Theme: Why you should consider learning Go.
+* Topic: Go
+* Theme: Programming Languages
 
 ### Cara Dennis
 
