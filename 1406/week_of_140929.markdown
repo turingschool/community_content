@@ -18,9 +18,9 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 ### Alan Smith
 
 * Topic: Raspberry Pi
-* Theme: computer hardware
+* Theme: Computer Hardware
 
 ### Andrew Watkins
 
-* Topic: Technology & Society
-* Theme: AI and the Coming Singularity
+* Topic: AI and the Coming Singularity
+* Theme: Technology & Society
