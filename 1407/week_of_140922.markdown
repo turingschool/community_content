@@ -4,7 +4,7 @@ Rolando Navarrete, Glen Egbert, Cara Dennis
 
 ### Rolando Navarrete
 
-* Topic: Bitcoin 
+* Topic: Bitcoin
 * Theme: Technology & Society
 
 ### Glen Egbert
@@ -14,5 +14,5 @@ Rolando Navarrete, Glen Egbert, Cara Dennis
 
 ### Cara Dennis
 
-* Topic:
-* Theme:
+* Topic: Heartbleed
+* Theme: DevOps
