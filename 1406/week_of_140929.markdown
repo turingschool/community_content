@@ -11,8 +11,9 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 ### Allison Larson
 
-* Topic:
-* Theme:
+* Topic: Eric Scwartz
+* Theme: Historical or Present-day People in Computer Science
+
 
 ### Alan Smith
 
