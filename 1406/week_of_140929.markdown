@@ -1,6 +1,6 @@
 ## Presenters
 
-Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
+Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins, Robert Gu
 
 ## Topics & Themes
 
@@ -23,3 +23,9 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 * Topic:
 * Theme:
+
+
+### Robert Gu
+
+* Topic: JavaScript Libraries
+* Theme: JQuery
