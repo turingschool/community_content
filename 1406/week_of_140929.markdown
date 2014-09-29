@@ -6,8 +6,8 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 
 ### Eric Fransen
 
-* Topic:
-* Theme:
+* Topic: The Downside of Software Patents
+* Theme: General Software Methodologies/Techniques
 
 ### Allison Larson
 
