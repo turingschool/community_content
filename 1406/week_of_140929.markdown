@@ -14,7 +14,6 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 * Topic: Aaron Swartz
 * Theme: Historical or Present-day People in Computer Science
 
-
 ### Alan Smith
 
 * Topic: Raspberry Pi
