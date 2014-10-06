@@ -6,7 +6,7 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Horacio Chavez
 
-* Topic: Tell me a story.
+* Topic: Tell me a story
 * Theme: Design / User Experience
 
 ### Tim Proctor
@@ -21,7 +21,7 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Will Faurot
 
-* Topic: The patriot missile defense system [bug](http://fas.org/spp/starwars/gao/im92026.htm) during the Gulf War
+* Topic: Killer Bug: The patriot missile defense system [bug](http://fas.org/spp/starwars/gao/im92026.htm) during the Gulf War
 * Theme: Technology & Society
 
 ### Andy Mention
