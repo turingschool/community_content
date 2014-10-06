@@ -27,4 +27,4 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 ### Andy Mention
 
 * Topic: PostGIS
-* Theme: Softwae libraries
+* Theme: Software Libraries
