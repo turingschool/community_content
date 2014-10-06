@@ -12,7 +12,7 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 ### Tim Proctor
 
 * Topic: Rubinius
-* Theme: Programming Language
+* Theme: Ruby Architecture / Libraries
 
 ### Tan Doan
 
