@@ -16,8 +16,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Tan Doan
 
-* Topic:
-* Theme:
+* Topic: Zurb Foundation
+* Theme: Front End Development
 
 ### Will Faurot
 
@@ -27,4 +27,4 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 ### Andy Mention
 
 * Topic:
-* Theme: 
+* Theme:
