@@ -11,8 +11,8 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Gustavo Villagrana
 
-* Topic:  Waterfall Model
-* Theme:  Software Methodologies/Techniques
+* Topic: Waterfall Model
+* Theme: General Software Methodologies / Techniques
 
 ### Hilary Denton
 
