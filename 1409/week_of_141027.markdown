@@ -6,8 +6,8 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson
 
 ### David Bayendor
 
-* Topic:
-* Theme:
+* Topic: PostgreSQL Fuzzy Search Performance (or why you might not need ElastiSearch)
+* Theme: General Software Methodologies / Techniques
 
 ### Adam Smith
 
@@ -16,8 +16,8 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson
 
 ### Travis Yoder
 
-* Topic: Why Dogecoin is better than Bitcoin
-* Theme: Technology & Society
+* Topic:
+* Theme:
 
 ### Konr Josef Larson
 
