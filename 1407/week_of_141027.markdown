@@ -6,8 +6,8 @@ Sara Simon, Ian Andersen, Jim Sutton
 
 ### Sara Simon
 
-* Topic:
-* Theme:
+* Topic: Programming Languages
+* Theme: Is Programming a Foreign Language?
 
 ### Ian Andersen
 
