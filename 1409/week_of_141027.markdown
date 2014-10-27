@@ -6,8 +6,8 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson
 
 ### David Bayendor
 
-* Topic:
-* Theme:
+* Topic: PostgreSQL Fuzzy Search Performance (or why you might not need ElastiSearch)
+* Theme: General Software Methodologies / Techniques
 
 ### Adam Smith
 
