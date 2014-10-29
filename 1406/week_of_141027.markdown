@@ -21,5 +21,5 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Corey Davis
 
-* Topic:
-* Theme: 
+* Topic: Understanding the mylination theory and the application of deep practice to programming
+* Theme: General Software Methodologies / Techniques
