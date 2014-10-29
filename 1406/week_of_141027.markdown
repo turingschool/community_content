@@ -16,8 +16,8 @@ Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
 
 ### Hilary Denton
 
-* Topic:
-* Theme:
+* Topic: Underscore
+* Theme: JavaScript Architecture / Libraries
 
 ### Corey Davis
 
