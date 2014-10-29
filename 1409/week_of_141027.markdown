@@ -11,8 +11,8 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson
 
 ### Adam Smith
 
-* Topic: Dennis Ritchie:  Creator of C
-* Theme: Historical Computer People
+* Topic: Dennis Ritchie, Creator of C
+* Theme: Historical or Present-day People in Computer Science
 
 ### Travis Yoder
 
