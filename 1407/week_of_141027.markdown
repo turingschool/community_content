@@ -16,5 +16,5 @@ Sara Simon, Ian Andersen, Jim Sutton
 
 ### Jim Sutton
 
-* Topic:
-* Theme: 
+* Topic: Meteor.js
+* Theme: Javascript Architecture/ Javascript Libraries
