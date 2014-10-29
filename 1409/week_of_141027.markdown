@@ -7,7 +7,7 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson
 ### David Bayendor
 
 * Topic: Fuzzy Text Searching in PostgreSQL (or why you might not need Elastic Search)
-* Theme: General Software Methodologies / Techniques
+* Theme: Software Libraries
 
 ### Adam Smith
 
