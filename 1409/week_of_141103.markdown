@@ -6,8 +6,8 @@ Sam Kuhlmann, Kate Lane, Zach Routhier, Alex Jensen
 
 ### Sam Kuhlmann
 
-* Topic:
-* Theme:
+* Topic: Pigs and Chickens - Mechanics of Agile Process
+* Theme: Software Methodologies
 
 ### Kate Lane
 
