@@ -6,8 +6,8 @@ Sam Kuhlmann, Kate Lane, Zach Routhier, Alex Jensen
 
 ### Sam Kuhlmann
 
-* Topic: Using Web Analytics Inights to improve your app
-* Theme: General Software Methodologies / Techniques
+* Topic: Improve your App with Web Analytics
+* Theme: Design / User Experience
 
 ### Kate Lane
 
