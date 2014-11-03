@@ -14,5 +14,5 @@ Luke Aiken, Jessica Goulding, Aaron Paul Wortham
 
 ### Aaron Paul Wortham
 
-* Topic:
-* Theme:
+* Topic: Swift Language and why it would be a good next language to learn
+* Theme: Programming languages
