@@ -12,7 +12,7 @@ Jonmichael Chambers, Emily Davis, Marc Garreau, Robert Gu
 ### Emily Davis
 
 * Topic: Best ideas from Pragmatic Thinking & Learning
-* Theme: Software Methodologies
+* Theme: General Software Methodologies / Techniques
 
 ### Marc Garreau
 
