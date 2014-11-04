@@ -12,7 +12,7 @@ Sam Kuhlmann, Kate Lane, Zach Routhier, Alex Jensen
 ### Kate Lane
 
 * Topic: Dreyfus model of Skill Acquisition
-* Theme: General Software Methodologies / Techniques?
+* Theme: General Software Methodologies / Techniques
 
 ### Zach Routhier
 
