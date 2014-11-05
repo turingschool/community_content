@@ -17,7 +17,7 @@ Sam Kuhlmann, Kate Lane, Zach Routhier, Alex Jensen
 ### Zach Routhier
 
 * Topic: Intro to Concurrency
-* Theme:  Programming
+* Theme: Programming Languages
 
 ### Alex Jensen
 
