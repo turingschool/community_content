@@ -21,5 +21,5 @@ Victoria Harrod, Greg Narajka, Tim Mee, Danny Glunz
 
 ### Danny Glunz
 
-* Topic:
-* Theme:
+* Topic: How to Survive the Titanic with Machine Learning 
+* Theme: Computer Science
