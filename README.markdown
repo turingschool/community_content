@@ -14,7 +14,7 @@ The week of their lightning talk, a student will:
 
 ## Topics & Themes
 
-Students will work with the facilitator to select their topic and prepare the presentation. Topics should fit into one of the themes below. Each week there may only be *one* talk per theme, but not all themes will be used.
+Students will work with the facilitator to select their topic and prepare the presentation. Topics should fit into one of the themes below. Each week there may only be *two* talks per theme, but not all themes will be used.
 
 * Computer Hardware
 * Computer Science
