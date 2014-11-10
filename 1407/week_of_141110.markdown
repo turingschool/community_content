@@ -14,5 +14,5 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Kavita Sachdeva
 
-* Topic:
-* Theme:
+* Topic: Ancient Cryptography
+* Theme: Computer Science
