@@ -16,8 +16,8 @@ Victoria Harrod, Greg Narajka, Tim Mee, Danny Glunz
 
 ### Tim Mee
 
-* Topic:
-* Theme:
+* Topic: Evolution of Data Storage
+* Theme: Computer Hardware
 
 ### Danny Glunz
 
