@@ -9,8 +9,8 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Glen Egbert
 
-* Topic:Technical Debt
-* Theme:General Software Methodologies / Techniques
+* Topic: Technical Debt
+* Theme: General Software Methodologies / Techniques
 
 ### Kavita Sachdeva
 
