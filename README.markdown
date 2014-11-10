@@ -28,6 +28,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Ruby Architecture / Libraries
 * Software Libraries
 * Software Testing
+* Technology & Law
 * Technology & Society
 
 ## Schedule
