@@ -16,8 +16,8 @@ Victoria Harrod, Greg Narajka, Tim Mee, Danny Glunz
 
 ### Tim Mee
 
-* Topic:
-* Theme:
+* Topic: The Traveling Salesman Problem
+* Theme: General Software Methodologies / Techniques
 
 ### Danny Glunz
 
