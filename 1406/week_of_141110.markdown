@@ -17,7 +17,7 @@ Eric Fransen, Allison Larson, Alan Smith, Andrew Watkins
 ### Alan Smith
 
 * Topic: Raptor Ruby Server
-* Theme:Ruby Architecture / Libraries
+* Theme: Ruby Architecture / Libraries
 
 ### Andrew Watkins
 
