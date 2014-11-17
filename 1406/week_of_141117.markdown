@@ -6,8 +6,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Horacio Chavez
 
-* Topic:
-* Theme:
+* Topic: SQL and friends. 
+* Theme: Ruby Architecture / Libraries
 
 ### Tim Proctor
 
