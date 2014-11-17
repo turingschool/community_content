@@ -4,22 +4,12 @@ Chandra Carney, Herbert Joseph
 
 ## Topics & Themes
 
-### Victoria Harrod
+### Chandra Carney
 
-* Topic: 
-* Theme:
+* Topic: How to program with accessibility in mind. 
+* Theme: Visual impairments: from those who are completely blind to those who are color blind
 
-### Greg Narajka
-
-* Topic:
-* Theme:
-
-### Tim Mee
-
-* Topic:
-* Theme:
-
-### Danny Glunz
+### Herbert Joseph
 
 * Topic:
 * Theme:
