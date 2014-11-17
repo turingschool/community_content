@@ -16,8 +16,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Tan Doan
 
-* Topic:
-* Theme:
+* Topic: Yukihiro Matsumoto
+* Theme: MINASWAN: Ruby Road
 
 ### Will Faurot
 
