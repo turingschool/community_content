@@ -1,0 +1,25 @@
+## Presenters
+
+Victoria Harrod, Greg Narajka, Tim Mee, Danny Glunz
+
+## Topics & Themes
+
+### Victoria Harrod
+
+* Topic: Hedy Lamarr and the invention of the stuff that makes Bluetooth and Wireless (topic will be refined :p)
+* Theme: Historical or Present-day People in Computer Science
+
+### Greg Narajka
+
+* Topic: Using CS to manipulate OKCupid
+* Theme: Technology & Society
+
+### Tim Mee
+
+* Topic: Evolution of Data Storage
+* Theme: Computer Hardware
+
+### Danny Glunz
+
+* Topic: How to Survive the Titanic with Machine Learning 
+* Theme: Computer Science
