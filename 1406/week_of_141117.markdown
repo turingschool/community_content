@@ -11,8 +11,8 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Tim Proctor
 
-* Topic:
-* Theme:
+* Topic: Is Elegant Ruby Fast?
+* Theme: Benchmarking to achieve best refactor results
 
 ### Tan Doan
 
