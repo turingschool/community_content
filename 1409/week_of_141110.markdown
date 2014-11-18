@@ -1,15 +1,25 @@
 ## Presenters
 
-Chandra Carney, Herbert Joseph
+Victoria Harrod, Greg Narajka, Danny Glunz, Tim Mee
 
 ## Topics & Themes
 
-### Chandra Carney
+### Victoria Harrod
 
-* Topic: 
-* Theme:
+* Topic: Hedy Lamarr
+* Theme: Historical or Present-day People in Computer Science
 
-### Herbert Joseph 
+### Greg Narajka
 
-* Topic:
-* Theme:
+* Topic: Using CS to manipulate OKCupid
+* Theme: Technology & Society 
+
+### Danny Glunz
+
+* Topic: How to Survive the Titanic with Machine Learning
+* Theme: Computer Science
+
+### Tim Mee
+
+* Topic: Evolution of Data Storage
+* Theme: Computer Hardware
