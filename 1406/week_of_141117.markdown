@@ -26,7 +26,7 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ### Andy Mention
 
-* Topic: PhoneGap/Cordova
+* Topic: PhoneGap / Cordova
 * Theme: Software Libraries
 
 ### Eric Fransen
