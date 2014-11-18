@@ -11,5 +11,5 @@ Chandra Carney, Herbert Joseph
 
 ### Herbert Joseph
 
-* Topic: You Can Make Games
+* Topic: Get in the Garage
 * Theme: Software Libraries
