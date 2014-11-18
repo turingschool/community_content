@@ -22,7 +22,7 @@ Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 ### Will Faurot
 
 * Topic: ClojureScript
-* Theme: Software library (compilers)
+* Theme: Software Libraries
 
 ### Andy Mention
 
