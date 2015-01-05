@@ -26,5 +26,5 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson, Sam Kuhlmann
 
 ### Sam Kuhlmann
 
-* Topic: 
-* Theme: 
+* Topic: Design / User Experience
+* Theme: Usability Testing
