@@ -21,8 +21,8 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Orion Osborn
 
 ### Michael Dao
 
-* Topic: 
-* Theme: 
+* Topic: Public Key Cryptography / Diffie Hellman Key Exchange
+* Theme: Computer Science
 
 ### Orion Osborn
 
