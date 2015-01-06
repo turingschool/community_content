@@ -26,5 +26,5 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Orion Osborn
 
 ### Orion Osborn
 
-* Topic: 
-* Theme: 
+* Topic: Neural Networks
+* Theme: Computer Science
