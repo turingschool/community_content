@@ -1,20 +1,15 @@
 ## Presenters
 
-Sara Simon, Ian Andersen, Jim Sutton
+Sara Simon, Jim Sutton
 
 ## Topics & Themes
 
 ### Sara Simon
 
-* Topic: 
+* Topic:
 * Theme: 
-
-### Ian Andersen
-
-* Topic: Backbone.js
-* Theme: JavaScript Architecture / Libraries
 
 ### Jim Sutton
 
-* Topic: 
-* Theme: 
+* Topic:
+* Theme:

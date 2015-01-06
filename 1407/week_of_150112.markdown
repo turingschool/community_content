@@ -1,0 +1,10 @@
+## Presenters
+
+Ian Andersen
+
+## Topics & Themes
+
+### Ian Andersen
+
+* Topic: Backbone.js
+* Theme: JavaScript Architecture / Libraries
