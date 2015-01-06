@@ -6,7 +6,7 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson, Sam Kuhlmann
 
 ### David Bayendor
 
-* Topic: Storing credentials in environment variables
+* Topic: Storing Credentials in Environment Variables
 * Theme: DevOps
 
 ### Adam Smith 

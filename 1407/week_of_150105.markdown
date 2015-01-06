@@ -11,8 +11,8 @@ Sara Simon, Ian Andersen, Jim Sutton
 
 ### Ian Andersen
 
-* Topic: JavaScript Architecture / Libraries
-* Theme: Backbone.js
+* Topic: Backbone.js
+* Theme: JavaScript Architecture / Libraries
 
 ### Jim Sutton
 
