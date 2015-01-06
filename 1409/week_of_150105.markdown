@@ -17,7 +17,7 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson, Sam Kuhlmann
 ### Travis Yoder
 
 * Topic: Jailbreaking
-* Theme: Technology & Society
+* Theme: Computer Hardware
 
 ### Konr Josef Larson
 
