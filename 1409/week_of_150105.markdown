@@ -11,13 +11,13 @@ David Bayendor, Adam Smith, Travis Yoder, Konr Josef Larson, Sam Kuhlmann
 
 ### Adam Smith 
 
-* Topic: 
-* Theme: 
+* Topic: The Haskell Programming Language
+* Theme: Programming Languages
 
 ### Travis Yoder
 
-* Topic: 
-* Theme: 
+* Topic: Jailbreaking
+* Theme: Technology & Society
 
 ### Konr Josef Larson
 
