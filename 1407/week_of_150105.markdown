@@ -11,5 +11,5 @@ Sara Simon, Jim Sutton
 
 ### Jim Sutton
 
-* Topic:
-* Theme:
+* Topic: Don Knuth
+* Theme: Historical or Present-day People in Computer Science
