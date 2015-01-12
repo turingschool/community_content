@@ -26,5 +26,6 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Jeffrey Wan
 
-* Topic:
-* Theme:
+* Topic: Technology and Sociey  
+* Theme: Programming as Art as defined by Philosophers Jeremy Benthem and VC Paul Graham. What makes programming beautiful? I will relate programming to an art form and why programming's utility shouldn't negate its status as an intricate decision-making task like art. What is art? How does Programming relate? The complexities we feel when dealing with programming... does that make it art?
+
