@@ -16,8 +16,8 @@ Kate Lane, Zach Routhier, Alex Jensen, Victoria Harrod, Greg Narajka
 
 ### Alex Jensen
 
-* Topic:
-* Theme:
+* Topic: How to make a package for Atom
+* Theme: Software Libraries
 
 ### Victoria Harrod
 
