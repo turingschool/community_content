@@ -11,8 +11,8 @@ Ian Andersen, Luke Aiken, Aaron Paul Wortham
 
 ### Luke Aiken
 
-* Topic:
-* Theme:
+* Topic: AngularJS
+* Theme: JavaScript Architecture / Libraries
 
 ### Aaron Paul Wortham
 
