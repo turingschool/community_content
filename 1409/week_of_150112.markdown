@@ -26,5 +26,5 @@ Kate Lane, Zach Routhier, Alex Jensen, Victoria Harrod, Greg Narajka
 
 ### Greg Narajka
 
-* Topic: Why Internet Explorere is ubiquitous in South Korea
-* Theme: Technology And Law
+* Topic: Why Internet Explorer is ubiquitous in South Korea
+* Theme: Technology & Law
