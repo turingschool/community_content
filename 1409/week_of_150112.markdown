@@ -22,7 +22,7 @@ Kate Lane, Zach Routhier, Alex Jensen, Victoria Harrod, Greg Narajka
 ### Victoria Harrod
 
 * Topic: Grace Hopper
-* Theme: Historical People in Computer Science
+* Theme: Historical or Present-day People in Computer Science
 
 ### Greg Narajka
 
