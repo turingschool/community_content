@@ -7,7 +7,7 @@ Kate Lane, Zach Routhier, Alex Jensen, Victoria Harrod, Greg Narajka
 ### Kate Lane
 
 * Topic: Sonic Pi (making music on a Raspberry Pi)
-* Theme: Technology & Society?
+* Theme: Software Libraries
 
 ### Zach Routhier
 
