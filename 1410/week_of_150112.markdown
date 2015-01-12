@@ -6,8 +6,8 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Alexandra Robinson
 
-* Topic:Computer Science
-* Theme:The Cofee House: Distributed Systems
+* Topic: The CofFee House: Distributed Systems
+* Theme: Computer Science
 
 ### Bryce Holcomb
 
