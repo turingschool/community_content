@@ -21,8 +21,8 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Emily Berkeley
 
-* Topic:
-* Theme:
+* Topic: D3
+* Theme: JavaScript Architecture / Libraries
 
 ### Jeffrey Wan
 
