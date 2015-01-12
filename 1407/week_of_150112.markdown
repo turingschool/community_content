@@ -16,5 +16,5 @@ Ian Andersen, Luke Aiken, Aaron Paul Wortham
 
 ### Aaron Paul Wortham
 
-* Topic:
-* Theme:
+* Topic: Decorators using the draper gem
+* Theme: General Software Methodologies / Techniques
