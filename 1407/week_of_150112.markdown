@@ -1,6 +1,6 @@
 ## Presenters
 
-Ian Andersen
+Ian Andersen, Luke Aiken, Aaron Paul Wortham
 
 ## Topics & Themes
 
@@ -8,3 +8,13 @@ Ian Andersen
 
 * Topic: Backbone.js
 * Theme: JavaScript Architecture / Libraries
+
+### Luke Aiken
+
+* Topic:
+* Theme:
+
+### Aaron Paul Wortham
+
+* Topic:
+* Theme:
