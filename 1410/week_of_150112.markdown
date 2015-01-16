@@ -6,7 +6,7 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Alexandra Robinson
 
-* Topic: The CofFee House: Distributed Systems
+* Topic: The Coffee House: Distributed Systems
 * Theme: Computer Science
 
 ### Bryce Holcomb
@@ -26,5 +26,5 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Jeffrey Wan
 
-* Topic: Programming as Art 
+* Topic: Programming as Art
 * Theme: Technology & Society
