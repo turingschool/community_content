@@ -21,8 +21,8 @@ Kit Pearson, Laura Whalin, Lydia Shafer, Nathan Owsiany, Rich Shea, Scott Crawfo
 
 ### Nathan Owsiany
 
-* Topic:
-* Theme:
+* Topic: Tor: Virtual Anonymity
+* Theme: Computer Science
 
 ### Rich Shea
 
