@@ -6,8 +6,8 @@ Kit Pearson, Laura Whalin, Lydia Shafer, Nathan Owsiany, Rich Shea, Scott Crawfo
 
 ### Kit Pearson
 
-* Topic:
-* Theme:
+* Topic: NAND to Tetris
+* Theme: Computer Science
 
 ### Laura Whalin
 
