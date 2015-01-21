@@ -11,8 +11,8 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Glen Egbert
 
-* Topic:
-* Theme:
+* Topic:React
+* Theme:Software Libraries
 
 ### Kavita Sachdeva
 
