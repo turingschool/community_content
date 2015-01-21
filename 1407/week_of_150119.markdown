@@ -6,13 +6,13 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Rolando Navarrete
 
-* Topic: native advertising
-* Theme: tech and society
+* Topic: Native Advertising
+* Theme: Technology & Ethics
 
 ### Glen Egbert
 
 * Topic: React.js
-* Theme: SJavaScript Architecture / Libraries
+* Theme: JavaScript Architecture / Libraries
 
 ### Kavita Sachdeva
 
