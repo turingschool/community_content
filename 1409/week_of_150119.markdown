@@ -16,7 +16,7 @@ Chandra Carney, Herbert Joseph, Danny Glunz, Tim Mee
 
 ### Danny Glunz
 
-* Topic: Sudoku With Genetic Algorithms
+* Topic: Sudoku with Genetic Algorithms
 * Theme: Computer Science
 
 ### Tim Mee
