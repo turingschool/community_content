@@ -31,5 +31,5 @@ Kit Pearson, Laura Whalin, Lydia Shafer, Nathan Owsiany, Rich Shea, Scott Crawfo
 
 ### Scott Crawford
 
-* Topic: Computer Hardware
-* Theme: Tracking and Preventing a Stolen Computer
+* Topic: Tracking and Preventing a Stolen Computer
+* Theme: Computer Hardware
