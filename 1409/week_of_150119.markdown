@@ -21,5 +21,5 @@ Chandra Carney, Herbert Joseph, Danny Glunz, Tim Mee
 
 ### Tim Mee
 
-* Topic:
-* Theme:
+* Topic: Navigating Nokogiri:XML with xpath
+* Theme:Programming Languages
