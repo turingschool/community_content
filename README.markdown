@@ -30,6 +30,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Software Testing
 * Technology & Law
 * Technology & Society
+* Technology & Ethics
 
 ## Schedule
 
