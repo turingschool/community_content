@@ -11,8 +11,8 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Glen Egbert
 
-* Topic:React
-* Theme:Software Libraries
+* Topic: React.js
+* Theme: SJavaScript Architecture / Libraries
 
 ### Kavita Sachdeva
 
