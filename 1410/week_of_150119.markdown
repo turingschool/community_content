@@ -16,8 +16,8 @@ Kit Pearson, Laura Whalin, Lydia Shafer, Nathan Owsiany, Rich Shea, Scott Crawfo
 
 ### Lydia Shafer
 
-* Topic:ble beacons
-* Theme:Ruby 
+* Topic: Ble Beacons
+* Theme: Computer Hardware
 
 ### Nathan Owsiany
 
