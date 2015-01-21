@@ -16,5 +16,5 @@ Rolando Navarrete, Glen Egbert, Kavita Sachdeva
 
 ### Kavita Sachdeva
 
-* Topic:
-* Theme: 
+* Topic: Betty Holberton
+* Theme: Historical or Present-day People in Computer Science
