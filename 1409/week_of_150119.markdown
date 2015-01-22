@@ -11,8 +11,8 @@ Chandra Carney, Herbert Joseph, Danny Glunz, Tim Mee
 
 ### Herbert Joseph
 
-* Topic:
-* Theme:
+* Topic: SASS
+* Theme: Front End Development
 
 ### Danny Glunz
 
