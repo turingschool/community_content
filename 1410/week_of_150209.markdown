@@ -1,6 +1,6 @@
 ## Presenters
 
-Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao
+Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Adam Smith
 
 ## Topics & Themes
 
@@ -23,3 +23,8 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao
 
 * Topic:
 * Theme:
+
+### Adam Smith
+
+* Topic: The Haskell Programming Language
+* Theme: Programming Languages
