@@ -21,5 +21,5 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao
 
 ### Michael Dao
 
-* Topic:
-* Theme:
+* Topic: Software Disasters
+* Theme: Computer Science
