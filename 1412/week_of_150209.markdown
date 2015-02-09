@@ -11,8 +11,8 @@ Miriam Moser, Kyra Steenbock, Jeffrey Gu, Paul Grever
 
 ### Kyra Weber
 
-* Topic:
-* Theme:
+* Topic:Compass
+* Theme:Front end development
 
 ### Jeffrey Gu
 
