@@ -24,6 +24,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * General Software Methodologies / Techniques
 * Historical or Present-day People in Computer Science
 * JavaScript Architecture / Libraries
+* Programming & Science
 * Programming Languages
 * Ruby Architecture / Libraries
 * Software Libraries
