@@ -16,8 +16,8 @@ David Bayendor, Travis Yoder, Sam Kuhlmann, Greg Narajka
 
 ### Sam Kuhlmann
 
-* Topic:
-* Theme:
+* Topic: Web Audio API - Making Music in the Browser
+* Theme: Software Libraries
 
 ### Greg Narajka
 
