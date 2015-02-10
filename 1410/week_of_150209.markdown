@@ -11,8 +11,8 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Adam Smith
 
 ### Bhargavi Satpathy
 
-* Topic:
-* Theme:
+* Topic: Evolutionary Analysis in Bioinformatics
+* Theme: Programming & Science
 
 ### Krista Nelson
 
