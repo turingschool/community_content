@@ -11,8 +11,8 @@ David Bayendor, Travis Yoder, Sam Kuhlmann, Greg Narajka
 
 ### Travis Yoder
 
-* Topic:
-* Theme:
+* Topic: Operating on Ruby Operators
+* Theme: Ruby Architecture / Libraries
 
 ### Sam Kuhlmann
 
