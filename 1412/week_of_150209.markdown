@@ -21,5 +21,5 @@ Miriam Moser, Kyra Steenbock, Jeffrey Gu, Paul Grever
 
 ### Paul Grever
 
-* Topic: Devops
-* Theme: Running a Productive Scrum
+* Topic: Running a Productive Scrum
+* Theme: General Software Methodologies / Techniques
