@@ -18,6 +18,9 @@ Miriam Moser, Kyra Steenbock, Jeffrey Gu, Paul Grever
 
 * Topic: ENIAC
 * Theme: Computer Hardware 
+* Outline:
+*   2 mins: Discuss components, history, purpose
+*   3 mins: Demo simulation of calculations (a thesis student made a fancy java applet)
 
 ### Paul Grever
 
