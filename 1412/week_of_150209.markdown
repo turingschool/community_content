@@ -11,7 +11,7 @@ Miriam Moser, Kyra Steenbock, Jeffrey Gu, Paul Grever
 
 ### Kyra Weber
 
-* Topic: Compass
+* Topic: Bourbon
 * Theme: Front End Development
 
 ### Jeffrey Gu
