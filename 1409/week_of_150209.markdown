@@ -6,8 +6,8 @@ David Bayendor, Travis Yoder, Sam Kuhlmann, Greg Narajka
 
 ### David Bayendor
 
-* Topic:
-* Theme:
+* Topic: Dot files, and how to use them for your greater good
+* Theme: Dev Ops
 
 ### Travis Yoder
 
