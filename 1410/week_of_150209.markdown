@@ -6,8 +6,8 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Adam Smith
 
 ### Brandon Mrsny
 
-* Topic:
-* Theme:
+* Topic: Chrome Dev Tools -> Debugger
+* Theme: Front End Development
 
 ### Bhargavi Satpathy
 
