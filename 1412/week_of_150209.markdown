@@ -1,25 +1,25 @@
 ## Presenters
 
-Miriam Moser, Kyra Steenbock, Jeffrey Gu, Paul Grever
+Markus Olsen, Fred Block, Stanley Siudzinski, Valentino Espinoza
 
 ## Topics & Themes
 
-### Miriam Moser
+### Markus Olsen
 
-* Topic: Accessibility
-* Theme: Design / User Experience
+* Topic:
+* Theme:
 
-### Kyra Steenbock
+### Fred Block
 
-* Topic: Bourbon
-* Theme: Front End Development
+* Topic:
+* Theme:
 
-### Jeffrey Gu
+### Stanley Siudzinski
 
-* Topic: ENIAC
-* Theme: Computer Hardware 
+* Topic:
+* Theme:
 
-### Paul Grever
+### Valentino Espinoza
 
-* Topic: Running a Productive Scrum
-* Theme: General Software Methodologies / Techniques
+* Topic:
+* Theme: 
