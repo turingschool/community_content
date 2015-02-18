@@ -6,8 +6,8 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Alexandra Robinson
 
-* Topic: The evolution of the military exoskeleton
-* Theme:Technology and Society
+* Topic: The Evolution of the Military Exoskeleton
+* Theme: Technology & Society
 
 ### Bryce Holcomb
 
@@ -16,13 +16,13 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Chris Luhring
 
-* Topic: leaflet.js
+* Topic: Leaflet 
 * Theme: JavaScript Architecture / Libraries
 
 ### Emily Berkeley
 
 * Topic: Karen Spärck Jones
-* Theme: Historical Figure
+* Theme: Historical or Present-day People in Computer Science 
 
 ### Jeffrey Wan
 

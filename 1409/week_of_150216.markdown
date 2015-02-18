@@ -21,5 +21,5 @@ Victoria Harrod, Chandra Carney, Zachary Routhier, Alex Jensen
 
 ### Alex Jensen
 
-* Topic: Created randomly and algorithmically generated art and patterns
+* Topic: Created Randomly and Algorithmically Generated Art and Patterns
 * Theme: Computer Science
