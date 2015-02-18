@@ -16,8 +16,8 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Chris Luhring
 
-* Topic:
-* Theme:
+* Topic: leaflet.js
+* Theme: JavaScript Architecture / Libraries
 
 ### Emily Berkeley
 
