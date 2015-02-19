@@ -24,6 +24,11 @@ Kit Pearson, Laura Whalin, Lydia Shafer, Nathan Owsiany, Rich Shea, Scott Crawfo
 * Topic: Tor: Virtual Anonymity
 * Theme: Computer Science
 
+### Jeffrey Wan
+
+*Topic: What makes you happy in programming?
+Theme: Psychology, philosophy, programming and YOU
+
 ### Rich Shea
 
 * Topic: Nanotechnology
