@@ -16,10 +16,10 @@ Markus Olsen, Fred Block, Stanley Siudzinski, Valentino Espinoza
 
 ### Stanley Siudzinski
 
-* Topic:
-* Theme:
+* Theme: The Mind of Musically Gifted Programmers
+* Theme: Technology & Society
 
 ### Valentino Espinoza
 
-* Topic: What rooting an android phone does
+* Topic: What Rooting an Android Phone does
 * Theme: Computer Hardware

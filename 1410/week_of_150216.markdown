@@ -16,15 +16,15 @@ Alexandra Robinson, Bryce Holcomb, Chris Luhring, Emily Berkeley, Jeffrey Wan
 
 ### Chris Luhring
 
-* Topic: Leaflet 
+* Topic: Leaflet
 * Theme: JavaScript Architecture / Libraries
 
 ### Emily Berkeley
 
 * Topic: Karen Spärck Jones
-* Theme: Historical or Present-day People in Computer Science 
+* Theme: Historical or Present-day People in Computer Science
 
 ### Jeffrey Wan
 
-* Topic:
-* Theme:
+* Topic: What Makes you Happy in Programming?
+* Theme: General Software Methodologies / Techniques
