@@ -11,15 +11,15 @@ Markus Olsen, Fred Block, Stanley Siudzinski, Valentino Espinoza
 
 ### Fred Block
 
-* Topic: Search Inside Yourself. The Unexpected Path to Achieving Success, Happiness (and World Peace).
-* Theme: Technology & Society
-
-### Stanley Siudzinski
-
 * Topic:
 * Theme:
 
+### Stanley Siudzinski
+
+* Topic: The Mind of Musically Gifted Programmers
+* Theme: Technology & Society
+
 ### Valentino Espinoza
 
-* Topic: What rooting an android phone does
-* Theme: Computer Hardware
+* Topic:
+* Theme: 
