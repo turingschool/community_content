@@ -6,8 +6,8 @@ Kate Lane, Timothy Mee, Danny Glunz, Herbert Joseph
 
 ### Kate Lane
 
-* Topic:
-* Theme:
+* Topic: Breaking the Grid
+* Theme: Frontend Development
 
 ### Timothy Mee
 
