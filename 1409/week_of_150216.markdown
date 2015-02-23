@@ -16,8 +16,8 @@ Victoria Harrod, Chandra Carney, Zachary Routhier, Alex Jensen
 
 ### Zachary Routhier
 
-* Topic:
-* Theme:
+* Topic: Writing and Reading Documentation
+* Theme: General Software Methodologies / Techniques
 
 ### Alex Jensen
 
