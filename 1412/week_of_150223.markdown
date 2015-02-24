@@ -12,7 +12,7 @@ Teresa Finn, DJ Greenfield, Trey Tomlinson
 ### DJ Greenfield
 
 * Topic: Portrait of a Language as a Young Program
-* Theme:  Programming Languages
+* Theme: Programming Languages
 
 ### Trey Tomlinson
 
