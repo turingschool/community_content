@@ -11,8 +11,8 @@ Kate Lane, Timothy Mee, Danny Glunz, Herbert Joseph
 
 ### Timothy Mee
 
-* Topic: who is John Backus?
-* Theme: the history of computer people
+* Topic: Who Is John Backus?
+* Theme: Historical or Present-day People in Computer Science
 
 ### Danny Glunz
 
