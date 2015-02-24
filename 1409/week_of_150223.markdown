@@ -21,5 +21,5 @@ Kate Lane, Timothy Mee, Danny Glunz, Herbert Joseph
 
 ### Herbert Joseph
 
-* Topic:
-* Theme:
+* Topic: Working with APIs
+* Theme: Cause I like APIs
