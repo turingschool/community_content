@@ -6,8 +6,8 @@ Teresa Finn, DJ Greenfield, Trey Tomlinson
 
 ### Teresa Finn
 
-* Topic: gardening and technology
-* Theme: tech and society
+* Topic: Gardening & Technology
+* Theme: Technology & Society
 
 ### DJ Greenfield
 
@@ -16,5 +16,5 @@ Teresa Finn, DJ Greenfield, Trey Tomlinson
 
 ### Trey Tomlinson
 
-* Topic: LAME mp3
+* Topic: LAME MP3
 * Theme: Computer Science
