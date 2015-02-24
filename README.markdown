@@ -32,6 +32,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Technology & Law
 * Technology & Society
 * Technology & Ethics
+* Web Technologies
 
 ## Schedule
 
