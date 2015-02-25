@@ -16,5 +16,5 @@ Laura Whalin, Lydia Shafer, Nathan Owsiany
 
 ### Nathan Owsiany
 
-* Topic:
-* Theme:
+* Topic: Ruby Microframeworks
+* Theme: Ruby Architecture & Libraries
