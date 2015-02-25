@@ -1,6 +1,6 @@
 ## Presenters
 
-Kate Lane, Timothy Mee, Danny Glunz, Herbert Joseph
+Kate Lane, Timothy Mee, Herbert Joseph
 
 ## Topics & Themes
 
@@ -13,11 +13,6 @@ Kate Lane, Timothy Mee, Danny Glunz, Herbert Joseph
 
 * Topic: Who Is John Backus?
 * Theme: Historical or Present-day People in Computer Science
-
-### Danny Glunz
-
-* Topic:
-* Theme:
 
 ### Herbert Joseph
 
