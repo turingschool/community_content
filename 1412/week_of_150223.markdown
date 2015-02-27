@@ -16,5 +16,5 @@ Teresa Finn, DJ Greenfield, Trey Tomlinson
 
 ### Trey Tomlinson
 
-* Topic: LAME MP3
+* Topic: Audio Codecs
 * Theme: Computer Science
