@@ -1,20 +1,10 @@
 ## Presenters
 
-Kate Lane, Timothy Mee, Herbert Joseph
+Timothy Mee
 
 ## Topics & Themes
-
-### Kate Lane
-
-* Topic: Breaking the Grid
-* Theme: Front End Development
 
 ### Timothy Mee
 
 * Topic: Who Is John Backus?
 * Theme: Historical or Present-day People in Computer Science
-
-### Herbert Joseph
-
-* Topic: Working with APIs
-* Theme: Web Technologies

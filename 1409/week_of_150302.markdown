@@ -1,0 +1,15 @@
+## Presenters
+
+Kate Lane, Herbert Joseph
+
+## Topics & Themes
+
+### Kate Lane
+
+* Topic: Breaking the Grid
+* Theme: Front End Development
+
+### Herbert Joseph
+
+* Topic: Working with APIs
+* Theme: Web Technologies
