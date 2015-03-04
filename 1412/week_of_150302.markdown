@@ -11,5 +11,5 @@ Teresa Finn, Austin Wood
 
 ### Austin Wood
 
-* Topic:
-* Theme:
+* Topic: How to Homebrew
+* Theme: General Software Methodologies / Techniques
