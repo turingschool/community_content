@@ -11,8 +11,8 @@ Kit Pearson, Rich Shea, Scott Crawford
 
 ### Rich Shea
 
-* Topic:
-* Theme:
+* Topic:  Pair Programming - The truth
+* Theme:  General Software Methodologies / Techniques
 
 ### Scott Crawford
 
