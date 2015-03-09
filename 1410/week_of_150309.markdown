@@ -1,0 +1,20 @@
+## Presenters
+
+Rich Shea, Orion Osborn, Konr Josef Larson
+
+## Topics & Themes
+
+### Rich Shea
+
+* Topic: Pair Programming - The Truth
+* Theme: General Software Methodologies / Techniques
+
+### Orion Osborn
+
+* Topic:
+* Theme:
+
+### Konr Josef Larson
+
+* Topic:
+* Theme: 
