@@ -1,6 +1,6 @@
 ## Presenters
 
-Rich Shea, Orion Osborn, Konr Josef Larson
+Rich Shea, Orion Osborn
 
 ## Topics & Themes
 
@@ -13,8 +13,3 @@ Rich Shea, Orion Osborn, Konr Josef Larson
 
 * Topic:
 * Theme:
-
-### Konr Josef Larson
-
-* Topic:
-* Theme: 
