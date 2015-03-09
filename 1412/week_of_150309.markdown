@@ -11,8 +11,8 @@ Dustin Gault, Edward McCarthy, Lori Culberson
 
 ### Edward McCarthy
 
-* Topic:
-* Theme:
+* Topic: History of Ruby on Rails
+* Theme: The development, motivations and early iterations behind Ruby on Rails
 
 ### Lori Culberson
 
