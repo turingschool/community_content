@@ -16,5 +16,5 @@ Dustin Gault, Edward McCarthy, Lori Culberson
 
 ### Lori Culberson
 
-* Topic:
-* Theme:
+* Topic: Randy Pauch
+* Theme: Historical or Present-day People in Computer Science
