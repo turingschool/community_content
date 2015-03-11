@@ -7,9 +7,9 @@ Rich Shea, Orion Osborn
 ### Rich Shea
 
 * Topic: Implantable Technologies
-* Theme: General Software Methodologies / Techniques
+* Theme: Technology & Ethics
 
 ### Orion Osborn
 
 * Topic: Technology and the Future of Employment
-* Theme: Technology and Ethics/Society
+* Theme: Technology & Society

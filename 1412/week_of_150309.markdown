@@ -7,14 +7,14 @@ Dustin Gault, Edward McCarthy, Lori Culberson
 ### Dustin Gault
 
 * Topic: The Antikythera Mechanism, the First Analog Computer
-* Theme: Technology & Society
+* Theme: Computer Science
 
 ### Edward McCarthy
 
 * Topic: History of Ruby on Rails
-* Theme: The development, motivations and early iterations behind Ruby on Rails
+* Theme: Ruby Architecture / Libraries
 
 ### Lori Culberson
 
 * Topic: Tech in Sports
-* Theme:Technology & Society
+* Theme: Technology & Society
