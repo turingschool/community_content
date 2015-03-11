@@ -11,8 +11,8 @@ Dustin Gault, Edward McCarthy, Lori Culberson
 
 ### Edward McCarthy
 
-* Topic: History of Ruby on Rails
-* Theme: Ruby Architecture / Libraries
+* Topic: Anonymous and Tech
+* Theme: History/Philosphy, Public Policy Implications, Foreign Interference
 
 ### Lori Culberson
 
