@@ -16,5 +16,5 @@ Dustin Gault, Edward McCarthy, Lori Culberson
 
 ### Lori Culberson
 
-* Topic: Tech in Sports
-* Theme: Technology & Society
+* Topic: Randy Pauch
+* Theme: Historical or Present-day People in Computer Science
