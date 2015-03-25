@@ -23,7 +23,7 @@
 
 **Week of 4/13**
 
-* Michael Dao: 
+* Michael Dao: State Machines
 * Kit Pearson: 
 * Orion Osborn: 
 * Rich Shea: 
