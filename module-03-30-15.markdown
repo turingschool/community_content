@@ -1,7 +1,8 @@
 **Week of 3/30**
 
 * Laura Whalin: 
-* Jeffrey Wan: 
+* Jeffrey Wan: Programming & the Arts
+*              Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first.
 * Bryce Holcomb: 
 * Konr Larson: 
 * Austin Wood: 
