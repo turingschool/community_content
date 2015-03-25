@@ -49,7 +49,7 @@
 
 * Scott Crawford:
 * Alexandra Robinson:
-* Adam Smith:
+* Adam Smith: Mindfulness to Deal with Programming Caused Stress.  https://gist.github.com/AdamSmith910/4b71e7d66b5ba83dc427
 * Teresa Finn:
 * Stanley Siudzinski:
 * DJ Greenfield:
