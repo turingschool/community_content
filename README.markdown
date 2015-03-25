@@ -15,8 +15,9 @@ During the week of your lighting talk, the schedule will be as follows:
 
 ## Topics & Themes
 
-* **Module 2 students**: Your topic can either be tech-related OR related to your background before coming to Turing.
-* **Module 3 and 4 students**: Your topic should fit into one of the themes below:
+**Module 2 students**: Your topic can either be tech-related OR related to your background before coming to Turing.
+
+**Module 3 and 4 students**: Your topic should fit into one of the themes below:
 
 * Computer Hardware
 * Computer Science
