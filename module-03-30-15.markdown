@@ -4,10 +4,8 @@
 * Jeffrey Wan: 
 * Bryce Holcomb: 
 * Konr Larson: 
-
 * Austin Wood: 
 * Dustin Gault: 
-
 * Jack Yeh: 
 * Andrew Carmer: 
 
@@ -17,10 +15,8 @@
 * Nathan Owsiany: 
 * Emily Berkeley: 
 * Bhargavi Satpathy: 
-
 * Jeffrey Gu: 
 * Lori Culberson: 
-
 * Kenny Chen: 
 * Tony DiNitto: 
 * Michelle Golle: 
@@ -30,11 +26,9 @@
 * Michael Dao: 
 * Kit Pearson: 
 * Orion Osborn: 
-
 * Rich Shea: 
 * Paul Grever: 
 * Edward McCarthy: 
-
 * Kristina Brown: 
 * Thomas Leskin: 
 * David Daniel: 
@@ -44,11 +38,9 @@
 * Lydia Shafer: 
 * Krista Nelson: 
 * Brandon Mrsny: 
-
 * Trey Tomlinson: 
 * Tino Espinoza: 
 * Fred Block: 
-
 * Patrick Medaugh: 
 * Kyle Henson: 
 * Eric Dowty: 
@@ -58,11 +50,9 @@
 * Scott Crawford: 
 * Alexandra Robinson: 
 * Adam Smith: 
-
 * Teresa Finn: 
 * Stanley Siudzinski: 
 * DJ Greenfield: 
-
 * Tyler Graham: 
 * Tracy Caruso: 
 * Jamie Kawahara: 
@@ -72,7 +62,6 @@
 * Markus Olsen: 
 * Miriam Moser: 
 * Kyra Weber: 
-
 * Minnie Lee: 
 * Tess Griffin: 
 * Mihir Parikh: 
