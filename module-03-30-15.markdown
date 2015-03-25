@@ -1,67 +1,67 @@
 **Week of 3/30**
 
-* Laura Whalin: 
+* Laura Whalin:
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first.
-* Bryce Holcomb: 
-* Konr Larson: 
-* Austin Wood: 
-* Dustin Gault: 
-* Jack Yeh: 
-* Andrew Carmer: 
+* Bryce Holcomb:
+* Konr Larson:
+* Austin Wood:
+* Dustin Gault:
+* Jack Yeh:
+* Andrew Carmer:
 
 **Week of 4/6**
 
-* Chris Luhring: 
-* Nathan Owsiany: 
-* Emily Berkeley: 
-* Bhargavi Satpathy: 
-* Jeffrey Gu: 
-* Lori Culberson: 
-* Kenny Chen: 
-* Tony DiNitto: 
-* Michelle Golle: 
+* Chris Luhring:
+* Nathan Owsiany:
+* Emily Berkeley:
+* Bhargavi Satpathy:
+* Jeffrey Gu:
+* Lori Culberson:
+* Kenny Chen:
+* Tony DiNitto:
+* Michelle Golle:
 
 **Week of 4/13**
 
 * Michael Dao: Finite State Machines
-* Kit Pearson: 
-* Orion Osborn: 
-* Rich Shea: 
-* Paul Grever: 
-* Edward McCarthy: 
-* Kristina Brown: 
-* Thomas Leskin: 
-* David Daniel: 
+* Kit Pearson:
+* Orion Osborn:
+* Rich Shea:
+* Paul Grever:
+* Edward McCarthy:
+* Kristina Brown:
+* Thomas Leskin:
+* David Daniel:
 
 **Week of 4/20**
 
-* Lydia Shafer: 
-* Krista Nelson: 
-* Brandon Mrsny: 
-* Trey Tomlinson: 
-* Tino Espinoza: 
-* Fred Block: 
-* Patrick Medaugh: 
-* Kyle Henson: 
-* Eric Dowty: 
+* Lydia Shafer:
+* Krista Nelson:
+* Brandon Mrsny:
+* Trey Tomlinson:
+* Tino Espinoza:
+* Fred Block:
+* Patrick Medaugh:
+* Kyle Henson:
+* Eric Dowty:
 
 **Week of 4/27**
 
-* Scott Crawford: 
-* Alexandra Robinson: 
-* Adam Smith: 
-* Teresa Finn: 
-* Stanley Siudzinski: 
-* DJ Greenfield: 
-* Tyler Graham: 
-* Tracy Caruso: 
-* Jamie Kawahara: 
+* Scott Crawford:
+* Alexandra Robinson:
+* Adam Smith:
+* Teresa Finn:
+* Stanley Siudzinski:
+* DJ Greenfield:
+* Tyler Graham:
+* Tracy Caruso: How to keep browser inconsistencies from ruining your life.
+* Jamie Kawahara:
 
 **Week of 5/4**
 
-* Markus Olsen: 
+* Markus Olsen:
 * Miriam Moser: Fun with Paper.js
 * Kyra Weber: Creative Control vs Usability
-* Minnie Lee: 
-* Tess Griffin: 
-* Mihir Parikh: 
+* Minnie Lee:
+* Tess Griffin:
+* Mihir Parikh:
