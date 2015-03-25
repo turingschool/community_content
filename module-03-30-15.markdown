@@ -1,7 +1,7 @@
 **Week of 3/30**
 
 * Laura Whalin: 
-* Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first.
+* Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Bryce Holcomb: 
 * Konr Larson: 
 * Austin Wood: 
@@ -23,7 +23,7 @@
 
 **Week of 4/13**
 
-* Michael Dao: 
+* Michael Dao: Finite State Machines
 * Kit Pearson: 
 * Orion Osborn: 
 * Rich Shea: 
@@ -38,7 +38,7 @@
 * Lydia Shafer: 
 * Krista Nelson: 
 * Brandon Mrsny: 
-* Trey Tomlinson: 
+* Trey Tomlinson: Golden Shield Project - The Great Firewall of China
 * Tino Espinoza: 
 * Fred Block: 
 * Patrick Medaugh: 
@@ -61,7 +61,7 @@
 
 * Markus Olsen: 
 * Miriam Moser: Fun with Paper.js
-* Kyra Weber: 
+* Kyra Weber: Creative Control vs Usability
 * Minnie Lee: 
 * Tess Griffin: 
 * Mihir Parikh: 
