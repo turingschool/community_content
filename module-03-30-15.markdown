@@ -54,7 +54,7 @@
 * Stanley Siudzinski: 
 * DJ Greenfield: 
 * Tyler Graham: 
-* Tracy Caruso: 
+* Tracy Caruso: How to keep browser inconsistencies from ruining your life.
 * Jamie Kawahara: 
 
 **Week of 5/4**
