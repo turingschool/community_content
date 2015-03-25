@@ -15,9 +15,8 @@ During the week of your lighting talk, the schedule will be as follows:
 
 ## Topics & Themes
 
-Students in module 2 have the option to give a lightning talk on either a tech-related topic OR a topic related to the student's background before coming to Turing. 
-
-Students in modules 3 and 4 will choose topics that fit into one of the themes below:
+* **Module 2 students**: Your topic can either be tech-related OR related to your background before coming to Turing.
+* **Module 3 and 4 students**: Your topic should fit into one of the themes below:
 
 * Computer Hardware
 * Computer Science
