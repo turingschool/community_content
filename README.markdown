@@ -1,20 +1,22 @@
 ## Overview
 
-Each six-week class each student will give one five-minute lightning talk.
+Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation should take approximately 3-6 hours. 
 
-## Expectations
+## Schedule
 
-The week of their lightning talk, a student will:
+During intermission week, submit a pull request for that module's markdown file and add your topic. Topic choices will be first-come, first-served. 
 
-* attend all prep sessions
-* come prepared to those sessions with the needed content
-* spend 3-6 hours, in total, preparing their presentation
-* deliver the presentation in front of their class and other students
-* take care to promote a welcoming environment for all students regardless of their age, gender, socio-economic background, religious beliefs, or sexual orientation
+During the week of your lighting talk, the schedule will be as follows:
+
+* Tuesday: Submit your outline as a gist in the `#lighting-talks` Slack channel **before 4pm**. Please don't make us hunt you down!
+* Wednesday: Draft slides and/or content for presentation. You do not need to submit anything.
+* Thursday: Rehearsal in Classroom C from 4:00 - 5:30pm. Come ready to present your slides and/or content. Attendance is mandatory.
 
 ## Topics & Themes
 
-Students will work with the facilitator to select their topic and prepare the presentation. Topics should fit into one of the themes below. Each week there may only be *two* talks per theme, but not all themes will be used.
+Students in module 2 have the option to give a lightning talk on either a tech-related topic OR a topic related to the student's background before coming to Turing. 
+
+Students in modules 3 and 4 will choose topics that fit into one of the themes below:
 
 * Computer Hardware
 * Computer Science
@@ -25,6 +27,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Historical or Present-day People in Computer Science
 * JavaScript Architecture / Libraries
 * Programming & Science
+* Programming & the Arts
 * Programming Languages
 * Ruby Architecture / Libraries
 * Software Libraries
@@ -34,14 +37,7 @@ Students will work with the facilitator to select their topic and prepare the pr
 * Technology & Ethics
 * Web Technologies
 
-## Schedule
-
-All prep sessions take place at 4:05PM.
-
-* Monday: Establishing topics
-* Tuesday: Outline
-* Wednesday: Draft slides & content
-* Thursday: Rehearsal
+When considering the content of your presentation, take care to promote a welcoming environment for all students regardless of their age, gender, socio-economic background, religious beliefs, or sexual orientation. 
 
 ## Picking a Topic
 
