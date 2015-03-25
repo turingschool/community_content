@@ -46,3 +46,13 @@ When considering the content of your presentation, take care to promote a welcom
 * A talk needs to teach something of value to the audience.
 * A talk needs to be at an appropriate level for the audience, not too basic and not too advanced.
 * A talk needs to have a *message*, not just a subject. "Introduction to RSpec" is boring, "Why You Should Use RSpec" has a message.
+
+Examples of Previous Topics: 
+
+* Using Computer Science to manipulate OKCupid
+* When Pairing Goes Wrong
+* How to Survive the Titanic with Machine Learning
+* The TDD Holy War
+* Is Elegant Ruby Fast?
+* Genetic Algorithms with Ruby Processing
+* Ancient Cryptography
