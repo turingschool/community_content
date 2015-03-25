@@ -8,9 +8,10 @@ During intermission week, submit a pull request for that module's markdown file 
 
 During the week of your lighting talk, the schedule will be as follows:
 
-* Tuesday: Submit your outline as a gist in the `#lighting-talks` Slack channel **before 4pm**. Please don't make us hunt you down!
-* Wednesday: Draft slides and/or content for presentation. You do not need to submit anything.
-* Thursday: Rehearsal in Classroom C from 4:00 - 5:30pm. Come ready to present your slides and/or content. Attendance is mandatory.
+* **Tuesday**: Submit your outline as a gist in the `#lighting-talks` Slack channel **before 4pm**. Please don't make us hunt you down!
+* **Wednesday**: Draft slides and/or content for presentation. You do not need to submit anything.
+* **Thursday**: Rehearsal in Classroom C from 4:00 - 5:30pm. Come ready to present your slides and/or content. Attendance is mandatory.
+* **Friday**: Present your 5-minute talk for your Turing peers. 
 
 ## Topics & Themes
 
