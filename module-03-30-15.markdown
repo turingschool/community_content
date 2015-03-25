@@ -51,7 +51,7 @@
 * Alexandra Robinson:
 * Adam Smith:
 * Teresa Finn:
-* Stanley Siudzinski:
+* Stanley Siudzinski: Computer Hardware - How GPUs Are Changing The Computing Game
 * DJ Greenfield:
 * Tyler Graham:
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
