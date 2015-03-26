@@ -27,7 +27,7 @@
 * Kit Pearson:
 * Orion Osborn:
 * Rich Shea:
-* Paul Grever:
+* Paul Grever: Native vs Mobile Web Applications  
 * Edward McCarthy:
 * Kristina Brown:
 * Thomas Leskin:
