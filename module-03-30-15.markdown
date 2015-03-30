@@ -6,7 +6,7 @@
 * Konr Larson:
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
 * Dustin Gault:
-* Jack Yeh:
+* Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
 * Andrew Carmer: Names: Remember them to be remembered.
 * DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags https://gist.github.com/AllPurposeName/02cfbd76b8ec0382ca49
 * 
