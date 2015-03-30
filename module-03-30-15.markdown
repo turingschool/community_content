@@ -7,8 +7,9 @@
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
 * Dustin Gault:
 * Jack Yeh:
-* Andrew Carmer: Names: Remember them to be remembered. 
-
+* Andrew Carmer: Names: Remember them to be remembered.
+* DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags https://gist.github.com/AllPurposeName/02cfbd76b8ec0382ca49
+* 
 **Week of 4/6**
 
 * Chris Luhring:
