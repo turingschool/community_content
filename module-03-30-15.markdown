@@ -62,6 +62,6 @@
 * Markus Olsen:
 * Miriam Moser: Fun with Paper.js
 * Kyra Weber: Creative Control vs Usability
-* Minnie Lee:
+* Minnie Lee: How Music Affects Your Productivity
 * Tess Griffin:
 * Mihir Parikh:
