@@ -3,7 +3,7 @@
 * Laura Whalin: Navigating from Ruby to Javascript along the JSON Hwy with Google Maps
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Bryce Holcomb: Web Apps at Scale: From Seed Data to Millions of Users
-* Konr Larson:
+* Konr Larson: 3d Printing HUMANS
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
 * Dustin Gault: The Dark Web: an exploration of unsearchable URLs
 * Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
