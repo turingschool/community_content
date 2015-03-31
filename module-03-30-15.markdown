@@ -3,11 +3,10 @@
 * Laura Whalin: Mad About Hashes: Beginner's Guide to Ruby Hashes https://gist.github.com/laurawhalin/f677194114ac1073ce4d
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Bryce Holcomb: Streaming APIs: Surviving the Firehose https://gist.github.com/bryceholcomb/41e09438f2309f019ca6
-* Konr Larson: 3d Printing HUMANS
-* https://gist.github.com/larsonkonr/33e86f55ea12add4a2b9
+* Konr Larson: 3d Printing HUMANS https://gist.github.com/larsonkonr/33e86f55ea12add4a2b9
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
 * Dustin Gault: The Dark Web: an exploration of unsearchable URLs: https://gist.github.com/DSynergy/842b694bf60783cc29c3
-* Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
+* Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures. https://gist.github.com/jxandery/c445aaa414f62fa2b34e#
 * Andrew Carmer: Names: Remember them to be remembered. https://gist.github.com/Carmer/fd1dd4dc2dbf385a5933
 * DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags https://gist.github.com/AllPurposeName/02cfbd76b8ec0382ca49
 
