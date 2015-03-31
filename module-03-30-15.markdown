@@ -9,7 +9,7 @@
 * Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
 * Andrew Carmer: Names: Remember them to be remembered.
 * DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags https://gist.github.com/AllPurposeName/02cfbd76b8ec0382ca49
-* 
+*
 **Week of 4/6**
 
 * Chris Luhring:
@@ -20,7 +20,7 @@
 * Lori Culberson:
 * Kenny Chen:
 * Tony DiNitto:
-* Michelle Golle:
+* Michelle Golle: Contributions of James Golick to the Ruby community
 
 **Week of 4/13**
 
