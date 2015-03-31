@@ -5,7 +5,7 @@
 * Bryce Holcomb: Web Apps at Scale: From Seed Data to Millions of Users https://gist.github.com/bryceholcomb/9b5f5dd8606370fa6697
 * Konr Larson: 3d Printing HUMANS
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
-* Dustin Gault: The Dark Web: an exploration of unsearchable URLs
+* Dustin Gault: The Dark Web: an exploration of unsearchable URLs: https://gist.github.com/DSynergy/842b694bf60783cc29c3
 * Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
 * Andrew Carmer: Names: Remember them to be remembered. https://gist.github.com/Carmer/fd1dd4dc2dbf385a5933
 * DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags https://gist.github.com/AllPurposeName/02cfbd76b8ec0382ca49
