@@ -1,6 +1,6 @@
 **Week of 3/30**
 
-* Laura Whalin: Navigating from Ruby to Javascript along the JSON Hwy with Google Maps
+* Laura Whalin: Mad About Hashes: Beginner's Guide to Ruby Hashes https://gist.github.com/laurawhalin/f677194114ac1073ce4d
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Bryce Holcomb: Web Apps at Scale: From Seed Data to Millions of Users https://gist.github.com/bryceholcomb/9b5f5dd8606370fa6697
 * Konr Larson: 3d Printing HUMANS
