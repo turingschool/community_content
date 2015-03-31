@@ -7,7 +7,7 @@
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
 * Dustin Gault:
 * Jack Yeh:
-* Andrew Carmer: Names: Remember them to be remembered. 
+* Andrew Carmer: Names: Remember them to be remembered. https://gist.github.com/Carmer/fd1dd4dc2dbf385a5933
 
 **Week of 4/6**
 
