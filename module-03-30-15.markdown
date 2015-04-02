@@ -1,7 +1,6 @@
 **Week of 3/30**
 
 * Laura Whalin: Mad About Hashes: Beginner's Guide to Ruby Hashes https://gist.github.com/laurawhalin/f677194114ac1073ce4d
-* Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Bryce Holcomb: Streaming APIs: Surviving the Firehose https://gist.github.com/bryceholcomb/41e09438f2309f019ca6
 * Konr Larson: 3d Printing HUMANS https://gist.github.com/larsonkonr/33e86f55ea12add4a2b9
 * Austin Wood: A Lightning Talk on Lightning Talks. https://gist.github.com/indiesquidge/12974c700d7ed7f6ff62
@@ -13,6 +12,7 @@
 
 **Week of 4/6**
 
+* Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Chris Luhring:
 * Nathan Owsiany:
 * Emily Berkeley:
