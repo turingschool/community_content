@@ -21,6 +21,7 @@
 * Lori Culberson:
 * Kenny Chen:
 * Michelle Golle: Contributions of James Golick to the Ruby community
+* Konr Larson: Human Augmentation 
 
 **Week of 4/13**
 
