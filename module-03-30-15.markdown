@@ -20,7 +20,6 @@
 * Jeffrey Gu:
 * Lori Culberson:
 * Kenny Chen:
-* Tony DiNitto:
 * Michelle Golle: Contributions of James Golick to the Ruby community
 
 **Week of 4/13**
