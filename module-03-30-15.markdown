@@ -15,7 +15,7 @@
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Chris Luhring:
 * Nathan Owsiany:
-* Emily Berkeley:
+* Emily Berkeley: Technology in Modern Agriculture
 * Bhargavi Satpathy:
 * Jeffrey Gu:
 * Lori Culberson:
