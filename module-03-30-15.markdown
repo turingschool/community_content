@@ -16,7 +16,7 @@
 * Chris Luhring:
 * Nathan Owsiany:
 * Emily Berkeley:
-* Bhargavi Satpathy:
+* Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF
 * Jeffrey Gu:
 * Lori Culberson:
 * Kenny Chen:
