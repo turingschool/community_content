@@ -17,7 +17,7 @@
 * Nathan Owsiany:
 * Emily Berkeley: Technology in Modern Agriculture
 * Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF https://gist.github.com/bhargavisatpathy/b8910a2e10b9ea45836e
-* Jeffrey Gu:
+* Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby
 * Lori Culberson:
 * Kenny Chen:
 * Michelle Golle: Contributions of James Golick to the Ruby community
