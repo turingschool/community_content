@@ -14,7 +14,7 @@
 
 * Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
 * Chris Luhring: No API, No Problem: How to find the data you need from OSM and render it using Mapbox Studio. 
-* Nathan Owsiany:
+* Nathan Owsiany: Flexible Data Storage: Polymorphism, and Serialization, and HStore, oh my!
 * Emily Berkeley: Technology in Modern Agriculture
 * Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF https://gist.github.com/bhargavisatpathy/b8910a2e10b9ea45836e
 * Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby
