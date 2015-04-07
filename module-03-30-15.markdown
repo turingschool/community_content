@@ -21,7 +21,7 @@
 * Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby https://gist.github.com/jgu2160/5f47e7cdd7e7ef6944b2
 * Lori Culberson: The Marshmallow Challenge and Effective Software Design: https://gist.github.com/loriculberson/f4f32e7ed1e51081bc6b
 * Kenny Chen: Don't Break Down on the Way - Healthy Habits
-* Michelle Golle: Contributions of James Golick to the Ruby community
+* Michelle Golle: Contributions of James Golick to the Ruby community https://gist.github.com/MichelleGolle/2e8fa44afa3223fe6049
 * Konr Larson: Human Augmentation 
 https://gist.github.com/larsonkonr/4819442692f69f01af65
 * DJ Greenfield: Technology & Society: Trollin' Ain't Easy :sunglasses:
