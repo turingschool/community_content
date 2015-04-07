@@ -24,7 +24,7 @@
 * Michelle Golle: Contributions of James Golick to the Ruby community https://gist.github.com/MichelleGolle/2e8fa44afa3223fe6049
 * Konr Larson: Human Augmentation 
 https://gist.github.com/larsonkonr/4819442692f69f01af65
-* DJ Greenfield: Technology & Society: Trollin' Ain't Easy :sunglasses:
+* DJ Greenfield: Technology & Society: Trollin' Ain't Easy :sunglasses: https://gist.github.com/AllPurposeName/1ec0a59a2bfc31648600
 
 **Week of 4/13**
 
