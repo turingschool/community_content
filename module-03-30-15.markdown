@@ -20,7 +20,7 @@
 * Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF https://gist.github.com/bhargavisatpathy/b8910a2e10b9ea45836e
 * Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby https://gist.github.com/jgu2160/5f47e7cdd7e7ef6944b2
 * Lori Culberson: The Marshmallow Challenge and Effective Software Design: https://gist.github.com/loriculberson/f4f32e7ed1e51081bc6b
-* Kenny Chen:
+* Kenny Chen: Don't Break Down on the Way - Healthy Habits
 * Michelle Golle: Contributions of James Golick to the Ruby community
 * Konr Larson: Human Augmentation 
 https://gist.github.com/larsonkonr/4819442692f69f01af65
