@@ -22,6 +22,7 @@
 * Kenny Chen:
 * Michelle Golle: Contributions of James Golick to the Ruby community
 * Konr Larson: Human Augmentation 
+https://gist.github.com/larsonkonr/4819442692f69f01af65
 * DJ Greenfield: Technology & Society: Trollin' Ain't Easy :sunglasses:
 
 **Week of 4/13**
