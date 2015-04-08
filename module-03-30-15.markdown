@@ -45,7 +45,6 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Brandon Mrsny:
 * Trey Tomlinson: Golden Shield Project - The Great Firewall of China
 * Tino Espinoza:
-* Fred Block:
 * Patrick Medaugh:
 * Kyle Henson: Who is Jim Weirich
 * Eric Dowty:
@@ -56,9 +55,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Alexandra Robinson:
 * Adam Smith: Mindfulness to Deal with Programming Caused Stress.  https://gist.github.com/AdamSmith910/4b71e7d66b5ba83dc427
 * Teresa Finn:
-* Stanley Siudzinski: Computer Hardware - How GPUs Are Changing The Computing Game
 * DJ Greenfield:
-* Tyler Graham:
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
 * Jamie Kawahara: Impostor Syndrome
 
