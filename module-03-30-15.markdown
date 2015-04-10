@@ -12,7 +12,8 @@
 
 **Week of 4/6**
 
-* Jeffrey Wan: Programming & the Arts: Wittgenstein, Syntax and Language games, and why programming syntax is hard to follow at first. https://gist.github.com/Jwan622/a409f9bd0e8264dde370
+* Jeffrey Wan: How to Catch a Poker Predator with data-mining. 
+* https://gist.github.com/Jwan622/9ff4af2970e4b99c2df8
 * Chris Luhring: No API, No Problem: How to find the data you need from OSM and render it using Mapbox Studio. 
 * https://gist.github.com/cluhring/78a336625a9499d0385b
 * Nathan Owsiany: Flexible Data Storage: Polymorphism, and Serialization, and HStore, oh my! https://gist.github.com/ndwhtlssthr/5978f404bfac6b54d8ab
