@@ -30,7 +30,6 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 **Week of 4/13**
 
 * Michael Dao: Finite State Machines
-* Kit Pearson:
 * Orion Osborn: Why you should write more methods that take blocks
 * Rich Shea:
 * Paul Grever: Native vs Mobile Web Applications  
@@ -59,6 +58,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * DJ Greenfield:
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
 * Jamie Kawahara: Impostor Syndrome
+* Kit Pearson:
 
 **Week of 5/4**
 
