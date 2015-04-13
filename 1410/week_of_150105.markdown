@@ -1,4 +1,4 @@
-## Presenters
+# Presenters
 
 Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Orion Osborn
 
@@ -26,5 +26,5 @@ Brandon Mrsny, Bhargavi Satpathy, Krista Nelson, Michael Dao, Orion Osborn
 
 ### Orion Osborn
 
-* Topic: 
-* Theme: 
+* Topic: Why you should write more methods that take blocks
+* Theme: Ruby Architecture / Libraries
