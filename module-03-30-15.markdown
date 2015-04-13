@@ -31,7 +31,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 
 * Michael Dao: Finite State Machines
 * Kit Pearson:
-* Orion Osborn:
+* Orion Osborn: Why you should write more methods that take blocks
 * Rich Shea:
 * Paul Grever: Native vs Mobile Web Applications  
 * Edward McCarthy:
