@@ -37,6 +37,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Kristina Brown: Providing Great Service: The second most important skill you will learn.
 * Thomas Leskin: How to get free sh*t
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job
+* Miriam Moser: Fun with Paper.js
 
 **Week of 4/20**
 
@@ -63,7 +64,6 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 **Week of 5/4**
 
 * Markus Olsen:
-* Miriam Moser: Fun with Paper.js
 * Kyra Weber: Creative Control vs Usability
 * Minnie Lee: How Music Affects Your Productivity
 * Tess Griffin:
