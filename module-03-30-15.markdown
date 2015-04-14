@@ -37,7 +37,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Kristina Brown: Providing Great Service: The second most important skill you will learn.
 https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Thomas Leskin: How to get free sh*t
-* David Daniel: What the Staffing Industry Taught Me About Getting a Job
+* David Daniel: What the Staffing Industry Taught Me About Getting a Job https://gist.github.com/davedan7/8530f271b79272e8cff4
 * Miriam Moser: Fun with Paper.js https://github.com/mirjoy/learn_paperjs
 
 **Week of 4/20**
