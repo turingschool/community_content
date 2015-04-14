@@ -31,7 +31,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 
 * Michael Dao: Finite State Machines
 * Orion Osborn: Why you should write more methods that take blocks
-* Rich Shea:  Pair Programming: Is it worth it?
+* Rich Shea:  Pair Programming: Is it worth it? https://gist.github.com/rshea303/ddc084ef0a8be517156f
 * Paul Grever: Native vs Mobile Web Applications  - https://gist.github.com/paulgrever/a98dc20fdecf7476798a
 * Edward McCarthy: Farming/Agriculture and Open Data
 * Kristina Brown: Providing Great Service: The second most important skill you will learn.
