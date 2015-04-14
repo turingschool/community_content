@@ -38,6 +38,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Thomas Leskin: How to get free sh*t
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job
 * Miriam Moser: Fun with Paper.js
+* https://github.com/mirjoy/learn_paperjs
 
 **Week of 4/20**
 
