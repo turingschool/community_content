@@ -29,7 +29,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 
 **Week of 4/13**
 
-* Michael Dao: Finite State Machines
+* Michael Dao: Finite State Machines - https://gist.github.com/mikedao/2eb2a2da1615c6e2fb1d
 * Orion Osborn: Why you should write more methods that take blocks
 * Rich Shea:  Pair Programming: Is it worth it?
 * Paul Grever: Native vs Mobile Web Applications  
