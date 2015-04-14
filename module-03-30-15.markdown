@@ -33,7 +33,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Orion Osborn: Why you should write more methods that take blocks
 * Rich Shea:  Pair Programming: Is it worth it?
 * Paul Grever: Native vs Mobile Web Applications  
-* Edward McCarthy: Farming/Agriculture and Open Data
+* Edward McCarthy: Farming/Agriculture and Open Data: https://gist.github.com/mcshakes/14b96e7e8870cc54231f
 * Kristina Brown: Providing Great Service: The second most important skill you will learn.
 * Thomas Leskin: How to get free sh*t
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job
