@@ -35,6 +35,7 @@ https://gist.github.com/larsonkonr/4819442692f69f01af65
 * Paul Grever: Native vs Mobile Web Applications  
 * Edward McCarthy: Farming/Agriculture and Open Data
 * Kristina Brown: Providing Great Service: The second most important skill you will learn.
+https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Thomas Leskin: How to get free sh*t
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job
 * Miriam Moser: Fun with Paper.js
