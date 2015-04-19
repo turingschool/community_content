@@ -43,7 +43,7 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 **Week of 4/20**
 
 * Lydia Shafer:
-* Krista Nelson:
+* Krista Nelson: Data Structures and Algorithms for Ruby Newbies 
 * Brandon Mrsny:
 * Trey Tomlinson: Golden Shield Project - The Great Firewall of China
 * Tino Espinoza:
