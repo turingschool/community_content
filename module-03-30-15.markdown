@@ -43,17 +43,13 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 **Week of 4/20**
 
 * Lydia Shafer: Node, its whats for dinner.
-* Krista Nelson: Data Structures and Algorithms for Ruby Newbies https://gist.github.com/KristaANelson/e314cbe5d430920a201a
+* Krista Nelson: Data Structures and Algorithms for Ruby Newbies
 * Brandon Mrsny: Service Oriented Architecture! What is it?
-* Trey Tomlinson: The Boy Who Pry'ed Wolf
-  - https://gist.github.com/treyx/46ec6bae0a17214bee25
+* Trey Tomlinson: Golden Shield Project - The Great Firewall of China
 * Tino Espinoza: The Sisterhood of the Traveling Genetic Algorithm
-  - https://gist.github.com/xvalentino/92bdf8099bc339950b3b
-* Patrick Medaugh: Logical Fallacies or How Not to Sell a Vacuum
-https://gist.github.com/patrickmedaugh/035132d466085216ec5a
-* Kyle Henson: Who is Jim Weirich?
-* Eric Dowty: Nuclear Weapons. They're the Bomb.
-* DJ Greenfield: Online Advertising is Fucky https://gist.github.com/AllPurposeName/7c117da4b0345eb6b817
+* Patrick Medaugh:
+* Kyle Henson: https://gist.github.com/kylehenson/f41189cec763d30b78f3 
+* Eric Dowty: Nuclear Weapons. What are they good for?
 
 **Week of 4/27**
 
