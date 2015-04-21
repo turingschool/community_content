@@ -45,11 +45,11 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Lydia Shafer: Node, its whats for dinner.
 * Krista Nelson: Data Structures and Algorithms for Ruby Newbies
 * Brandon Mrsny: Service Oriented Architecture! What is it?
-* Trey Tomlinson: Golden Shield Project - The Great Firewall of China
+* Trey Tomlinson: The Boy Who Pry'ed Wolf
 * Tino Espinoza: The Sisterhood of the Traveling Genetic Algorithm
 * Patrick Medaugh:
 * Kyle Henson: Who is Jim Weirich?
-* Eric Dowty: Nuclear Weapons. What are they good for?
+* Eric Dowty: Nuclear Weapons. They're the Bomb.
 
 **Week of 4/27**
 
