@@ -45,6 +45,7 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Lydia Shafer: Node, its whats for dinner.
 * Krista Nelson: Data Structures and Algorithms for Ruby Newbies https://gist.github.com/KristaANelson/e314cbe5d430920a201a
 * Brandon Mrsny: Service Oriented Architecture! What is it?
+* -https://gist.github.com/bmrsny/806ff93dd8b1da9b598a
 * Trey Tomlinson: The Boy Who Pry'ed Wolf
   - https://gist.github.com/treyx/46ec6bae0a17214bee25
 * Tino Espinoza: The Sisterhood of the Traveling Genetic Algorithm
