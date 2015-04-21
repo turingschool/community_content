@@ -47,7 +47,8 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Brandon Mrsny: Service Oriented Architecture! What is it?
 * Trey Tomlinson: The Boy Who Pry'ed Wolf
 * Tino Espinoza: The Sisterhood of the Traveling Genetic Algorithm
-* Patrick Medaugh:
+* Patrick Medaugh: Logical Fallacies or How Not to Sell a Vacuum
+https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Kyle Henson: Who is Jim Weirich?
 * Eric Dowty: Nuclear Weapons. They're the Bomb.
 
