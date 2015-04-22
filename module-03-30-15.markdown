@@ -54,7 +54,7 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 * Patrick Medaugh: Logical Fallacies or How Not to Sell a Vacuum
 https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Kyle Henson: Who is Jim Weirich? https://gist.github.com/kylehenson/f41189cec763d30b78f3
-* Eric Dowty: Nuclear Weapons. They're the Bomb.
+* Eric Dowty: Nuclear Weapons. They're the Bomb. https://gist.github.com/eric-dowty/ddc4774ce1b98d2aea89
 * DJ Greenfield: Online Advertising is Fucky https://gist.github.com/AllPurposeName/7c117da4b0345eb6b817
 
 **Week of 4/27**
