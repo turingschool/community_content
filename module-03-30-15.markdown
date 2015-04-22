@@ -42,7 +42,8 @@ https://gist.github.com/kristinabrown/0061db52d0b6d4f494b2
 
 **Week of 4/20**
 
-* Lydia Shafer: Node, its whats for dinner.
+* Lydia Shafer: Languages. How to remember them.
+* https://gist.github.com/Lydias303/281af5d11622bd42ffc2
 * Krista Nelson: Data Structures and Algorithms for Ruby Newbies https://gist.github.com/KristaANelson/e314cbe5d430920a201a
 * Brandon Mrsny: Service Oriented Architecture! What is it?
 * Trey Tomlinson: The Boy Who Pry'ed Wolf
