@@ -60,7 +60,8 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 **Week of 4/27**
 
 * Scott Crawford:
-* Alexandra Robinson:
+* Alexandra Robinson: Hashes, Structs, and OpenStructs.. Oh My!
+  - https://gist.github.com/scottalexandra/54c6b3d0017f152ceb36
 * Adam Smith: Mindfulness to Deal with Programming Caused Stress.  https://gist.github.com/AdamSmith910/4b71e7d66b5ba83dc427
 * DJ Greenfield:
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
