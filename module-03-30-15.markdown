@@ -65,6 +65,7 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Adam Smith: Mindfulness to Deal with Programming Caused Stress.  https://gist.github.com/AdamSmith910/4b71e7d66b5ba83dc427
 * DJ Greenfield:
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
+ - https://gist.github.com/ycartc/2fbcefbf8efbf2a92c89
 * Kit Pearson:
 
 **Week of 5/4**
