@@ -67,7 +67,7 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
   -https://gist.github.com/AllPurposeName/f20faea97fecc2a1db65
 * Tracy Caruso: How to keep browser inconsistencies from ruining your life.
   - https://gist.github.com/ycartc/2fbcefbf8efbf2a92c89
-* Kit Pearson:
+* Kit Pearson: Mnemonic devices in programming
 
 **Week of 5/4**
 
