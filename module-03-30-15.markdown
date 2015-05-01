@@ -71,7 +71,8 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 
 **Week of 5/4**
 
-* Markus Olsen:
+* Markus Olsen: The Economics of Open Source
+  - https://gist.github.com/neslom/7001ef3e4c78412751c3
 * Kyra Weber: Creative Control vs Usability
 * Minnie Lee: How Music Affects Your Productivity
 * Tess Griffin:
