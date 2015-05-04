@@ -76,4 +76,6 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Kyra Weber: Creative Control vs Usability
 * Minnie Lee: How Music Affects Your Productivity
 * Tess Griffin:
-* Mihir Parikh:
+* Mihir Parikh: Tips on how to make the most of your time with your physician
+  -https://gist.github.com/mihir787/5ba1c56dfbe425cb4710
+  
