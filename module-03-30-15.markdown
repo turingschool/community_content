@@ -77,4 +77,5 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Minnie Lee: How Music Affects Your Productivity
 * Tess Griffin: How 3D in Film Works, and How It's Done Right (Or Not)
   - https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
-* Mihir Parikh:
+* Mihir Parikh: Tips on how to make the most of your time with your physician
+ - https://gist.github.com/mihir787/5ba1c56dfbe425cb4710
