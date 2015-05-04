@@ -75,5 +75,6 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
   - https://gist.github.com/neslom/7001ef3e4c78412751c3
 * Kyra Weber: Creative Control vs Usability
 * Minnie Lee: How Music Affects Your Productivity
-* Tess Griffin:
+* Tess Griffin: How 3D in Film Works, and How It's Done Right (Or Not)
+  - https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
 * Mihir Parikh:
