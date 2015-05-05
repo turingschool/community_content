@@ -74,6 +74,7 @@ https://gist.github.com/patrickmedaugh/035132d466085216ec5a
 * Markus Olsen: The Economics of Open Source
   - https://gist.github.com/neslom/7001ef3e4c78412751c3
 * Kyra Weber: Creative Control vs Usability
+ - https://gist.github.com/kyraweber/d85a405d2cadb01103a4
 * Minnie Lee: How Music Affects Your Productivity
  - https://gist.github.com/MLee21/6e51e83ce44430e8d5e5
 * Tess Griffin: How 3D in Film Works, and How It's Done Right (Or Not)
