@@ -33,7 +33,7 @@
 
 **Week of 6/1**
 
-* Austin Wood
+* Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * Edward McCarthy
 * Lori Culberson
 * David Daniel
