@@ -48,7 +48,7 @@
 * Patrick Medaugh
 * Tess Griffin
 * Whitney Hiemstra
-* Erik Butcher
+* Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
 * Margarett Ly
 
 **Week of 6/15**
