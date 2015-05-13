@@ -3,7 +3,7 @@
 * Miriam Moser - Code like it's 1999 (a.k.a coding for email)
 * Kyra Steenbock
 * Trey Tomlinson
-* Jamie Kawahara  https://github.com/turingschool/lightning_talks/commit/fca8351cca2c5a399ddca3f5439b2ed3b9672aaa
+* Jamie Kawahara - Imposter syndrome  https://github.com/turingschool/lightning_talks/commit/fca8351cca2c5a399ddca3f5439b2ed3b9672aaa
 * Andrew Carmer
 * Brett Grigsby
 * Rick Bacci
