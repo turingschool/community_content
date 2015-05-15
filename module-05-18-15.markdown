@@ -1,7 +1,7 @@
 **Week of 5/18**
 
 * Miriam Moser - Code like it's 1999 (a.k.a coding for email)
-* Kyra Steenbock
+* Kyra Steenbock - JavaScript Getters, Setters, and defineProperty oh my!
 * Trey Tomlinson
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
 * Andrew Carmer
