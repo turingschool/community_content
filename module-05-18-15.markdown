@@ -20,6 +20,7 @@
 * Vanessa Gomez
 * Andrew Fink
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
+* Fred Block
 
 **Week of 6/1**
 
@@ -30,6 +31,7 @@
 * Minnie Lee
 * Morgan Miller
 * Drew Reynolds
+* Teresa Finn
 
 **Week of 6/1**
 
