@@ -28,7 +28,7 @@
 * DJ Greenfield
 * Michelle Golle
 * Mihir Parikh
-* Minnie Lee
+* Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * Morgan Miller
 * Drew Reynolds
 * Teresa Finn
