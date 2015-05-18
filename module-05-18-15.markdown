@@ -4,7 +4,7 @@
 * Kyra Steenbock - Animation with Snap.js!
 * Trey Tomlinson
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
-* Andrew Carmer
+* Andrew Carmer - TCP/IP Stack 
 * Brett Grigsby
 * Rick Bacci
 * Sally MacNicholas - Learn how to Learn!
