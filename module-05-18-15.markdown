@@ -6,7 +6,7 @@
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
 * Andrew Carmer - TCP/IP Stack 
 * Brett Grigsby
-* Rick Bacci
+* Rick Bacci - Ruby warrior (debugging & refactoring)
 * Sally MacNicholas - Learn how to Learn!
 * Max Tedford - Wine 101
 
