@@ -4,7 +4,7 @@
 * Kyra Steenbock - Animation with Snap.js!
 * Trey Tomlinson - China's Great Firewall
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
-* Andrew Carmer - Stuff, Things & the Internet(of things) 
+* Andrew Carmer - Stuff, Things, & the Internet(of things) - https://gist.github.com/Carmer/ac372a11bda8048bf374
 * Brett Grigsby - The Illusion of Free Will
 * Rick Bacci - Ruby warrior (debugging & refactoring)
 * Sally MacNicholas - Learn how to Learn!
