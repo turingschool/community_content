@@ -5,7 +5,7 @@
 * Trey Tomlinson - China's Great Firewall
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
 * Andrew Carmer - Stuff, Things, & the Internet(of things) - https://gist.github.com/Carmer/ac372a11bda8048bf374
-* Brett Grigsby - The Illusion of Free Will
+* Brett Grigsby - The Illusion of Free Will - https://gist.github.com/brettgrigsby/23880f81e2e59ce6d227
 * Rick Bacci - Ruby warrior (debugging & refactoring)
 * Sally MacNicholas - Learn how to Learn!
 * Max Tedford - Wine 101 - https://gist.github.com/maxtedford/399b79d0a75831d6b895
