@@ -24,17 +24,6 @@
 
 **Week of 6/1**
 
-* Charles Valentino Espinoza
-* DJ Greenfield
-* Michelle Golle
-* Mihir Parikh
-* Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
-* Morgan Miller
-* Drew Reynolds
-* Teresa Finn
-
-**Week of 6/1**
-
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * Edward McCarthy
 * Lori Culberson
