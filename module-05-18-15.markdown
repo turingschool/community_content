@@ -8,7 +8,7 @@
 * Brett Grigsby
 * Rick Bacci - Ruby warrior (debugging & refactoring)
 * Sally MacNicholas - Learn how to Learn!
-* Max Tedford - Wine 101
+* Max Tedford - Wine 101 - https://gist.github.com/maxtedford/399b79d0a75831d6b895
 
 **Week of 5/25**
 
