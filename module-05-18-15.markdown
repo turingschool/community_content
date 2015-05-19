@@ -2,7 +2,7 @@
 
 * Miriam Moser - Code like it's 1999 (a.k.a coding for email)
 * Kyra Steenbock - Animation with Snap.js!
-* Trey Tomlinson
+* Trey Tomlinson - China's Great Firewall
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
 * Andrew Carmer - TCP/IP Stack 
 * Brett Grigsby
