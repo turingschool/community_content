@@ -7,7 +7,7 @@
 * Andrew Carmer - Stuff, Things, & the Internet(of things) - https://gist.github.com/Carmer/ac372a11bda8048bf374
 * Brett Grigsby - The Illusion of Free Will
 * Rick Bacci - Ruby warrior (debugging & refactoring) https://gist.github.com/RickBacci/e715cb81ac7bb2daad46
-* Sally MacNicholas - Learn how to Learn!
+* Sally MacNicholas - Learn how to Learn! https://gist.github.com/sallymacnicholas/2cf3a61e4915c7db7535
 * Max Tedford - Wine 101 - https://gist.github.com/maxtedford/399b79d0a75831d6b895
 
 **Week of 5/25**
