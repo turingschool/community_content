@@ -2,7 +2,7 @@
 
 * Miriam Moser - Code like it's 1999 (a.k.a coding for email)
 * Kyra Steenbock - Animation with Snap.js! - https://gist.github.com/kyrasteen/2f6897049a1c09444374
-* Trey Tomlinson - China's Great Firewall
+* Trey Tomlinson - China's Great Firewall https://gist.github.com/treyx/bf511e034e7a451a19d4
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
 * Andrew Carmer - Stuff, Things, & the Internet(of things) - https://gist.github.com/Carmer/ac372a11bda8048bf374
 * Brett Grigsby - The Illusion of Free Will
