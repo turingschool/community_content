@@ -1,6 +1,6 @@
 **Week of 5/18**
 
-* Miriam Moser - Code like it's 1999 (a.k.a coding for email)
+* Miriam Moser - Code like it's 1999 (a.k.a coding for email) - https://gist.github.com/mirjoy/38084d13ad20788c73ef
 * Kyra Steenbock - Animation with Snap.js! - https://gist.github.com/kyrasteen/2f6897049a1c09444374
 * Trey Tomlinson - China's Great Firewall https://gist.github.com/treyx/bf511e034e7a451a19d4
 * Jamie Kawahara - Imposter syndrome - https://gist.github.com/androidgrl/e0c2bccb124b35588799
