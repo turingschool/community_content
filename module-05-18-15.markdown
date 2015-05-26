@@ -10,34 +10,26 @@
 * Sally MacNicholas - Learn how to Learn! https://gist.github.com/sallymacnicholas/2cf3a61e4915c7db7535
 * Max Tedford - Wine 101 - https://gist.github.com/maxtedford/399b79d0a75831d6b895
 
-**Week of 5/25**
-
-* Paul Grever
-* Markus Olsen
-* Eric Dowty
-* Jack Yeh
-* Eugene Khanutin
-* Vanessa Gomez
-* Andrew Fink
-* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
-* Fred Block
-
 **Week of 6/1**
 
 * Charles Valentino Espinoza
+* Eric Dowty
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * DJ Greenfield
 * Edward McCarthy
 * Lori Culberson
 * David Daniel
 * Kenny Chen
+* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
 * Josh Cass
 * Lev Kravinsky
 
 **Week of 6/8**
 
+* Markus Olsen
 * Rich Shea
 * Kit Pearson
+* Fred Block
 * Michelle Golle
 * Patrick Medaugh
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
@@ -48,12 +40,15 @@
 
 **Week of 6/15**
 
+* Paul Grever
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso
+* Jack Yeh
 * Mihir Parikh
 * Thomas Leskin
 * Chelsea Worrel
+* Vanessa Gomez
 * Dmitry Vizersky
 * Michael Merrill
 
@@ -65,5 +60,6 @@
 * Tyler Graham
 * Morgan Miller
 * Drew Reynolds
+* Andrew Fink
 * Justin Holmes
 
