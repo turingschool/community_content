@@ -17,7 +17,6 @@
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * DJ Greenfield
 * Edward McCarthy
-* Lori Culberson
 * Kristina Brown - Recursion vs Iterative Loops
 * Lori Culberson - Check You're Ego at the Door (Redefining Failure)
 * Kenny Chen
