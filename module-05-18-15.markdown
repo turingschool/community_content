@@ -18,11 +18,11 @@
 * DJ Greenfield [Metaprogramming is metacool!](https://gist.github.com/AllPurposeName/ed9976ce4d64d44928e5)
 * Edward McCarthy: https://gist.github.com/mcshakes/f8c17ba091e4808a8636
 * Kristina Brown - Recursion vs Iterative Loops
-* Lori Culberson - Check You're Ego at the Door (Redefining Failure)
+* Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Kenny Chen - DDoS
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
 * Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/0690cbd61a9ade0dc798.git
-* Lev Kravinsky
+* Lev Kravinsky - Performance Optimizing Fibonacci
 
 **Week of 6/8**
 
