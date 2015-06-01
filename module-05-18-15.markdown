@@ -19,9 +19,10 @@
 * Edward McCarthy
 * Lori Culberson
 * Kristina Brown - Recursion vs Iterative Loops
+* Lori Culberson - Check You're Ego at the Door (Redefining Failure)
 * Kenny Chen
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
-* Josh Cass
+* Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/0690cbd61a9ade0dc798.git
 * Lev Kravinsky
 
 **Week of 6/8**
