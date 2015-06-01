@@ -15,7 +15,7 @@
 * Charles Valentino Espinoza
 * Eric Dowty
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
-* DJ Greenfield
+* DJ Greenfield [Metaprogramming is metacool!](https://gist.github.com/AllPurposeName/ed9976ce4d64d44928e5)
 * Edward McCarthy
 * Kristina Brown - Recursion vs Iterative Loops
 * Lori Culberson - Check You're Ego at the Door (Redefining Failure)
