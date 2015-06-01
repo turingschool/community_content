@@ -17,7 +17,7 @@
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * DJ Greenfield
 * Edward McCarthy
-* Lori Culberson
+* Lori Culberson - Check You're Ego at the Door (Redefining Failure)
 * David Daniel
 * Kenny Chen
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
