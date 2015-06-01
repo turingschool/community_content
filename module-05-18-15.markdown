@@ -18,7 +18,7 @@
 * DJ Greenfield
 * Edward McCarthy
 * Lori Culberson
-* David Daniel
+* Kristina Brown - Recursion vs Iterative Loops
 * Kenny Chen
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
 * Josh Cass
@@ -55,7 +55,7 @@
 **Week of 6/22**
 
 * Kyle Henson
-* Kristina Brown
+* David Daniel
 * Dave Maurer
 * Tyler Graham
 * Morgan Miller
