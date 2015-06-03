@@ -22,7 +22,7 @@
 * Kenny Chen - DDoS
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
 * Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/0690cbd61a9ade0dc798.git
-* Lev Kravinsky - Performance Optimizing Fibonacci
+* Lev Kravinsky - Performance Optimizing Fibonacci https://gist.github.com/kravinskylev/942086ccb4ea2beb3f36
 
 **Week of 6/8**
 
