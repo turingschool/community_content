@@ -21,7 +21,7 @@
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Kenny Chen - DDoS
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911) https://gist.github.com/RMCornell/e0a381733589a101045c
-* Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/0690cbd61a9ade0dc798.git
+* Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/joshcass/0690cbd61a9ade0dc798
 * Lev Kravinsky - Performance Optimizing Fibonacci https://gist.github.com/kravinskylev/942086ccb4ea2beb3f36
 
 **Week of 6/8**
