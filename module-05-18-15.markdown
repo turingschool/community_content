@@ -20,7 +20,7 @@
 * Kristina Brown - Recursion vs Iterative Loops
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Kenny Chen - DDoS
-* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
+* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911) https://gist.github.com/RMCornell/e0a381733589a101045c
 * Josh Cass - (better title to come) Noncompete clauses - https://gist.github.com/0690cbd61a9ade0dc798.git
 * Lev Kravinsky - Performance Optimizing Fibonacci
 
