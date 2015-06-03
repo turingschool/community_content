@@ -17,7 +17,7 @@
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * DJ Greenfield [Metaprogramming is metacool!](https://gist.github.com/AllPurposeName/ed9976ce4d64d44928e5)
 * Edward McCarthy: https://gist.github.com/mcshakes/f8c17ba091e4808a8636
-* Kristina Brown - Recursion vs Iterative Loops
+* Kristina Brown - Recursion vs Iterative Loops - https://gist.github.com/kristinabrown/cf8364bb61b4341dcced
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Kenny Chen - DDoS
 * Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911) https://gist.github.com/RMCornell/e0a381733589a101045c
