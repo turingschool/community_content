@@ -13,7 +13,7 @@
 **Week of 6/1**
 
 * Charles Valentino Espinoza - Math, Not Even Once (https://gist.github.com/xvalentino/76ebeda57295e48ecef9)
-* Eric Dowty
+* Eric Dowty [Ageism in Tech] (https://gist.github.com/eric-dowty/728957d903978979499b)
 * Austin Wood: [Learn You a Turing for Great Good!](https://gist.github.com/indiesquidge/a60dc4846548c0d9a88c)
 * DJ Greenfield [Metaprogramming is metacool!](https://gist.github.com/AllPurposeName/ed9976ce4d64d44928e5)
 * Edward McCarthy: https://gist.github.com/mcshakes/f8c17ba091e4808a8636
