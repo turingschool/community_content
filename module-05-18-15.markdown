@@ -37,6 +37,7 @@
 * Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
 * Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
 * Margarett Ly
+* Lev Kravinsky: "Concurrency in Ruby" https://gist.github.com/kravinskylev/51eaf26e1a8276a60bd1
 
 **Week of 6/15**
 
