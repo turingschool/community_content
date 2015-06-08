@@ -31,7 +31,7 @@
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Fred Block
 * Michelle Golle
-* Patrick Medaugh
+* Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
 * Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
