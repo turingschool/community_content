@@ -27,7 +27,7 @@
 **Week of 6/8**
 
 * Markus Olsen
-* Rich Shea
+* Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Fred Block
 * Michelle Golle: When and how to best use private methods
