@@ -30,6 +30,7 @@
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Fred Block – How to Teach (Lessons From Flight Instructing)
+*              https://gist.github.com/blocknroll/74ecd1e0233d4650cddb
 * Michelle Golle: When and how to best use private methods
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
