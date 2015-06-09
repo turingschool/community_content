@@ -29,7 +29,7 @@
 * Markus Olsen
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
-* Fred Block
+* Fred Block – How to Teach (Lessons From Flight Instructing)
 * Michelle Golle: When and how to best use private methods
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
