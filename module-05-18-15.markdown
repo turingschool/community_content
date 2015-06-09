@@ -30,7 +30,7 @@
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Fred Block
-* Michelle Golle: When and how to best use private methods
+* Michelle Golle: When and how to best use private methods      (https://gist.github.com/MichelleGolle/4f240ab36f6ca5660930)
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
