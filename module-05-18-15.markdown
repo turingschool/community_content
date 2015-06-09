@@ -28,7 +28,7 @@
 
 * Markus Olsen - The Economics of Open Source https://gist.github.com/neslom/7001ef3e4c78412751c3
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
-* Lori Culberson - Check Your Ego at the Door (Redefining Failure)
+* Lori Culberson - Check Your Ego at the Door (Redefining Failure)https://gist.github.com/loriculberson/cc4fdcbe0d37d77624db
 * Fred Block – How to Teach (Lessons From Flight Instructing)
 * Michelle Golle: When and how to best use private methods
 * Patrick Medaugh: Intro to Go
