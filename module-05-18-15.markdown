@@ -45,7 +45,7 @@
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso
-* Jack Yeh
+* Kyle Henson
 * Mihir Parikh
 * Thomas Leskin
 * Chelsea Worrel
@@ -56,7 +56,7 @@
 
 **Week of 6/22**
 
-* Kyle Henson
+* Jack Yeh
 * David Daniel
 * Dave Maurer
 * Tyler Graham
