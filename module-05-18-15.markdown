@@ -26,16 +26,18 @@
 
 **Week of 6/8**
 
-* Markus Olsen
-* Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.
+* Markus Olsen - The Economics of Open Source https://gist.github.com/neslom/7001ef3e4c78412751c3
+* Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
-* Fred Block
-* Michelle Golle: When and how to best use private methods      (https://gist.github.com/MichelleGolle/4f240ab36f6ca5660930)
+* Fred Block – How to Teach (Lessons From Flight Instructing)
+* Michelle Golle: When and how to best use private methods
+(https://gist.github.com/MichelleGolle/4f240ab36f6ca5660930)
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
+* https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
 * Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
-* Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
+* Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell" https://gist.github.com/with-a-k/3fbb1a1b2db3662b96d2
 * Margarett Ly: Stock Options for New Hires
 * Lev Kravinsky: "Concurrency in Ruby" https://gist.github.com/kravinskylev/51eaf26e1a8276a60bd1
 
@@ -45,17 +47,18 @@
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso
-* Jack Yeh
+* Kyle Henson
 * Mihir Parikh
 * Thomas Leskin
 * Chelsea Worrel
 * Vanessa Gomez
 * Dmitry Vizersky
 * Michael Merrill
+* Lev Kravinskt "tweetHaiku" https://gist.github.com/kravinskylev/0247f27d9d36f16c8450
 
 **Week of 6/22**
 
-* Kyle Henson
+* Jack Yeh
 * David Daniel
 * Dave Maurer
 * Tyler Graham
