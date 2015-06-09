@@ -52,6 +52,7 @@
 * Vanessa Gomez
 * Dmitry Vizersky
 * Michael Merrill
+* Lev Kravinskt "tweetHaiku" https://gist.github.com/kravinskylev/0247f27d9d36f16c8450
 
 **Week of 6/22**
 
