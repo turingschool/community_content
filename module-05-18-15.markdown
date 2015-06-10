@@ -37,7 +37,7 @@
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
-* Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
+* Whitney Hiemstra: "Medical Devices: The Good, The Awesome, The Weird" https://gist.github.com/whiemstra/81abcf2ee6127e2d338f
 * Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell" https://gist.github.com/with-a-k/3fbb1a1b2db3662b96d2
 * Margarett Ly: Stock Options for New Hires
 * Lev Kravinsky: "Concurrency in Ruby" https://gist.github.com/kravinskylev/51eaf26e1a8276a60bd1
