@@ -31,6 +31,7 @@
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
 * Fred Block – How to Teach (Lessons From Flight Instructing)
 * Michelle Golle: When and how to best use private methods
+(https://gist.github.com/MichelleGolle/4f240ab36f6ca5660930)
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * https://gist.github.com/MLee21/d2f7b365fae830b87ddf
