@@ -35,7 +35,7 @@
 (https://gist.github.com/MichelleGolle/4f240ab36f6ca5660930)
 * Patrick Medaugh: Intro to Go
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
-* https://gist.github.com/MLee21/d2f7b365fae830b87ddf
+https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
 * Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
 * Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell" https://gist.github.com/with-a-k/3fbb1a1b2db3662b96d2
