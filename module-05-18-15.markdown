@@ -39,7 +39,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Tess Griffin: "How 3D in Film Works, and How It's Done Right (Or Not)" https://gist.github.com/tessgriffin/580d3a1dafcff9dcdc1c#file-why-3d-goes-wrong
 * Whitney Hiemstra: "Medical Devices: The Good, The Awesome, The Weird" https://gist.github.com/whiemstra/81abcf2ee6127e2d338f
 * Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell" https://gist.github.com/with-a-k/3fbb1a1b2db3662b96d2
-* Margarett Ly: Stock Options for New Hires
+* Margarett Ly: Internet Access for Under-Resourced Populations Through Smart Phones https://gist.github.com/aoili/b3446e1e0c433b1ee0bd
 * Lev Kravinsky: "Concurrency in Ruby" https://gist.github.com/kravinskylev/51eaf26e1a8276a60bd1
 
 **Week of 6/15**
