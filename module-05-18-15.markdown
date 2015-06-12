@@ -27,7 +27,6 @@
 **Week of 6/8**
 
 * Markus Olsen - The Economics of Open Source https://gist.github.com/neslom/7001ef3e4c78412751c3
-* Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)https://gist.github.com/loriculberson/cc4fdcbe0d37d77624db
 * Fred Block – How to Teach (Lessons From Flight Instructing)
 *              https://gist.github.com/blocknroll/74ecd1e0233d4650cddb
@@ -44,6 +43,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 
 **Week of 6/15**
 
+* Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
 * Paul Grever
 * Dustin Gault
 * Jeffrey Gu
@@ -54,7 +54,6 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Chelsea Worrel
 * Vanessa Gomez
 * Dmitry Vizersky
-* Michael Merrill
 * Lev Kravinskt "tweetHaiku" https://gist.github.com/kravinskylev/0247f27d9d36f16c8450
 
 **Week of 6/22**
@@ -67,3 +66,5 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Drew Reynolds
 * Andrew Fink
 * Justin Holmes
+* Michael Merrill
+
