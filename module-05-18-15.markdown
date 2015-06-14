@@ -48,7 +48,6 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso
-* Kyle Henson
 * Mihir Parikh
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS." 
 * Chelsea Worrel
@@ -67,3 +66,4 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Andrew Fink
 * Justin Holmes
 * Michael Merrill
+* Kyle Henson
