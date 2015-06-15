@@ -48,7 +48,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso
-* Mihir Parikh
+* Mihir Parikh - "HOURS_IN_DAY = 24: some thoughts on productivity" https://gist.github.com/mihir787/ebbb99bb152e0a9682fa
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS." 
 * Chelsea Worrel
 * Vanessa Gomez
