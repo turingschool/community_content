@@ -50,7 +50,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Tracy Caruso
 * Mihir Parikh - "HOURS_IN_DAY = 24: some thoughts on productivity" https://gist.github.com/mihir787/ebbb99bb152e0a9682fa
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS." 
-* Chelsea Worrel
+* Chelsea Worrel -"Soft Skills" https://gist.github.com/166f2e3b2699f003ca40.git
 * Vanessa Gomez
 * Dmitry Vizersky - "Cold Stuff" - https://gist.github.com/d9182d45d84de3b94b3a.git
 * Lev Kravinskt "tweetHaiku" https://gist.github.com/kravinskylev/0247f27d9d36f16c8450
