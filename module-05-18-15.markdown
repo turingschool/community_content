@@ -52,7 +52,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS." 
 * Chelsea Worrel
 * Vanessa Gomez
-* Dmitry Vizersky
+* Dmitry Vizersky - "Cold Stuff" - https://gist.github.com/d9182d45d84de3b94b3a.git
 * Lev Kravinskt "tweetHaiku" https://gist.github.com/kravinskylev/0247f27d9d36f16c8450
 
 **Week of 6/22**
