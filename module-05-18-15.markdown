@@ -44,7 +44,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 **Week of 6/15**
 
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
-* Paul Grever
+* Paul Grever - The Gems of 1412 - https://gist.github.com/paulgrever/0c592efb0725c774515d
 * Dustin Gault
 * Jeffrey Gu
 * Tracy Caruso - Let's get Sassy... with Sass
