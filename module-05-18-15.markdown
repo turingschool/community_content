@@ -49,7 +49,8 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Jeffrey Gu
 * Tracy Caruso - Let's get Sassy... with Sass
 * Mihir Parikh - "HOURS_IN_DAY = 24: some thoughts on productivity" https://gist.github.com/mihir787/ebbb99bb152e0a9682fa
-* Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS." 
+* Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS."
+https://gist.github.com/tleskin/23e06e90a258a48f329e
 * Chelsea Worrel -"Soft Skills" https://gist.github.com/166f2e3b2699f003ca40.git
 * Vanessa Gomez
 * Dmitry Vizersky - "Cold Stuff" - https://gist.github.com/d9182d45d84de3b94b3a.git
