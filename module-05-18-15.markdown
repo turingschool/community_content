@@ -47,7 +47,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Paul Grever - The Gems of 1412 - https://gist.github.com/paulgrever/0c592efb0725c774515d
 * Dustin Gault: Agriculture, the Industrial Revolution, and the Information Age https://gist.github.com/DSynergy/c9cd1a304e10ac71532d
 * Jeffrey Gu
-* Tracy Caruso - Let's get Sassy... with Sass
+* Tracy Caruso - Let's get Sassy... with Sass | https://gist.github.com/ycartc/c2aaf4096bcbcc009169
 * Mihir Parikh - "HOURS_IN_DAY = 24: some thoughts on productivity" https://gist.github.com/mihir787/ebbb99bb152e0a9682fa
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS."
 https://gist.github.com/tleskin/23e06e90a258a48f329e
