@@ -52,7 +52,7 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS."
 https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST) 
 * Chelsea Worrel -"Soft Skills" https://gist.github.com/166f2e3b2699f003ca40.git (SCREENCAST) 
-* Vanessa Gomez
+* Michael Merrill
 * Dmitry Vizersky - "Cold Stuff" - https://gist.github.com/d9182d45d84de3b94b3a.git
 * Lev Kravinsky "VoltRB" https://gist.github.com/kravinskylev/60a12d2a5e9bbf38ad35
 
@@ -66,5 +66,6 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Drew Reynolds
 * Andrew Fink
 * Justin Holmes
-* Michael Merrill
 * Kyle Henson
+* Vanessa Gomez
+
