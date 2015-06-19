@@ -60,7 +60,7 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 
 * Jack Yeh
 * David Daniel
-* Dave Maurer
+* Dave Maurer - def job = get a job - https://gist.github.com/davemaurer/27f8d5c61836030e9d59
 * Tyler Graham
 * Morgan Miller
 * Drew Reynolds
