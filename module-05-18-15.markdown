@@ -45,13 +45,13 @@ https://gist.github.com/MLee21/d2f7b365fae830b87ddf
 
 * Rich Shea - Learning to program for non-programmers.  Strategies for the rest of us.  https://gist.github.com/rshea303/50644757196eae25f96d
 * Paul Grever - The Gems of 1412 - https://gist.github.com/paulgrever/0c592efb0725c774515d
-* Dustin Gault: Agriculture, the Industrial Revolution, and the Information Age https://gist.github.com/DSynergy/c9cd1a304e10ac71532d (SCREENCAST) 
+* Dustin Gault: Agriculture, the Industrial Revolution, and the Information Age https://gist.github.com/DSynergy/c9cd1a304e10ac71532d (SCREENCAST)
 * Jeffrey Gu
 * Tracy Caruso - Let's get Sassy... with Sass | https://gist.github.com/ycartc/c2aaf4096bcbcc009169
 * Mihir Parikh - "HOURS_IN_DAY = 24: some thoughts on productivity" https://gist.github.com/mihir787/ebbb99bb152e0a9682fa
 * Thomas Leskin - "Exploring the MEAN Stack - An Introduction to MongoDB, ExpressJS, AngularJS, and NodeJS."
-https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST) 
-* Chelsea Worrel -"Soft Skills" https://gist.github.com/166f2e3b2699f003ca40.git (SCREENCAST) 
+https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
+* Chelsea Worrel -"Soft Skills" https://gist.github.com/166f2e3b2699f003ca40.git (SCREENCAST)
 * Michael Merrill
 * Dmitry Vizersky - "Cold Stuff" - https://gist.github.com/d9182d45d84de3b94b3a.git
 * Lev Kravinsky "VoltRB" https://gist.github.com/kravinskylev/60a12d2a5e9bbf38ad35
@@ -61,11 +61,10 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Jack Yeh
 * David Daniel
 * Dave Maurer - def job = get a job - https://gist.github.com/davemaurer/27f8d5c61836030e9d59
-* Tyler Graham
+* Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller
 * Drew Reynolds
 * Andrew Fink
 * Justin Holmes
 * Kyle Henson
 * Vanessa Gomez
-
