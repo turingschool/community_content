@@ -59,7 +59,7 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 **Week of 6/22**
 
 * Jack Yeh - "What exactly is a Gem and Why should I care?"
-* David Daniel
+* David Daniel - Why the editor war is so silly
 * Dave Maurer - def job = get a job - https://gist.github.com/davemaurer/27f8d5c61836030e9d59
 * Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller
