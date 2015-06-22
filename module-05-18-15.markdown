@@ -63,7 +63,7 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Dave Maurer - def job = get a job - https://gist.github.com/davemaurer/27f8d5c61836030e9d59
 * Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller
-* Drew Reynolds
+* Drew Reynolds - Let's Talk About Tech, Baby - https://gist.github.com/NYDrewReynolds/953c3334f76dadad7650
 * Andrew Fink
 * Justin Holmes - Navy's Marine Mammal Program
 * Kyle Henson
