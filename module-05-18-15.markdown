@@ -64,6 +64,6 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller
 * Drew Reynolds - Let's Talk About Tech, Baby - https://gist.github.com/NYDrewReynolds/953c3334f76dadad7650
-* Andrew Fink
+* Andrew Fink - Antifragility
 * Justin Holmes - Navy's Marine Mammal Program
 * Kyle Henson - My Bag of Chips is Talking to Me | https://gist.github.com/kylehenson/2b5f51fdd01c2143f5d4
