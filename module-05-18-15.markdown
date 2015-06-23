@@ -65,5 +65,5 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Morgan Miller
 * Drew Reynolds - Let's Talk About Tech, Baby - https://gist.github.com/NYDrewReynolds/953c3334f76dadad7650
 * Andrew Fink - Antifragility
-* Justin Holmes - Navy's Marine Mammal Program
+* Justin Holmes - Navy's Marine Mammal Program: https://gist.github.com/Justin-Holmes/206db865e4db1c6a290a
 * Kyle Henson - My Bag of Chips is Talking to Me | https://gist.github.com/kylehenson/2b5f51fdd01c2143f5d4
