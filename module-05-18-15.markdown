@@ -61,7 +61,7 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Jack Yeh - "What exactly is a Gem and Why should I care?"
 * David Daniel - Why the editor war is so silly - https://gist.github.com/davedan7/8cfe191a22945ed4703d
 * Dave Maurer - def job = get a job - https://gist.github.com/davemaurer/27f8d5c61836030e9d59
-* Tyler Graham - "Let's Start a Hedge Fund"
+* Tyler Graham - "Let's Start a Hedge Fund" - https://gist.github.com/tgraham777/724d0591a41f69b56140
 * Morgan Miller
 * Drew Reynolds - Let's Talk About Tech, Baby - https://gist.github.com/NYDrewReynolds/953c3334f76dadad7650
 * Andrew Fink - Antifragility
