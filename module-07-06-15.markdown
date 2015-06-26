@@ -1,6 +1,6 @@
 **Week of 7/6**
 
-* Vanessa Gomez
+* Vanessa Gomez - "Production life from conception to completion"
 * Jack Yeh
 * Eric Dowty
 * Thomas Leskin - "ReactJS - A JS library for building user interfaces"
@@ -22,6 +22,7 @@
 * Michael Dorrance
 * Alex Tideman
 * Justin Holzmann
+* Vanessa Gomez - "No excuse for bad typography on the web"
 
 **Week of 7/20**
 
