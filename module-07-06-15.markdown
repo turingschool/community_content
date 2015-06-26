@@ -43,7 +43,7 @@
 * Whitney Hiemstra
 * Michael Merrill
 * Lev Kravinsky
-* Marla Brizel
+* Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
 * Drew Conly
 
