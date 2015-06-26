@@ -53,7 +53,6 @@
 * Patrick Medaugh
 * Tess Griffin
 * Sally MacNicholas
-* Tyler Graham
 * Justin Holmes
 * Mitch Ashby
 * David Shim
