@@ -18,7 +18,7 @@
 * David Daniel
 * Andrew Fink
 * Max Tedford
-* Jamie Kawahara
+* Jamie Kawahara - "3D printing on the Lulzbot"
 * Michael Dorrance
 * Alex Tideman
 * Justin Holzmann
