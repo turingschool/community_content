@@ -21,7 +21,7 @@
 * Jamie Kawahara
 * Michael Dorrance
 * Alex Tideman
-* Justin Holzmann
+* Justin Holzmann - "Meta 80/20"
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
 **Week of 7/20**
