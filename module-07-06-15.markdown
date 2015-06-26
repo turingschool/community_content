@@ -1,10 +1,10 @@
 **Week of 7/6**
 
 * Vanessa Gomez
-* Jack Yeh 
+* Jack Yeh
 * Eric Dowty
-* Thomas Leskin
-* Minnie Lee 
+* Thomas Leskin - "ReactJS - A JS library for building user interfaces"
+* Minnie Lee
 * Dave Maurer
 * Rick Bacci
 * Brett Grigsby
@@ -16,7 +16,7 @@
 * Andrew Carmer
 * Michelle Golle
 * David Daniel
-* Andrew Fink 
+* Andrew Fink
 * Max Tedford
 * Jamie Kawahara
 * Michael Dorrance
@@ -59,12 +59,10 @@
 * Lovisa Svallingson
 
 **Week of 8/10**
- 
-* Morgan Miller 
+
+* Morgan Miller
 * Josh Cass
-* Margarett Ly 
+* Margarett Ly
 * Dmitry Vizersky
 * Drew Reynolds
 * Jai Misra
-
-                
