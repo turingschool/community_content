@@ -21,7 +21,7 @@
 * Jamie Kawahara - "3D printing on the Lulzbot"
 * Michael Dorrance
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
-* Justin Holzmann
+* Justin Holzmann - "Meta 80/20"
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
 **Week of 7/20**
