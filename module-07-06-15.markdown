@@ -30,7 +30,7 @@
 * Kyle Henson
 * Tracy Caruso
 * Robert M. Cornell
-* Erik Butcher
+* Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
 * Chelsea Worrel
 * Jason Wright - "Javascript and Jasmine"
 * Adam Caron
