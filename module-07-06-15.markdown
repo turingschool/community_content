@@ -3,7 +3,7 @@
 * Vanessa Gomez - "Production life from conception to completion"
 * Jack Yeh
 * Eric Dowty
-* Thomas Leskin - "ReactJS - A JS library for building user interfaces"
+* Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
 * Dave Maurer
 * Rick Bacci
