@@ -1,7 +1,7 @@
 **Week of 7/6**
 
 * Vanessa Gomez - "Studio Production life from conception to completion"
-* Jack Yeh
+* Justin Holzmann - "Meta 80/20"
 * Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
@@ -21,7 +21,7 @@
 * Jamie Kawahara - "3D printing on the Lulzbot"
 * Michael Dorrance
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
-* Justin Holzmann - "Meta 80/20"
+* Jack Yeh - "How Ruby parses your code"
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
 **Week of 7/20**
