@@ -1,6 +1,6 @@
 **Week of 7/6**
 
-* Vanessa Gomez - "Production life from conception to completion"
+* Vanessa Gomez - "Studio Production life from conception to completion"
 * Jack Yeh
 * Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
