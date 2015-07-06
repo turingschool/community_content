@@ -2,7 +2,7 @@
 
 * Vanessa Gomez - "Production life from conception to completion"
 * Jack Yeh
-* Eric Dowty
+* Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
 * Dave Maurer - "What is that thing? - OR - The four core things to worry about during module 1"
