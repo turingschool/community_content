@@ -32,7 +32,7 @@
 * Robert M. Cornell
 * Erik Butcher
 * Chelsea Worrel
-* Jason Wright
+* Jason Wright - "Javascript and Jasmine"
 * Adam Caron
 * Mike Reeves - "Living and Working Abroad"
 
