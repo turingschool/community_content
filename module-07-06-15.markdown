@@ -7,7 +7,7 @@
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
 * Dave Maurer
 * Rick Bacci
-* Brett Grigsby
+* Brett Grigsby - "VR: The Next Big Platform"
 * Sebastian Abondano - "Greatness Isn't Born. It's Grown."
 * Samson Brock - "Turing School: Pro Tips"
 
