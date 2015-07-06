@@ -5,7 +5,7 @@
 * Eric Dowty
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
-* Dave Maurer
+* Dave Maurer - "What is that thing? - OR - The four core things to worry about during module 1"
 * Rick Bacci - "Fun with Ruby Processing"
 * Brett Grigsby - "VR: The Next Big Platform"
 * Sebastian Abondano - "Greatness Isn't Born. It's Grown."
