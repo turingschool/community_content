@@ -1,6 +1,6 @@
 **Week of 7/6**
 
-* Vanessa Gomez - "Studio Production life from conception to completion"
+* Vanessa Gomez - "Studio Production life from conception to completion" https://gist.github.com/vanegomez/ea1a06cd5ee5986cf29b
 * Justin Holzmann - "Meta 80/20" https://gist.github.com/philmphoenix/e726d65e204515212218
 * Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
 * Thomas Leskin - "Prototypal vs Classical Inheritance" https://gist.github.com/tleskin/f17465b433996e494a4f
