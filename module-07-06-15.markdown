@@ -8,8 +8,8 @@
 * Dave Maurer - "What is that thing? - OR - The four core things to worry about during module 1"
 * Rick Bacci - "Fun with Ruby Processing"
 * Brett Grigsby - "VR: The Next Big Platform"
-* Sebastian Abondano - "Greatness Isn't Born. It's Grown."
-* Samson Brock - "Turing School: Pro Tips"
+* Sebastian Abondano - "Greatness Isn't Born. It's Grown." https://gist.github.com/sabondano/a006ae9d84e354823dae
+* * Samson Brock - "Turing School: Pro Tips"
 
 **Week of 7/13**
 
