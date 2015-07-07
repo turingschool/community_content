@@ -1,7 +1,7 @@
 **Week of 7/6**
 
 * Vanessa Gomez - "Studio Production life from conception to completion"
-* Justin Holzmann - "Meta 80/20"
+* Justin Holzmann - "Meta 80/20" https://gist.github.com/philmphoenix/e726d65e204515212218
 * Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
