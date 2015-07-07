@@ -9,7 +9,7 @@
 * Rick Bacci - "Fun with Ruby Processing"
 * Brett Grigsby - "VR: The Next Big Platform"
 * Sebastian Abondano - "Greatness Isn't Born. It's Grown." https://gist.github.com/sabondano/a006ae9d84e354823dae
-* * Samson Brock - "Turing School: Pro Tips"
+* Samson Brock - "Turing School: Pro Tips" https://gist.github.com/imwithsam/4b3505cb6444a0ea253d
 
 **Week of 7/13**
 
