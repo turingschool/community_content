@@ -2,7 +2,7 @@
 
 * Vanessa Gomez - "Studio Production life from conception to completion" https://gist.github.com/vanegomez/ea1a06cd5ee5986cf29b
 * Justin Holzmann - "Meta 80/20" https://gist.github.com/philmphoenix/e726d65e204515212218
-* Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi"
+* Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi" https://gist.github.com/eric-dowty/237a172efeaf8dfb3ef6
 * Thomas Leskin - "Prototypal vs Classical Inheritance" https://gist.github.com/tleskin/f17465b433996e494a4f
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
 * Dave Maurer - "What is that thing? - OR - The four core things to worry about during module 1"
