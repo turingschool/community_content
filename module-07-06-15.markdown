@@ -5,7 +5,7 @@
 * Eric Dowty - "Who wants some raspberry pi? Inspirational projects using a Raspberry Pi" https://gist.github.com/eric-dowty/237a172efeaf8dfb3ef6
 * Thomas Leskin - "Prototypal vs Classical Inheritance" https://gist.github.com/tleskin/f17465b433996e494a4f
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS" https://gist.github.com/MLee21/ab85732c466738b3c50d
-* Dave Maurer - "What is that thing? - OR - The four core things to worry about during module 1"
+* Dave Maurer - "What is that thing? - OR - The seven deadly things to worry about during module 1" https://gist.github.com/davemaurer/2a88a65dafb245d27b86
 * Rick Bacci - "Fun with Ruby Processing" https://gist.github.com/a8ece2fbae9ab958bd9f.git
 * Brett Grigsby - "VR: The Next Big Platform" https://gist.github.com/brettgrigsby/9ac93634926b92533451
 * Sebastian Abondano - "Greatness Isn't Born. It's Grown." https://gist.github.com/sabondano/a006ae9d84e354823dae
