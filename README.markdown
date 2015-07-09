@@ -1,6 +1,6 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation should take approximately 3-6 hours. 
+Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation should take approximately 3-6 hours. *If you are in module 4, you have the option of leading/teaching a 1-hour session for other students in place of giving a final lightning talk.* 
 
 ## Schedule
 
