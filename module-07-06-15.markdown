@@ -59,7 +59,7 @@
 * Justin Holmes
 * Mitch Ashby- "A lightning lightning talk"
 * David Shim
-* Lovisa Svallingson - "Why you should start a startup in Stockholm"
+* Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World" 
 
 **Week of 8/10**
 
