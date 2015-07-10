@@ -22,7 +22,7 @@
 * Max Tedford
 * Jamie Kawahara - "3D printing on the Lulzbot"
 * Michael Dorrance
-* Alex Tideman - "Bolide Detection Systems: How to not die in space"
+* Drew Conly
 * Jack Yeh - "How Ruby parses your code"
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
@@ -48,7 +48,7 @@
 * Lev Kravinsky
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
-* Drew Conly
+* Alex Tideman - "Bolide Detection Systems: How to not die in space"
 
 **Week of 8/3**
 
