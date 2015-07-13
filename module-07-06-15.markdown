@@ -21,7 +21,7 @@ Talks:
 * David Daniel
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
-* Drew Conly
+* Drew Conly - "With a grain of salt" 
 * Jack Yeh - "How Ruby parses your code"
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
