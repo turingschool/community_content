@@ -20,7 +20,7 @@ Talks:
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
 * David Daniel
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
-* Max Tedford
+* Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
 * Drew Conly
 * Jack Yeh - "How Ruby parses your code"
 * Vanessa Gomez - "No excuse for bad typography on the web"
