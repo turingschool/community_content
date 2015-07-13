@@ -18,7 +18,7 @@
 * Andrew Carmer
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
 * David Daniel
-* Andrew Fink
+* Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford
 * Jamie Kawahara - "3D printing on the Lulzbot"
 * Michael Dorrance
