@@ -18,7 +18,7 @@
 Talks:
 
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
-* David Daniel
+* Andrew Carmer- Ruby on Robots
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
 * Drew Conly
