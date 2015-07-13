@@ -31,6 +31,9 @@ Student-led Sessions:
   - how to pick a thing to print
   - how to print it
   - how to make 3d scans
+* Dave Daniel
+  - setting up plugins / shortcuts for atom/sublime/vim/terminal
+
 
 **Week of 7/20**
 
