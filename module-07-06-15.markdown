@@ -20,8 +20,14 @@
 * David Daniel
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford
-* Jamie Kawahara - "3D printing on the Lulzbot"
-* Michael Dorrance - "The power of Invisibility"
+* Jamie Kawahara - "3D printing on the Lulzbot" (Student-led session, 2-4pm)
+  - how to pick a thing to print
+  - how to print it
+  - how to make 3d scans
+* Michael Dorrance - HTML5 mobile apps with IonicFramework (Student-led session, 2-4pm)
+  - Get a hello world app running
+  - Introduce some BASIC Angular 
+  - Run the app on their personal mobile device 
 * Drew Conly
 * Jack Yeh - "How Ruby parses your code"
 * Vanessa Gomez - "No excuse for bad typography on the web"
