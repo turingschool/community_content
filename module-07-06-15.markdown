@@ -44,7 +44,7 @@ Talks:
 * Tracy Caruso
 * Robert M. Cornell
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
-* Chelsea Worrel
+* Chelsea Worrel - "Teaching Kids to Code"
 * Jason Wright - "Javascript and Jasmine"
 * Adam Caron
 * Mike Reeves - "Living and Working Abroad"
