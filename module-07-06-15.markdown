@@ -31,8 +31,10 @@ Student-led Sessions:
   - how to pick a thing to print
   - how to print it
   - how to make 3d scans
-* Dave Daniel
-  - setting up plugins / shortcuts for atom/sublime/vim/terminal
+* Dave Daniel - 
+  - Top plugins for Sublime / Atom & how to find new ones
+  - How to make terminal aliases
+  - Make your Sublime / Atom act like Vim
 
 
 **Week of 7/20**
