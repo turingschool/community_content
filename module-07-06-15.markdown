@@ -17,7 +17,7 @@
 
 Talks:
 
-* Michelle Golle- "Susan Cain: A Quiet Revolution"
+* Michelle Golle- "Susan Cain: A Quiet Revolution" https://gist.github.com/MichelleGolle/c342837bc1fa7c2b50d1
 * Andrew Carmer- Ruby on Robots https://gist.github.com/Carmer/e84a2d99064c2a204b97
 * Andrew Fink - Bioinformatics - "from the DNA code to code code" https://gist.github.com/adfink/7e8fff26211e381d7e70
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
