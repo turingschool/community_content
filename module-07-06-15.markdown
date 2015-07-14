@@ -17,7 +17,7 @@
 
 Talks:
 
-* Michelle Golle- "Susan Cain: A Quiet Revolution"
+* Michelle Golle- "Susan Cain: A Quiet Revolution" https://gist.github.com/MichelleGolle/c342837bc1fa7c2b50d1
 * Andrew Carmer- Ruby on Robots
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
@@ -37,7 +37,7 @@ Student-led Sessions:
 
 **Week of 7/20**
 
-Talks: 
+Talks:
 
 * Mihir Parikh
 * Morgan Miller
@@ -53,8 +53,8 @@ Student-Led Sessions:
 
 * Michael Dorrance - HTML5 mobile apps with IonicFramework (Student-led session, 2-4pm)
   - Get a hello world app running
-  - Introduce some BASIC Angular 
-  - Run the app on their personal mobile device 
+  - Introduce some BASIC Angular
+  - Run the app on their personal mobile device
 
 **Week of 7/27**
 
@@ -77,7 +77,7 @@ Student-Led Sessions:
 * Justin Holmes
 * Mitch Ashby- "A lightning lightning talk"
 * David Shim
-* Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World" 
+* Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World"
 
 **Week of 8/10**
 
