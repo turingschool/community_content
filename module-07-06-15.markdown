@@ -22,7 +22,7 @@ Talks:
 * Andrew Fink - Bioinformatics - "from the DNA code to code code" https://gist.github.com/adfink/7e8fff26211e381d7e70
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry": https://gist.github.com/maxtedford/8e35db0a7dbcef00adc1
 * Drew Conly - "With a grain of salt" https://gist.github.com/Drew242/a1f8279d94bd1a2bfe0f (updated sources)
-* Jack Yeh - "How Ruby parses your code"
+* Jack Yeh - "How Ruby parses your code" https://gist.github.com/jxandery/4c46d9451b8030034085
 * Vanessa Gomez - "No excuse for bad typography on the web"
 
 Student-led Sessions:
