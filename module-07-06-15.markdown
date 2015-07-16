@@ -27,7 +27,7 @@ Talks:
 
 Student-led Sessions:
 
-* Jamie Kawahara - "3D printing on the Lulzbot" (Student-led session, 2-3pm)
+* Jamie Kawahara - "3D printing on the Lulzbot" (Student-led session, 2-3pm) https://gist.github.com/androidgrl/c410cdb90b8023b9b56b
   - how to pick a thing to print
   - how to print it
   - how to make 3d scans
