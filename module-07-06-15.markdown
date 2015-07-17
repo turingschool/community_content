@@ -48,7 +48,7 @@ Talks:
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
 * Chelsea Worrel - "Teaching Kids to Code"
 * Jason Wright - "Javascript and Jasmine"
-* Adam Caron
+* Alex Tideman - "Bolide Detection Systems: How to not die in space"
 * Mike Reeves - "Living and Working Abroad"
 
 Student-Led Sessions:
@@ -67,7 +67,7 @@ Student-Led Sessions:
 * Lev Kravinsky
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
-* Alex Tideman - "Bolide Detection Systems: How to not die in space"
+* Adam Caron
 
 **Week of 8/3**
 
