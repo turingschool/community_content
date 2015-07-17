@@ -46,7 +46,6 @@ Talks:
 * Tracy Caruso
 * Robert M. Cornell
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
-* Chelsea Worrel - "Teaching Kids to Code"
 * Jason Wright - "Javascript and Jasmine"
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
 * Mike Reeves - "Living and Working Abroad"
@@ -63,7 +62,7 @@ Student-Led Sessions:
 * Kenny Chen
 * Kristina Brown
 * Whitney Hiemstra
-* Michael Merrill
+* Chelsea Worrel - "Teaching Kids to Code"
 * Lev Kravinsky
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
