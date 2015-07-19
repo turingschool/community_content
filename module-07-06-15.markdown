@@ -52,10 +52,11 @@ Talks:
 
 Student-Led Sessions:
 
-* Michael Dorrance - HTML5 mobile apps with IonicFramework (Student-led session, 2-4pm)
-  - Get a hello world app running
-  - Introduce some BASIC Angular 
-  - Run the app on their personal mobile device 
+* Michael Dorrance - Breaking down problems with wireframes  (Student-led session, 2-4pm)
+  - Gain an understanding of the REAL user stories
+  - Introduce wireframing tools and techniques
+  - Lets break down the user stories with the classic project "Traffic Spy"  
+  - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
 **Week of 7/27**
 
