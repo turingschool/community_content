@@ -62,7 +62,7 @@ Student-Led Sessions:
 
 * Kenny Chen
 * Kristina Brown
-* Whitney Hiemstra
+* Whitney Hiemstra - "How Driverless Cars See the Road"
 * Chelsea Worrel - "Teaching Kids to Code"
 * Lev Kravinsky
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
