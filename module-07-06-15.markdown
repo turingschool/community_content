@@ -42,7 +42,6 @@ Student-led Sessions:
 Talks: 
 
 * Mihir Parikh
-* Morgan Miller
 * Tracy Caruso
 * Robert M. Cornell
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
@@ -56,6 +55,10 @@ Student-Led Sessions:
   - Get a hello world app running
   - Introduce some BASIC Angular 
   - Run the app on their personal mobile device 
+* Morgan Miller - Getting to know the Rails console (Student-led session)
+  - Making it more readable with awesome_print
+  - Tricks to make your workflow more efficient
+  - How to test helpers, make app requests and more
 
 **Week of 7/27**
 
