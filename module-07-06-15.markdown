@@ -41,7 +41,7 @@ Student-led Sessions:
 
 Talks: 
 
-* Mihir Parikh
+* Mihir Parikh - queues and a practical example.  This is going to be a blog post on my beautiful blog.
 * Tracy Caruso
 * Robert M. Cornell
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
