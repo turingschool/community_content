@@ -49,6 +49,7 @@ Talks:
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
 * Mike Reeves - "Living and Working Abroad"
 * Vanessa Gomez - "No excuse for bad typography on the web"
+* Lev Kravinsky - "Enumerator Playground"
 
 Student-Led Sessions:
 
