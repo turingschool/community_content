@@ -42,7 +42,7 @@ Student-led Sessions:
 Talks: 
 
 * Mihir Parikh
-* Tracy Caruso
+* Tracy Caruso - "CSS the hard stuff"
 * Robert M. Cornell
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
 * Jason Wright - "Javascript and Jasmine"
