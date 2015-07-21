@@ -48,7 +48,7 @@ Talks:
 * Jason Wright - "Javascript and Jasmine"
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
 * Mike Reeves - "Living and Working Abroad"
-* Vanessa Gomez - "No excuse for bad typography on the web"
+* Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
 
 Student-Led Sessions:
 
