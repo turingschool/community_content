@@ -44,7 +44,7 @@ Talks:
 * Mihir Parikh - queues and a practical example.  This is going to be a blog post on my beautiful blog.
 * Tracy Caruso - "CSS the hard stuff"
 * Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
-* Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
+* Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media" - https://gist.github.com/with-a-k/73d271ef5216fd8c38e0
 * Jason Wright - "Javascript and Jasmine" https://gist.github.com/sudbutt/5eca75ef57dd2ed274c9
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
   https://gist.github.com/Alex-Tideman/4b37b822430bf7a15065
