@@ -47,6 +47,7 @@ Talks:
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
 * Jason Wright - "Javascript and Jasmine"
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
+  https://gist.github.com/Alex-Tideman/4b37b822430bf7a15065
 * Mike Reeves - "Living and Working Abroad"
 * Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
 * Lev Kravinsky - "Enumerator Playground"
