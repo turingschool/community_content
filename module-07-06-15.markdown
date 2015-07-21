@@ -61,9 +61,7 @@ Student-Led Sessions:
   - Lets break down the user stories with the classic project "Traffic Spy"  
   - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 * Morgan Miller - Getting to know the Rails console (Student-led session)
-  - Making it more readable with awesome_print
-  - Tricks to make your workflow more efficient
-  - How to test helpers, make app requests and more
+  - https://gist.github.com/morganmiller/3a0292ee1fa0f7096cfb
 
 **Week of 7/27**
 
