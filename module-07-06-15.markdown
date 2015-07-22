@@ -42,6 +42,7 @@ Student-led Sessions:
 Talks: 
 
 * Mihir Parikh - queues and a practical example.  This is going to be a blog post on my beautiful blog.
+   https://gist.github.com/mihir787/e691d37906663dd51905
 * Tracy Caruso - "CSS the hard stuff" https://gist.github.com/tracymcaruso/230ad064881d51ef0d0a
 * Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media" - https://gist.github.com/with-a-k/73d271ef5216fd8c38e0
