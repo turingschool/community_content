@@ -50,7 +50,7 @@ Talks:
   https://gist.github.com/Alex-Tideman/4b37b822430bf7a15065
 * Mike Reeves - "Living and Working Abroad" https://gist.github.com/michael-reeves/68be3c6a89427679d8a2
 * Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
-* Lev Kravinsky - "Enumerator Playground"
+* Lev Kravinsky - "Enumerator Playground" https://gist.github.com/levthedev/8913e9b05ad16d4cd35c
 
 Student-Led Sessions:
 
