@@ -45,7 +45,7 @@ Talks:
 * Tracy Caruso - "CSS the hard stuff" https://gist.github.com/tracymcaruso/230ad064881d51ef0d0a
 * Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media" - https://gist.github.com/with-a-k/73d271ef5216fd8c38e0
-* Jason Wright - "Javascript and Jasmine" https://gist.github.com/sudbutt/5eca75ef57dd2ed274c9
+* Jason Wright - "Javascript and Jasmine" https://gist.github.com/noobjey/293c3a65d8a97f164d1c
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
   https://gist.github.com/Alex-Tideman/4b37b822430bf7a15065
 * Mike Reeves - "Living and Working Abroad" https://gist.github.com/michael-reeves/68be3c6a89427679d8a2
