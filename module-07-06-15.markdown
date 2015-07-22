@@ -44,7 +44,6 @@ Talks:
 * Mihir Parikh - queues and a practical example.  This is going to be a blog post on my beautiful blog.
    https://gist.github.com/mihir787/e691d37906663dd51905
 * Tracy Caruso - "CSS the hard stuff" https://gist.github.com/tracymcaruso/230ad064881d51ef0d0a
-* Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media" - https://gist.github.com/with-a-k/73d271ef5216fd8c38e0
 * Jason Wright - "Javascript and Jasmine" https://gist.github.com/noobjey/293c3a65d8a97f164d1c
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
@@ -74,6 +73,7 @@ Student-Led Sessions:
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
 * Adam Caron
+* Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
 
 **Week of 8/3**
 
