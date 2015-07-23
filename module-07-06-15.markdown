@@ -91,7 +91,6 @@ Student-Led Sessions:
 * Kyle Henson
 * Josh Cass
 * Margarett Ly
-* Dmitry Vizersky
 * Drew Reynolds
 * Jai Misra
 * Justin Holzmann - "The Big Pond Effect"
