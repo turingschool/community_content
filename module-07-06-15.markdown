@@ -69,7 +69,7 @@ Student-Led Sessions:
 * Kristina Brown
 * Whitney Hiemstra - "How Driverless Cars See the Road"
 * Chelsea Worrel - "Teaching Kids to Code"
-* Lev Kravinsky - "Mock Lobster!"
+* Lev Kravinsky - "Mock Lobster!" https://gist.github.com/levthedev/7cf717c5ff78014f2a23
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
 * Adam Caron
