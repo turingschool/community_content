@@ -49,7 +49,6 @@ Talks:
 * Alex Tideman - "Bolide Detection Systems: How to not die in space"
   https://gist.github.com/Alex-Tideman/4b37b822430bf7a15065
 * Mike Reeves - "Living and Working Abroad" https://gist.github.com/michael-reeves/68be3c6a89427679d8a2
-* Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
 * Lev Kravinsky - "Enumerator Playground" https://gist.github.com/levthedev/8913e9b05ad16d4cd35c
 
 Student-Led Sessions:
@@ -73,6 +72,7 @@ Student-Led Sessions:
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
 * Max Millington
 * Adam Caron
+* Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
 * Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
 
 **Week of 8/3**
