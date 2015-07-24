@@ -70,7 +70,7 @@ Student-Led Sessions:
 * Chelsea Worrel - "Teaching Kids to Code"
 * Lev Kravinsky - "Mock Lobster!" https://gist.github.com/levthedev/7cf717c5ff78014f2a23
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life"
-* Max Millington
+* Max Millington - "PIZZA(pizza)"
 * Adam Caron
 * Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
 * Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
