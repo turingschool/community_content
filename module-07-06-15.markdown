@@ -81,7 +81,7 @@ Student-Led Sessions:
 * Patrick Medaugh
 * Tess Griffin
 * Sally MacNicholas
-* Justin Holmes
+* Justin Holmes - "Common Mistakes in Rails"
 * Mitch Ashby- "The role of empathy in a Software Developer's career"
 * David Shim - "Bitcoin and Cryptocurrencies"
 * Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World" 
