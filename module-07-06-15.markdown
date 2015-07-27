@@ -66,7 +66,7 @@ Student-Led Sessions:
 
 * Kenny Chen
 * Kristina Brown
-* Whitney Hiemstra - "How Driverless Cars See the Road"
+* Whitney Hiemstra - "How Driverless Cars See the Road" https://gist.github.com/whithub/93645e3e3d519d80d425
 * Chelsea Worrel - "Teaching Kids to Code"
 * Lev Kravinsky - "Mock Lobster!" https://gist.github.com/levthedev/7cf717c5ff78014f2a23
 * Marla Brizel - "Yes You Kanban! Using Agile to Manage Your Life" https://gist.github.com/marlabrizel/97e3864d1fa0091efbad
