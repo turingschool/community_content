@@ -72,7 +72,7 @@ Student-Led Sessions:
 * Max Millington - "PIZZA(pizza)"
 * Adam Caron - "Exploring the Line Where Software Design Ends & Visual Design Begins" https://gist.github.com/adamcaron/4413ae0598e5163007ac
 * Vanessa Gomez - "No excuse for bad typography on the web" https://gist.github.com/vanegomez/0760da668eced70dcc00
-* Robert M. Cornell - Law Enforcement Tech (Either a focus on how web dev can improve LEO software, or an examination of the technology today's police officer is carrying and why the systems need to be intutitive to use.  Still debating and may combine.  Outline coming...)
+* Robert M. Cornell - https://gist.github.com/RMCornell/ef6662da4c53bc9689e7
 
 **Week of 8/3**
 
