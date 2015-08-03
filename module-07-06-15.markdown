@@ -78,7 +78,7 @@ Student-Led Sessions:
 
 * Fred Block
 * Patrick Medaugh
-* Tess Griffin
+* Tess Griffin - "Basics of 3D Animation"
 * Sally MacNicholas
 * Justin Holmes - "Common Mistakes in Rails"
 * Mitch Ashby- "The role of empathy in a Software Developer's career"
