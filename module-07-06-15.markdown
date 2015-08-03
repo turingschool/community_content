@@ -78,7 +78,7 @@ Student-Led Sessions:
 
 * Fred Block - "How to Fly a Quadcopter"  (also requesting a slot for a student-led session + lightning talk)
 * Patrick Medaugh
-* Tess Griffin
+* Tess Griffin - "Basics of 3D Animation"
 * Sally MacNicholas - "Making the switch from erb to haml"
 * Justin Holmes - "Common Mistakes in Rails"
 * Mitch Ashby- "The role of empathy in a Software Developer's career"
