@@ -76,7 +76,7 @@ Student-Led Sessions:
 
 **Week of 8/3**
 
-* Fred Block
+* Fred Block - "How to Fly a Quadcopter"  (also requesting a slot for a student-led session + lightning talk)
 * Patrick Medaugh
 * Tess Griffin
 * Sally MacNicholas
