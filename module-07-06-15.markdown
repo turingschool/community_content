@@ -77,7 +77,7 @@ Student-Led Sessions:
 **Week of 8/3**
 
 * Fred Block - "How to Fly a Quadcopter"  (also requesting a slot for a student-led session + lightning talk)
-* Patrick Medaugh
+* Patrick Medaugh - "Intro to MongoDB"
 * Tess Griffin - "Basics of 3D Animation"
 * Sally MacNicholas - "Making the switch from erb to haml"
 * Justin Holmes - "Common Mistakes in Rails"
