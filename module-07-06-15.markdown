@@ -80,7 +80,9 @@ Student-Led Sessions:
 * Patrick Medaugh
 * Tess Griffin - "Basics of 3D Animation"
 * Sally MacNicholas - "Making the switch from erb to haml"
-* Justin Holmes - "Common Mistakes in Rails"
+* Justin Holmes
+*   Topic: "Common Mistakes in Rails"
+*   Outline: https://gist.github.com/Justin-Holmes/d2e856971d1593ca6ee9
 * Mitch Ashby- "The role of empathy in a Software Developer's career"
 * David Shim - "Bitcoin and Cryptocurrencies"
 * Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World" 
