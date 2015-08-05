@@ -79,6 +79,7 @@ Student-Led Sessions:
 * Fred Block - "How to Fly a Quadcopter"  (also requesting a slot for a student-led session + lightning talk)
 * https://gist.github.com/blocknroll/2e54ac169f23e634f025
 * Patrick Medaugh - "Intro to MongoDB"
+* https://gist.github.com/patrickmedaugh/95ec60771c0a0253ca44
 * Tess Griffin -  "Animation in 3D Space" https://gist.github.com/tessgriffin/4f8ed953b8b10f5990dc
 * Sally MacNicholas - "Making the switch from erb to haml"
 * Justin Holmes
