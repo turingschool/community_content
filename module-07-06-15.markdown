@@ -86,7 +86,7 @@ Student-Led Sessions:
 *   Outline: https://gist.github.com/Justin-Holmes/d2e856971d1593ca6ee9
 * Mitch Ashby- "The role of empathy in a Software Developer's career"
 *           - https://gist.github.com/mitchashby16/6628787264d761963741
-* David Shim - "Bitcoin and Cryptocurrencies"
+* David Shim - "Bitcoin and the Developing World" https://gist.github.com/dsshim/735d0ae8871becb18a53
 * Lovisa Svallingson - "Why you should start a startup in Stockholm" || "Programming Around the World" 
 * Lev Kravinsky - "Overthinking your first Ruby Class, or, the Proculator, or Code Golf is Bad and Here's Why" -  gist.github.com/levthedev/bbfcf92ed83c0f67ab8e
 
