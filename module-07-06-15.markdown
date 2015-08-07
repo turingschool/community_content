@@ -99,3 +99,4 @@ Student-Led Sessions:
 * Drew Reynolds
 * Jai Misra
 * Justin Holzmann - "The Big Pond Effect"
+* Lev Kravinsky - Concurrency in Ruby
