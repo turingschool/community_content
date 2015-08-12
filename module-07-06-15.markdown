@@ -97,6 +97,6 @@ Student-Led Sessions:
 * Josh Cass
 * Margarett Ly
 * Drew Reynolds
-* Jai Misra
+* Jai Misra - "Naming"
 * Justin Holzmann - "The Big Pond Effect"
 * Lev Kravinsky - Concurrency in Ruby
