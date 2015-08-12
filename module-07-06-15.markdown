@@ -93,9 +93,9 @@ Student-Led Sessions:
 
 **Week of 8/10**
 
-* Kyle Henson
+* Kyle Henson - MODULE 4
 * Josh Cass - Open Source?
-* Margarett Ly
+* Margarett Ly  - Women in Tech
 * Drew Reynolds - "Rails Helpers That Help You When You Need Help" 
 * https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
 * Jai Misra - "Naming"
