@@ -96,8 +96,7 @@ Student-Led Sessions:
 * Kyle Henson - MODULE 4
 * Josh Cass - Open Source?
 * Margarett Ly  - Women in Tech
-* Drew Reynolds - "Rails Helpers That Help You When You Need Help" 
-* https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
+* Drew Reynolds - "Rails Helpers That Help You When You Need Help" https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
 * Jai Misra - "Naming"
 * Justin Holzmann - "The Big Pond Effect"
 * Lev Kravinsky - Concurrency in Ruby
