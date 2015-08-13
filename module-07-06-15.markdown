@@ -98,4 +98,5 @@ Student-Led Sessions:
 * Margarett Ly  - Women in Tech
 * Drew Reynolds - "Rails Helpers That Help You When You Need Help" https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
 * Jai Misra - "Naming"
-* Lev Kravinsky - Concurrency in Ruby
+* Lev Kravinsky - Concurrency in Ruby https://gist.github.com/levthedev/51c3ab9db0c682fcb670
+* Lev Kravinsky - Elixir is Pretty Cool https://gist.github.com/levthedev/cc06f2a2de707ef5113a
