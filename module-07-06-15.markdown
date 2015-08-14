@@ -95,7 +95,7 @@ Student-Led Sessions:
 
 * Kyle Henson - MODULE 4
 * Josh Cass - Open Source?
-* Margarett Ly  - Women in Tech
+* Margarett Ly  - The Case for Diversity
 * Drew Reynolds - "Rails Helpers That Help You When You Need Help" https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
 * Jai Misra - "Naming"
 * Lev Kravinsky - Concurrency in Ruby https://gist.github.com/levthedev/51c3ab9db0c682fcb670
