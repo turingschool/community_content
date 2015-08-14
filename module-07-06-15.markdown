@@ -97,6 +97,6 @@ Student-Led Sessions:
 * Josh Cass - Open Source?
 * Margarett Ly  - Women in Tech
 * Drew Reynolds - "Rails Helpers That Help You When You Need Help" https://gist.github.com/NYDrewReynolds/a1fa8a115e5d55fdd511
-* Jai Misra - "Naming"
+* Jai Misra - "Naming" https://gist.github.com/mrjaimisra/db3175fefbb4f7852b6b
 * Lev Kravinsky - Concurrency in Ruby https://gist.github.com/levthedev/51c3ab9db0c682fcb670
 * Lev Kravinsky - Elixir is Pretty Cool https://gist.github.com/levthedev/cc06f2a2de707ef5113a
