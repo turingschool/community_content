@@ -39,7 +39,7 @@ Slot 3:
 
 Talks:
 
-* Morgan Miller
+* Morgan Miller -
 * Lev Kravinsky -
 * Lovisa Svallingson -
 * Jai Misra -
