@@ -25,7 +25,7 @@ Talks:
 * Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson -
 * Mimi Schatz - To be a better pair, understand what you value.
-* Bret Doucette - Travel Credit Cards
+* Bret Doucette - Your Credit Score - Myths & Legends 
 
 Student-led Sessions:
 
