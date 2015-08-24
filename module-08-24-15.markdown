@@ -23,7 +23,7 @@ Talks:
 * Jason Wright -
 * Robert M. Cornell -
 * Sally MacNicholas -
-* Mitch Ashby-
+* Mitch Ashby- Where software development and the social services meet.
 * George Hudson -
 * Mimi Schatz -
 
