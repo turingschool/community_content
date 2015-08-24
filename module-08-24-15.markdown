@@ -16,7 +16,6 @@ Student-led Sessions:
 
 Talks:
 
-* David Shim -
 * Brett Grigsby -
 * David Stinnette - Hitting the curve (code with confidence)
 * Marybeth Burch - NOLS No Doze Leadership Styles
@@ -67,7 +66,7 @@ Talks:
 * Jack Yeh -
 * Rose Kohn -
 * Sebastian Abondano -
-* Travis Hasby -
+* Travis Haby -
 * Josh Cass -
 * Drew Reynolds -
 * Mike Reeves -
@@ -127,7 +126,7 @@ Talks:
 
 * Whitney Hiemstra -
 * Jamie Kawahara -
-* Mitch Ashby -
+* Mitch Ashby - Where software development and the social services meet.
 * Bret Doucette -
 * Chris Cenatiempo -
 * Max Tedford -
