@@ -7,10 +7,12 @@ Talks :
 
 Student-led Sessions:
 
-* Jamie Kawahara - [3D printing on the Lulzbot](https://gist.github.com/androidgrl/c410cdb90b8023b9b56b) (1 hour)
-  - how to pick a thing to print
-  - how to print it
-  - how to make 3d scans
+* Michael Dorrance - Breaking down problems with wireframes  (Student-led session, 2-4pm)
+  https://gist.github.com/mdorrance/0542aa31b9328bf80c9c
+  - Gain an understanding of the REAL user stories
+  - Introduce wireframing tools and techniques
+  - Lets break down the user stories with the classic project "Traffic Spy"
+  - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
 **Week of 8/24**
 
