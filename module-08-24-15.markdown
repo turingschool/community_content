@@ -26,6 +26,7 @@ Talks:
 * Mitch Ashby-
 * George Hudson -
 * Mimi Schatz -
+* Bret Doucette - Travel Credit Cards
 
 Student-led Sessions:
 
