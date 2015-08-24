@@ -23,7 +23,7 @@ Talks:
 * Jason Wright -
 * Robert M. Cornell -
 * Sally MacNicholas -
-* Mitch Ashby-
+* Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson -
 * Mimi Schatz -
 
@@ -126,7 +126,7 @@ Talks:
 
 * Whitney Hiemstra -
 * Jamie Kawahara -
-* Marla Brizel -
+* Mitch Ashby -
 * Bret Doucette -
 * Chris Cenatiempo -
 * Max Tedford -
