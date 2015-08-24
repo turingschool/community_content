@@ -19,7 +19,7 @@ Talks:
 * David Shim -
 * Brett Grigsby -
 * David Stinnette - Hitting the curve (code with confidence)
-* Marybeth Burch -
+* Marybeth Burch - NOLS No Doze Leadership Styles
 * Jason Wright -
 * Robert M. Cornell -
 * Sally MacNicholas -
