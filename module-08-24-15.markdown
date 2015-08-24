@@ -18,7 +18,7 @@ Talks:
 
 * David Shim -
 * Brett Grigsby -
-* David Stinnette -
+* David Stinnette - Hitting the curve (code with confidence)
 * Marybeth Burch -
 * Jason Wright -
 * Robert M. Cornell -
