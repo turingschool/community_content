@@ -29,7 +29,13 @@ Talks:
 
 Student-led Sessions:
 
-Slot 1:
+Slot 1: 
+
+* Regis Boudinot [Linux: Free as in Freedom](https://gist.github.com/selfup/292e09d0b0b23236fbbf) (2 hours) 
+  - Install Linux on a VM or a spare machine
+  - Get ruby, node, rails, and gems
+  - Customize your distro
+  - Learn about DevOps/Linux Tools
 
 Slot 2:
 
