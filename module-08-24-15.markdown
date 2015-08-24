@@ -26,6 +26,7 @@ Talks:
 * Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson -
 * Mimi Schatz -
+* Bret Doucette - Travel Credit Cards
 
 Student-led Sessions:
 
