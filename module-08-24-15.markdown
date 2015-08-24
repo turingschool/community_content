@@ -21,7 +21,6 @@ Talks:
 * Marybeth Burch - NOLS No Doze Leadership Styles
 * Jason Wright -
 * Robert M. Cornell -
-* Sally MacNicholas -
 * Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson -
 * Mimi Schatz -
@@ -39,8 +38,8 @@ Slot 3:
 
 Talks:
 
+* Sally MacNicholas -
 * Morgan Miller -
-* Lev Kravinsky -
 * Lovisa Svallingson -
 * Jai Misra -
 * Matt Hecker -
