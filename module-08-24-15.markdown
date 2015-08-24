@@ -127,7 +127,7 @@ Talks:
 * Whitney Hiemstra -
 * Jamie Kawahara -
 * Mitch Ashby - Where software development and the social services meet.
-* Bret Doucette -
+* David Shim -
 * Chris Cenatiempo -
 * Max Tedford -
 * Matt Ewell -
