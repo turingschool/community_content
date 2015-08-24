@@ -24,7 +24,7 @@ Talks:
 * Sally MacNicholas -
 * Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson -
-* Mimi Schatz -
+* Mimi Schatz - To be a better pair, understand what you value.
 * Bret Doucette - Travel Credit Cards
 
 Student-led Sessions:
