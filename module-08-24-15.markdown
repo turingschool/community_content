@@ -125,14 +125,12 @@ Slot 3:
 Talks:
 
 * Whitney Hiemstra -
-* Jamie Kawahara -
 * Mitch Ashby - Where software development and the social services meet.
 * David Shim -
 * Chris Cenatiempo -
 * Max Tedford -
 * Matt Ewell -
 * Michael Wong -
-* Rebeka Sosa -
 
 Student-Led Sessions:
 
