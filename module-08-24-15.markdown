@@ -22,7 +22,7 @@ Talks:
 * Marybeth Burch - NOLS No Doze Leadership Styles
 * Jason Wright -
 * Robert M. Cornell -
-* Marla Brizel- Take your project from good to great with automated tooling
+* Marla Brizel- [Take your project from good to great with automated tooling](https://gist.github.com/marlabrizel/0626734e3bfb0f913980)
 * George Hudson -
 * Mimi Schatz - To be a better pair, understand what you value.
 * Bret Doucette - [Your Credit Score - Common Myths](https://gist.github.com/bad6e/db72d1f2dc3028ff0789)
