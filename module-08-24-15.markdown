@@ -18,7 +18,7 @@ Student-led Sessions:
 Talks:
 
 * Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
-* David Stinnette - Hitting the curve (code with confidence)
+* David Stinnette - [Hitting the curve] (https://gist.github.com/dastinnette/e76245f9e19e1aae76cf) 
 * Marybeth Burch - NOLS No Doze Leadership Styles
 * Jason Wright -
 * Robert M. Cornell -
