@@ -26,6 +26,7 @@ Talks:
 * George Hudson -
 * Mimi Schatz - To be a better pair, understand what you value.
 * Bret Doucette - [Your Credit Score - Common Myths](https://gist.github.com/bad6e/db72d1f2dc3028ff0789)
+* Lev Kravinsky - [Marky Mark and the Funky Bunch are big fans of DSA](https://gist.github.com/levthedev/cedb5584c325458447e1)
 
 Student-led Sessions:
 
