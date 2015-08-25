@@ -19,7 +19,7 @@ Talks:
 
 * Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
 * David Stinnette - Hitting the curve (code with confidence)
-* Marybeth Burch - NOLS No Doze Leadership Styles
+* Marybeth Burch - [How do you Lead? Using your strengths, and knowing your challenges] (https://gist.github.com/mbburch/050df4e976f068b89cbd)
 * Jason Wright -
 * Robert M. Cornell -
 * Marla Brizel- [Take your project from good to great with automated tooling](https://gist.github.com/marlabrizel/0626734e3bfb0f913980)
