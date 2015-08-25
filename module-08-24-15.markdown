@@ -37,7 +37,15 @@ Slot 1:
   - Customize your distro
   - Learn about DevOps/Linux Tools
 
-Slot 2:
+* Lev Kravinsky - Elixir for Rubyists! (2 hours)
+This is the first part in a multi week elective about my favorite functional language, Elixir. It was designed with very pleasant Ruby-like syntax and is a great way to break out of your Object Oriented mindset and explore some other interesting paradigms. Expand your mind!
+
+Today, we'll talk about:
+  - History of Elixir (Erlang, Ruby, Lisp)
+  - Use cases of Elixir (extreme concurrency, pattern matching, web apps)
+  - Installing Elixir
+  - Basic Elixir syntax
+  - Functions, Modules, & Data Structures
 
 Slot 3:
 
