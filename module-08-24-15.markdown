@@ -24,7 +24,7 @@ Talks:
 * Robert M. Cornell -
 * Marla Brizel- [Take your project from good to great with automated tooling](https://gist.github.com/marlabrizel/0626734e3bfb0f913980)
 * George Hudson -
-* Mimi Schatz - To be a better pair, understand what you value.
+* Mimi Schatz - [Work smarter, understanding what you value](https://gist.github.com/mcschatz/a2ff0275bdf787689c18)
 * Bret Doucette - [Your Credit Score - Common Myths](https://gist.github.com/bad6e/db72d1f2dc3028ff0789)
 * Lev Kravinsky - [Marky Mark and the Funky Bunch are big fans of DSA](https://gist.github.com/levthedev/cedb5584c325458447e1)
 
