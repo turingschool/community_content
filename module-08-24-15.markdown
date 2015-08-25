@@ -17,7 +17,7 @@ Student-led Sessions:
 
 Talks:
 
-* Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
+* Brett Grigsby - [Truly Instant Messaging with Quantum Mechanics](https://gist.github.com/brettgrigsby/d6a336d3b1d3183cb945)
 * David Stinnette - [Hitting the curve] (https://gist.github.com/dastinnette/e76245f9e19e1aae76cf)
 * Marybeth Burch - [How do you Lead? Using your strengths, and knowing your challenges] (https://gist.github.com/mbburch/050df4e976f068b89cbd)
 * Jason Wright - [Sass, because its cool](https://gist.github.com/noobjey/12e050da7c9e1b5793dd) Jason Wright -
