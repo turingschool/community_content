@@ -20,7 +20,7 @@ Talks:
 * Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
 * David Stinnette - Hitting the curve (code with confidence)
 * Marybeth Burch - NOLS No Doze Leadership Styles
-* Jason Wright -
+* Jason Wright - [Sass, because its cool](https://gist.github.com/noobjey/12e050da7c9e1b5793dd)
 * Robert M. Cornell -
 * Marla Brizel- [Take your project from good to great with automated tooling](https://gist.github.com/marlabrizel/0626734e3bfb0f913980)
 * George Hudson -
