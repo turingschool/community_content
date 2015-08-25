@@ -18,27 +18,26 @@ Student-led Sessions:
 Talks:
 
 * Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
-* David Stinnette - Hitting the curve (code with confidence)
+* David Stinnette - [Hitting the curve] (https://gist.github.com/dastinnette/e76245f9e19e1aae76cf)
 * Marybeth Burch - [How do you Lead? Using your strengths, and knowing your challenges] (https://gist.github.com/mbburch/050df4e976f068b89cbd)
-* Jason Wright -
-* Robert M. Cornell -
+* Jason Wright - [Sass, because its cool](https://gist.github.com/noobjey/12e050da7c9e1b5793dd) Jason Wright -
 * Marla Brizel- [Take your project from good to great with automated tooling](https://gist.github.com/marlabrizel/0626734e3bfb0f913980)
 * George Hudson - [Keeping Connected With Your Kids During Turing](https://gist.github.com/Egogre/9fd9619a6f6f62692809)
-* Mimi Schatz - To be a better pair, understand what you value.
+* Mimi Schatz - [Work smarter, understanding what you value](https://gist.github.com/mcschatz/a2ff0275bdf787689c18)
 * Bret Doucette - [Your Credit Score - Common Myths](https://gist.github.com/bad6e/db72d1f2dc3028ff0789)
 * Lev Kravinsky - [Marky Mark and the Funky Bunch are big fans of DSA](https://gist.github.com/levthedev/cedb5584c325458447e1)
 
 Student-led Sessions:
 
-Slot 1: 
+Slot 1:
 
-* Regis Boudinot [Linux: Free as in Freedom](https://gist.github.com/selfup/292e09d0b0b23236fbbf) (2 hours) 
+* Regis Boudinot [Linux: Free as in Freedom](https://gist.github.com/selfup/292e09d0b0b23236fbbf) (2 hours)
   - Install Linux on a VM or a spare machine
   - Get ruby, node, rails, and gems
   - Customize your distro
   - Learn about DevOps/Linux Tools
 
-* Lev Kravinsky - [Elixir for Rubyists!](https://gist.github.com/levthedev/308c67e1270e6703be96) (2 hours) 
+* Lev Kravinsky - [Elixir for Rubyists!](https://gist.github.com/levthedev/308c67e1270e6703be96) (2 hours)
 
 This is the first part in a multi week elective about my favorite functional language, Elixir. It was designed with very pleasant Ruby-like syntax and is a great way to break out of your Object Oriented mindset and explore some other interesting paradigms. For specifics, see the lesson plan gist. Come learn about Elixir and expand your mind!
 
@@ -141,6 +140,7 @@ Talks:
 * Max Tedford -
 * Matt Ewell -
 * Michael Wong -
+* Robert M. Cornell -
 
 Student-Led Sessions:
 
