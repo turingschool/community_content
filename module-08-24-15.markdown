@@ -43,6 +43,11 @@ This is the first part in a multi week elective about my favorite functional lan
 
 
 Slot 3:
+* Michael Dorrance - [Breaking down problems with wireframes](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c) (2 hours)
+  - Gain an understanding of the REAL user stories
+  - Introduce wireframing tools and techniques
+  - Lets break down the user stories with the classic project "Traffic Spy"
+  - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
 **Week of 8/31**
 
@@ -61,6 +66,11 @@ Talks:
 Student-Led Sessions:
 
 Slot 1:
+* Michael Dorrance - [Intro to HTML5 Mobile Apps with Ionic]() (2 hours)
+  - Gain an understanding of hybrid mobile apps
+  - A high-level overview of Angular JS and Cordova
+  - Introduce [Ionic Framework](http://ionicframework.com/)
+  - Build a Hello World Mobile app and view it on your device
 
 Slot 2:
 
