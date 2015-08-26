@@ -8,10 +8,10 @@ Talks :
 Student-led Sessions:
 
 * Michael Dorrance - [Breaking down problems with wireframes](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c) (2 hours)
-  - Gain an understanding of the REAL user stories
-  - Introduce wireframing tools and techniques
-  - Lets break down the user stories with the classic project "Traffic Spy"
-  - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
+- Gain an understanding of the REAL user stories
+- Introduce wireframing tools and techniques
+- Lets break down the user stories with the classic project "Traffic Spy"
+- Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
 **Week of 8/24**
 
@@ -32,17 +32,22 @@ Student-led Sessions:
 Slot 1:
 
 * Regis Boudinot [Linux: Free as in Freedom](https://gist.github.com/selfup/292e09d0b0b23236fbbf) (2 hours)
-  - Install Linux on a VM or a spare machine
-  - Get ruby, node, rails, and gems
-  - Customize your distro
-  - Learn about DevOps/Linux Tools
+- Install Linux on a VM or a spare machine
+- Get ruby, node, rails, and gems
+- Customize your distro
+- Learn about DevOps/Linux Tools
 
 * Lev Kravinsky - [Elixir for Rubyists!](https://gist.github.com/levthedev/308c67e1270e6703be96) (2 hours)
 
 This is the first part in a multi week elective about my favorite functional language, Elixir. It was designed with very pleasant Ruby-like syntax and is a great way to break out of your Object Oriented mindset and explore some other interesting paradigms. For specifics, see the lesson plan gist. Come learn about Elixir and expand your mind!
 
 
-* Adam Caron "Note-taking Prowess with PivotalTracker" 
+Slot 3:
+* Michael Dorrance - [Breaking down problems with wireframes](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c) (2 hours)
+- Gain an understanding of the REAL user stories
+- Introduce wireframing tools and techniques
+- Lets break down the user stories with the classic project "Traffic Spy"
+- Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
 **Week of 8/31**
 
