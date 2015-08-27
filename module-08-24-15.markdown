@@ -54,7 +54,7 @@ Slot 3:
 Talks:
 
 * Sally MacNicholas -
-* Morgan Miller -
+* Drew Conly -
 * Lovisa Svallingson -
 * Jai Misra -
 * Matt Hecker -
@@ -94,7 +94,7 @@ __NONE this week due to Field Day.__
 Talks:
 
 * Rick Bacci -
-* Drew Conly -
+* Morgan Miller -
 * Regis Boudinot -
 * Ryan Asensio -
 * Tyler Graham -
