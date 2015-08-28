@@ -55,7 +55,7 @@ Talks:
 
 * Sally MacNicholas -
 * Morgan Miller -
-* Lovisa Svallingson -
+* Lovisa Svallingson - A step towards understanding JavaScript's bind(), apply() and call()
 * Jai Misra -
 * Matt Hecker -
 * Alon Waisman -
