@@ -58,7 +58,7 @@ Talks:
 * Lovisa Svallingson -
 * Jai Misra -
 * Matt Hecker -
-* Alon Waisman -
+* Alon Waisman - CRISPR's Totally Gonna Blow Your Mind
 * Andrew Fink -
 * Justin Pease -
 * Mike Dorrance -
