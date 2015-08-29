@@ -58,7 +58,7 @@ Talks:
 * Lovisa Svallingson -
 * Jai Misra -
 * Matt Hecker -
-* Alon Waisman - CRISPR's Totally Gonna Blow Your Mind
+* Alon Waisman - [CRISPR's Totally Gonna Blow Your Mind](https://gist.github.com/MowAlon/912d9a53323bc6c83a2b)
 * Andrew Fink -
 * Justin Pease -
 * Mike Dorrance -
