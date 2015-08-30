@@ -65,7 +65,12 @@ Talks:
 
 Student-Led Sessions:
 
-Slot 1:
+Slot 1: Josh Cass [Q / A Session](https://gist.github.com/joshcaStill not sure what those ENV variables are doing? Are form tags mysterious? What's so strong about strong_params? Bring your questions and I'll do my best to answer them, or we will find the answers together.
+
+I'm going to keep this primarily based around Rails / Sintatra / HTTP types of questions so this is a session for module 2 / 3 or 4 students.ss/f0ef83423a76f6a46085)
+Still not sure what those ENV variables are doing? Are form tags mysterious? What's so strong about strong_params? Bring your questions and I'll do my best to answer them, or we will find the answers together.
+
+I'm going to keep this primarily based around Rails / HTTP types of questions so this is a session for module 2 / 3 or 4 students.
 
 Slot 2:
 
