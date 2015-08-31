@@ -53,13 +53,12 @@ Slot 3:
 
 Talks:
 
-* Sally MacNicholas -
+* Sally MacNicholas - Automated scheduling with heroku and rake tasks
 * Drew Conly -
 * Lovisa Svallingson -
 * Jai Misra -
 * Matt Hecker -
 * Alon Waisman -
-* Andrew Fink -
 * Justin Pease -
 * Mike Dorrance -
 
