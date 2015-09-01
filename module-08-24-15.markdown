@@ -30,19 +30,13 @@ Talks:
 Student-led Sessions:
 
 Slot 1:
-
 * Regis Boudinot [Linux: Free as in Freedom](https://gist.github.com/selfup/292e09d0b0b23236fbbf) (2 hours)
 - Install Linux on a VM or a spare machine
 - Get ruby, node, rails, and gems
 - Customize your distro
 - Learn about DevOps/Linux Tools
 
-* Lev Kravinsky - [Elixir for Rubyists!](https://gist.github.com/levthedev/308c67e1270e6703be96) (2 hours)
-
-This is the first part in a multi week elective about my favorite functional language, Elixir. It was designed with very pleasant Ruby-like syntax and is a great way to break out of your Object Oriented mindset and explore some other interesting paradigms. For specifics, see the lesson plan gist. Come learn about Elixir and expand your mind!
-
-
-Slot 3:
+Slot 2:
 * Michael Dorrance - [Breaking down problems with wireframes](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c) (2 hours)
 - Gain an understanding of the REAL user stories
 - Introduce wireframing tools and techniques
@@ -55,7 +49,7 @@ Talks:
 
 * Sally MacNicholas - How to spam your friends with twilio, a rake task and a heroku scheduler
 * Drew Conly -
-* Lovisa Svallingson -
+* Lovisa Svallingson - A step towards understanding JavaScript's bind(), apply() and call()
 * Jai Misra -
 * Matt Hecker -
 * Alon Waisman -
@@ -68,7 +62,13 @@ Student-Led Sessions:
 Slot 1:
 * Adam Caron "Note-taking Prowess with PivotalTracker"
 
-Slot 2:
+Slot 2: Josh Cass [Q / A Session](https://gist.github.com/joshcass/f0ef83423a76f6a46085)
+- Still not sure what those ENV variables are doing? Are form tags mysterious?
+What's so strong about strong_params? Bring your questions and I'll do my best
+to answer them, or we will find the answers together.
+
+- I'm going to keep this primarily based around Rails / Sinatra / HTTP types of
+questions so this is a session for module 2 / 3 or 4 students.
 
 Slot 3:
 
