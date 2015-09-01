@@ -53,7 +53,7 @@ Slot 3:
 
 Talks:
 
-* Sally MacNicholas -
+* Sally MacNicholas - How to spam your friends with twilio, a rake task and a heroku scheduler
 * Drew Conly -
 * Lovisa Svallingson -
 * Jai Misra -
