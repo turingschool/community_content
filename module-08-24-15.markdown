@@ -54,7 +54,7 @@ Talks:
 * Matt Hecker -
 * Alon Waisman - [CRISPR's Totally Gonna Blow Your Mind](https://gist.github.com/MowAlon/912d9a53323bc6c83a2b)
 * Andrew Fink -
-* Justin Pease -
+* Justin Pease - What are you going to do with your new skillset?   https://gist.github.com/Jpease1020/3e292c29fd535320ab61
 * Mike Dorrance -
 
 Student-Led Sessions:
