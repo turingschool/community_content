@@ -66,6 +66,7 @@ Talks:
 Student-Led Sessions:
 
 Slot 1:
+* Adam Caron "Note-taking Prowess with PivotalTracker"
 
 Slot 2:
 
