@@ -13,7 +13,7 @@ Student-led Sessions:
 - Lets break down the user stories with the classic project "Traffic Spy"
 - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
-**Week of 8/24**
+### **Week of 8/24**
 
 Talks:
 
@@ -43,7 +43,7 @@ Slot 2:
 - Lets break down the user stories with the classic project "Traffic Spy"
 - Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
 
-**Week of 8/31**
+### **Week of 8/31**
 
 Talks:
 
@@ -70,7 +70,7 @@ questions so this is a session for module 2 / 3 or 4 students.
 
 Slot 3:
 
-**Week of 9/7**
+### **Week of 9/7**
 
 Talks:
 
@@ -86,9 +86,9 @@ Talks:
 
 Student-Led Sessions:
 
-__NONE this week due to Field Day.__
+__No student led sessions this week due to Field Day.__
 
-**Week of 9/14**
+### **Week of 9/14**
 
 Talks:
 
@@ -111,7 +111,7 @@ Slot 2:
 
 Slot 3:
 
-**Week of 9/21**
+### **Week of 9/21**
 
 Talks:
 
@@ -133,7 +133,7 @@ Slot 2:
 
 Slot 3:
 
-**Week of 9/28**
+### **Week of 9/28**
 
 Talks:
 
