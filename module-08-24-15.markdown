@@ -53,9 +53,7 @@ Talks:
 * Jai Misra -
 * Matt Hecker -
 * Alon Waisman -
-* Andrew Fink -
-* Justin Pease -
-* Mike Dorrance -
+* Justin Pease - [What are you going to do with your new skillset?](https://gist.github.com/Jpease1020/3e292c29fd535320ab61)
 
 Student-Led Sessions:
 
