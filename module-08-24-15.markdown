@@ -47,7 +47,7 @@ Slot 2:
 
 Talks:
 
-* Sally MacNicholas - How to spam your friends with twilio, a rake task and a heroku scheduler
+* Sally MacNicholas - [How to spam your friends with twilio, a rake task and a heroku scheduler](https://gist.github.com/sallymacnicholas/64105f61a4143b1aa271)
 * Drew Conly - “Diversity and Inclusion Initiatives: Successes, Failures, and the Turing Community” (with Jai Misra)
 * Lovisa Svallingson - A step towards understanding JavaScript's bind(), apply() and call()
 * Jai Misra - “Diversity and Inclusion Initiatives: Successes, Failures, and the Turing Community” (with Drew Conly)
