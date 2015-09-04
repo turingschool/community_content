@@ -48,9 +48,9 @@ Slot 2:
 Talks:
 
 * Sally MacNicholas - How to spam your friends with twilio, a rake task and a heroku scheduler
-* Drew Conly - “Diversity and Inclusion Initiatives: Successes, Failures, and the Turing Community” (with Jai Misra)
+* Drew Conly - "A beginners guide to recruiters"
 * Lovisa Svallingson - A step towards understanding JavaScript's bind(), apply() and call()
-* Jai Misra - “Diversity and Inclusion Initiatives: Successes, Failures, and the Turing Community” (with Drew Conly)
+* Jai Misra - ???
 * Matt Hecker - [DDoSing on the rise](https://gist.github.com/HoffsMH/fa587eb2aa3644a36051)
 * Alon Waisman - [CRISPR's Totally Gonna Blow Your Mind](https://gist.github.com/MowAlon/912d9a53323bc6c83a2b)
 * Justin Pease - [What are you going to do with your new skillset?](https://gist.github.com/Jpease1020/3e292c29fd535320ab61)
