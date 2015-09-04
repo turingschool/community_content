@@ -113,7 +113,10 @@ Talks:
 
 Student-Led Sessions:
 
-Slot 1:
+Slot 1: Blog with Jekyll
+- setup a simple Jekyll blog site
+- deploy it using github pages
+- cover a small amount of configuration
 
 Slot 2:
 
