@@ -66,6 +66,7 @@ Slot 1: Adam Caron - Pivotal Tracker Note-taking Awesomeness
  - We'll talk about how we can use Pivotal Tracker as Turing students to help us become better programmers and more productive students.
 
  - This session will last about an hour.
+ - https://gist.github.com/adamcaron/8e1efa6c34120326a111
 
 Slot 2: Josh Cass [Q / A Session](https://gist.github.com/joshcass/f0ef83423a76f6a46085)
 - Still not sure what those ENV variables are doing? Are form tags mysterious?
