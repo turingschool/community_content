@@ -57,8 +57,15 @@ Talks:
 
 Student-Led Sessions:
 
-Slot 1:
-* Adam Caron "Note-taking Prowess with PivotalTracker"
+Slot 1: Adam Caron - Pivotal Tracker Note-taking Awesomeness
+
+ - We're going to explore a method of note-taking that can be extraordinarily powerful and efficient. 
+
+ - Pivotal Labs describes Pivotal Tracker as "a story-based project planning tool from Pivotal Labs that allows teams to collaborate and react to real-world changes instantly. It's based on agile software methods, but can be used on a wide range of projects."
+
+ - We'll talk about how we can use Pivotal Tracker as Turing students to help us become better programmers and more productive students.
+
+ - This session will last about an hour.
 
 Slot 2: Josh Cass [Q / A Session](https://gist.github.com/joshcass/f0ef83423a76f6a46085)
 - Still not sure what those ENV variables are doing? Are form tags mysterious?
