@@ -87,7 +87,7 @@ Talks:
 * Jack Yeh -
 * Rose Kohn -
 * Sebastian Abondano -
-* Travis Haby -
+* Travis Haby - [Decoding Chinese Characters] (https://gist.github.com/travishaby/c65b834136be712cc8b6)
 * Josh Cass -
 * Drew Reynolds -
 * Mike Reeves -
