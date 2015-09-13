@@ -94,7 +94,6 @@ Talks:
 
 * Margarett Ly  -
 * Dave Maurer -
-* Jack Yeh - Model Validations vs Database Validations
 * Rick Bacci -
 * Morgan Miller -
 * Regis Boudinot -
@@ -113,7 +112,10 @@ Slot 1: Blog with Jekyll
 - deploy it using github pages
 - cover a small amount of configuration
 
-Slot 2:
+Slot 2: Jack Yeh - Model Validations vs Database Validations
+- Review examples of model validations and database validations
+- Review pros and cons of each
+- Show with some live coding why validations are critical to data integrity
 
 Slot 3:
 
