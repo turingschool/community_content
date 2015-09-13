@@ -59,7 +59,7 @@ Student-Led Sessions:
 
 Slot 1: Adam Caron - Pivotal Tracker Note-taking Awesomeness
 
- - We're going to explore a method of note-taking that can be extraordinarily powerful and efficient. 
+ - We're going to explore a method of note-taking that can be extraordinarily powerful and efficient.
 
  - Pivotal Labs describes Pivotal Tracker as "a story-based project planning tool from Pivotal Labs that allows teams to collaborate and react to real-world changes instantly. It's based on agile software methods, but can be used on a wide range of projects."
 
@@ -82,24 +82,19 @@ Slot 3:
 
 Talks:
 
-* Margarett Ly  -
-* Dave Maurer -
-* Jack Yeh - Model Validations vs Database Validations
-* Rose Kohn -
-* Sebastian Abondano -
-* Travis Haby - [Decoding Chinese Characters] (https://gist.github.com/travishaby/c65b834136be712cc8b6)
-* Josh Cass -
-* Drew Reynolds -
-* Mike Reeves -
+__No lightning talks this week due to Labor Day.__
 
 Student-Led Sessions:
 
-__No student led sessions this week due to Field Day.__
+__No student led sessions this week due to Labor Day.__
 
 ### **Week of 9/14**
 
 Talks:
 
+* Margarett Ly  -
+* Dave Maurer -
+* Jack Yeh - Model Validations vs Database Validations
 * Rick Bacci -
 * Morgan Miller -
 * Regis Boudinot -
@@ -126,6 +121,9 @@ Slot 3:
 
 Talks:
 
+* Josh Cass -
+* Drew Reynolds -
+* Travis Haby - [Decoding Chinese Characters] (https://gist.github.com/travishaby/c65b834136be712cc8b6)
 * Justin Holmes -
 * Justin Holzmann -
 * Max Millington -
@@ -148,6 +146,9 @@ Slot 3:
 
 Talks:
 
+* Rose Kohn -
+* Sebastian Abondano -
+* Mike Reeves -
 * Whitney Hiemstra -
 * Mitch Ashby - Where software development and the social services meet.
 * David Shim -
