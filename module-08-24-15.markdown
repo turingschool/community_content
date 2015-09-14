@@ -98,7 +98,7 @@ Talks:
 * Morgan Miller -
 * Regis Boudinot - Fusion: The Dawn of Energy Freedom
 * Ryan Asensio - Moral Fashion
-* Tyler Graham -
+* Tyler Graham - Trading Algorithms for the Masses
 * Matt Ewell - Cognitive Distortions (Cognitive Based Therapy Techniques in Action)
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron -
