@@ -117,7 +117,10 @@ Slot 2: Jack Yeh - Model Validations vs Database Validations
 - Review pros and cons of each
 - Show with some live coding why validations are critical to data integrity
 
-Slot 3:
+Slot 3: Prototyping with Sketch and Invision
+- Rapid artboard creation
+- Design Principles
+- Prototyping with Invision
 
 ### **Week of 9/21**
 
