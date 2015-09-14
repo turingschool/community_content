@@ -91,7 +91,7 @@ __No student led sessions this week due to Labor Day.__
 
 Talks:
 
-* Jai Misra -
+* Jai Misra - Fractals (https://gist.github.com/mrjaimisra/873eac16b574581fc6e7)
 * Margarett Ly  -
 * Dave Maurer - [Late Life Destitution...how to avoid it](https://gist.github.com/davemaurer/82efc39071292d40aca8)
 * Rick Bacci - Testing with Cucumber
@@ -101,7 +101,7 @@ Talks:
 * Tyler Graham - Trading Algorithms for the Masses
 * Matt Ewell - Cognitive Distortions (Cognitive Based Therapy Techniques in Action)
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
-* Adam Caron - [How to Lern Good.](https://gist.github.com/adamcaron/8e1efa6c34120326a111)
+* Adam Caron -
 * Jeff Ruane - Self Reference and Quine's Paradox
 
 Student-Led Sessions:
