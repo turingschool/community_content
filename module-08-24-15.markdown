@@ -115,7 +115,10 @@ Slot 1: Blog with Jekyll
 
 Slot 2:
 
-Slot 3:
+Slot 3: Prototyping with Sketch and Invision
+- Rapid artboard creation
+- Design Principles
+- Prototyping with Invision
 
 ### **Week of 9/21**
 
