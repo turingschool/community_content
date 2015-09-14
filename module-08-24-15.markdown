@@ -100,7 +100,7 @@ Talks:
 * Ryan Asensio - Moral Fashion
 * Tyler Graham -
 * Samson Brock -
-* Dmitry Vizersky -
+* Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron -
 * Jeff Ruane - Self Reference and Quine's Paradox
 * Michael Merrill -
