@@ -103,7 +103,7 @@ Talks:
 * Samson Brock -
 * Dmitry Vizersky -
 * Adam Caron -
-* Jeff Ruane -
+* Jeff Ruane - Self Reference and Quine's Paradox
 * Michael Merrill -
 
 Student-Led Sessions:
