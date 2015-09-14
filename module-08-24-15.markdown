@@ -50,7 +50,6 @@ Talks:
 * Sally MacNicholas - [How to spam your friends with twilio, a rake task and a heroku scheduler](https://gist.github.com/sallymacnicholas/64105f61a4143b1aa271)
 * Drew Conly - "A beginners guide to recruiters"
 * Lovisa Svallingson - A step towards understanding JavaScript's bind(), apply() and call()
-* Jai Misra - ???
 * Matt Hecker - [DDoSing on the rise](https://gist.github.com/HoffsMH/fa587eb2aa3644a36051)
 * Alon Waisman - [CRISPR's Totally Gonna Blow Your Mind](https://gist.github.com/MowAlon/912d9a53323bc6c83a2b)
 * Justin Pease - [What are you going to do with your new skillset?](https://gist.github.com/Jpease1020/3e292c29fd535320ab61)
@@ -92,9 +91,10 @@ __No student led sessions this week due to Labor Day.__
 
 Talks:
 
+* Jai Misra -
 * Margarett Ly  -
 * Dave Maurer - [Late Life Destitution...how to avoid it](https://gist.github.com/davemaurer/82efc39071292d40aca8)
-* Rick Bacci -
+* Rick Bacci - Testing with Cucumber
 * Morgan Miller -
 * Regis Boudinot - Fusion: The Dawn of Energy Freedom
 * Ryan Asensio - Moral Fashion
@@ -103,24 +103,20 @@ Talks:
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron -
 * Jeff Ruane - Self Reference and Quine's Paradox
-* Michael Merrill -
 
 Student-Led Sessions:
 
-Slot 1: Blog with Jekyll
-- setup a simple Jekyll blog site
-- deploy it using github pages
-- cover a small amount of configuration
-
-Slot 2: Jack Yeh - Model Validations vs Database Validations
+Slot 1: Jack Yeh - Model Validations vs Database Validations
 - Review examples of model validations and database validations
 - Review pros and cons of each
 - Show with some live coding why validations are critical to data integrity
 
-Slot 3: Prototyping with Sketch and Invision
+Slot 2: Michael Merrill - Prototyping with Sketch and Invision
 - Rapid artboard creation
 - Design Principles
 - Prototyping with Invision
+
+Slot 3:
 
 ### **Week of 9/21**
 
