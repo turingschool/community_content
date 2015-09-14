@@ -95,7 +95,7 @@ Talks:
 * Margarett Ly  -
 * Dave Maurer -
 * Jack Yeh - Model Validations vs Database Validations
-* Rick Bacci -
+* Rick Bacci - Testing with Cucumber
 * Morgan Miller -
 * Regis Boudinot -
 * Ryan Asensio - Moral Fashion
@@ -108,10 +108,7 @@ Talks:
 
 Student-Led Sessions:
 
-Slot 1: Blog with Jekyll
-- setup a simple Jekyll blog site
-- deploy it using github pages
-- cover a small amount of configuration
+Slot 1: 
 
 Slot 2:
 
