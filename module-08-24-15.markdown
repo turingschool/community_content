@@ -99,7 +99,7 @@ Talks:
 * Regis Boudinot - Fusion: The Dawn of Energy Freedom
 * Ryan Asensio - Moral Fashion
 * Tyler Graham -
-* Samson Brock -
+* Matt Ewell - Cognitive Distortions (Cognitive Based Therapy Techniques in Action)
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron -
 * Jeff Ruane - Self Reference and Quine's Paradox
@@ -160,7 +160,7 @@ Talks:
 * David Shim -
 * Chris Cenatiempo -
 * Max Tedford -
-* Matt Ewell -
+* Samson Brock -
 * Michael Wong -
 * Robert M. Cornell -
 
