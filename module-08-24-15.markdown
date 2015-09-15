@@ -91,7 +91,7 @@ __No student led sessions this week due to Labor Day.__
 
 Talks:
 
-* Jai Misra -
+* Jai Misra - Fractals (https://gist.github.com/mrjaimisra/873eac16b574581fc6e7)
 * Margarett Ly  -
 * Dave Maurer - [Late Life Destitution...how to avoid it](https://gist.github.com/davemaurer/82efc39071292d40aca8)
 * Rick Bacci - Testing with Cucumber
