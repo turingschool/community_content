@@ -98,7 +98,7 @@ Talks:
 * Morgan Miller -
 * Regis Boudinot - [Fusion: The Dawn of Energy Freedom](https://gist.github.com/selfup/152d1449e9af277717f7)
 * Ryan Asensio - In Search of Lost Cheese (https://gist.github.com/rasensio1/853846d580234c989b6d)
-* Tyler Graham - Trading Algorithms for the Masses
+* Tyler Graham - Trading Algorithms for the Masses (https://gist.github.com/tgraham777/da260f029ec75808d4c4)
 * Matt Ewell - [Cognitive Distortions (Cognitive Based Therapy Techniques in Action)](https://github.com/plato721/cognitive-distortions)
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron - [How to Lern Good.](https://gist.github.com/adamcaron/8e1efa6c34120326a111)
