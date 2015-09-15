@@ -102,7 +102,7 @@ Talks:
 * Matt Ewell - Cognitive Distortions (Cognitive Based Therapy Techniques in Action)
 * Dmitry Vizersky - [Static Site Generators?](https://gist.github.com/Dmitry1007/c9eb28b3a073d03d1b25#file-static-site-md)
 * Adam Caron - [How to Lern Good.](https://gist.github.com/adamcaron/8e1efa6c34120326a111)
-* Jeff Ruane - Self Reference and Quine's Paradox
+* Jeff Ruane - [Self Reference and Quine's Paradox](https://gist.github.com/jbrr/d6b66b4fde6c403537f3)
 
 Student-Led Sessions:
 
