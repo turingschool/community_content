@@ -96,7 +96,7 @@ Talks:
 * Dave Maurer - [Late Life Destitution...how to avoid it](https://gist.github.com/davemaurer/82efc39071292d40aca8)
 * Rick Bacci - Testing with Cucumber
 * Morgan Miller -
-* Regis Boudinot - Fusion: The Dawn of Energy Freedom
+* Regis Boudinot - [Fusion: The Dawn of Energy Freedom](https://gist.github.com/selfup/152d1449e9af277717f7)
 * Ryan Asensio - Moral Fashion
 * Tyler Graham - Trading Algorithms for the Masses
 * Matt Ewell - Cognitive Distortions (Cognitive Based Therapy Techniques in Action)
