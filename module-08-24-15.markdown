@@ -95,7 +95,7 @@ Talks:
 * Margarett Ly  -
 * Dave Maurer - [Late Life Destitution...how to avoid it](https://gist.github.com/davemaurer/82efc39071292d40aca8)
 * Rick Bacci - [Testing with Cucumber](https://gist.github.com/RickBacci/fadfd64e2d5fa3a1f054)
-* Morgan Miller -
+* Morgan Miller - [Delayed Jobs AKA DJ](https://gist.github.com/morganmiller/9538141b22a1d5d4d8bc)
 * Regis Boudinot - [Fusion: The Dawn of Energy Freedom](https://gist.github.com/selfup/152d1449e9af277717f7)
 * Ryan Asensio - In Search of Lost Cheese (https://gist.github.com/rasensio1/853846d580234c989b6d)
 * Tyler Graham - Trading Algorithms for the Masses (https://gist.github.com/tgraham777/da260f029ec75808d4c4)
