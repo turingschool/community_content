@@ -125,7 +125,7 @@ Talks:
 * Josh Cass -
 * Drew Reynolds - [Live SoundCloud Search Using jQuery](http://blog.drewreynolds.me/soundcloud-search/)
 * Travis Haby - [Decoding Chinese Characters](https://gist.github.com/travishaby/c65b834136be712cc8b6)
-* Justin Holmes -
+* Justin Holmes - Elon Musk
 * Justin Holzmann -
 * Max Millington - RECORDS(records)
 * Vanessa Gomez -
