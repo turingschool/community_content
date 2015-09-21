@@ -132,7 +132,7 @@ Talks:
 * Erik Butcher - Graphing Websites And Problems
 * Alex Tideman - Immersive Journalism with VR
 * Adam Jensen - Real World Algorithms that we use everyday
-* Jerrod Paul-Junker -
+* Jerrod Paul-Junker - Game Design (What makes games "good")
 * Max Tedford - [The Life and Times of Alan Turing]
 * Bret Doucette - "The Best Travel Credit Cards"
 
