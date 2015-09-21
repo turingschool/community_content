@@ -133,7 +133,7 @@ Talks:
 * Alex Tideman -
 * Adam Jensen -
 * Jerrod Paul-Junker -
-* Max Tedford -
+* Max Tedford - [The Life and Times of Alan Turing]
 * Bret Doucette - "The Best Travel Credit Cards"
 
 Student-Led Sessions:
