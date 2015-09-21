@@ -131,7 +131,7 @@ Talks:
 * Vanessa Gomez -
 * Erik Butcher - Graphing Websites And Problems
 * Alex Tideman -
-* Adam Jensen -
+* Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker -
 * Max Tedford -
 * Bret Doucette - "The Best Travel Credit Cards"
