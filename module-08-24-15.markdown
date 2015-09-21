@@ -123,7 +123,7 @@ Talks:
 
 * Margarett Ly  -
 * Josh Cass -
-* Drew Reynolds -
+* Drew Reynolds - [Live SoundCloud Search Using jQuery](http://blog.drewreynolds.me/soundcloud-search/)
 * Travis Haby - [Decoding Chinese Characters](https://gist.github.com/travishaby/c65b834136be712cc8b6)
 * Justin Holmes -
 * Justin Holzmann -
@@ -131,9 +131,9 @@ Talks:
 * Vanessa Gomez -
 * Erik Butcher - Graphing Websites And Problems
 * Alex Tideman - Immersive Journalism with VR
-* Adam Jensen -
+* Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker -
-* Max Tedford -
+* Max Tedford - [The Life and Times of Alan Turing]
 * Bret Doucette - "The Best Travel Credit Cards"
 
 Student-Led Sessions:
