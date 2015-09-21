@@ -154,7 +154,7 @@ Slot 3:
 
 Talks:
 
-* Russel Harms -
+* Russell Harms -
 * Rose Kohn -
 * Sebastian Abondano -
 * Mike Reeves -
