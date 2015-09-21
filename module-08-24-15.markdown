@@ -130,7 +130,7 @@ Talks:
 * Max Millington - RECORDS(records)
 * Vanessa Gomez -
 * Erik Butcher - Graphing Websites And Problems
-* Alex Tideman -
+* Alex Tideman - Immersive Journalism with Virtual Reality
 * Adam Jensen -
 * Jerrod Paul-Junker -
 * Max Tedford -
