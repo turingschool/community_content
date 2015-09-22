@@ -125,14 +125,14 @@ Talks:
 * Josh Cass - [The stuff and the things](https://gist.github.com/joshcass/881f32732361e709e148)
 * Drew Reynolds - [Live SoundCloud Search Using jQuery](http://blog.drewreynolds.me/soundcloud-search/)
 * Travis Haby - [Decoding Chinese Characters](https://gist.github.com/travishaby/c65b834136be712cc8b6)
-* Justin Holmes - Elon Musk
+* Justin Holmes - [Elon Musk](https://gist.github.com/Justin-Holmes/30f838eddf9120a53093)
 * Max Millington - RECORDS(records)
 * Vanessa Gomez -
 * Erik Butcher - [Graphing Websites And Problems](https://gist.github.com/with-a-k/a7886601917b72c98bca)
-* Alex Tideman - Immersive Journalism with VR
+* Alex Tideman - [Immersive Journalism with VR](https://gist.github.com/Alex-Tideman/e90db4cd400d4ff5762a)
 * Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker - [Game Design](https://gist.github.com/Unsafepond/a7fea73cb9550d9da255)
-* Max Tedford - [The Life and Times of Alan Turing]
+* Max Tedford - [The Life and Times of Alan Turing](https://gist.github.com/maxtedford/a24edb13c91012334abc)
 * Bret Doucette - "The Best Travel Credit Cards"
 
 Student-Led Sessions:
