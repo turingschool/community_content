@@ -133,7 +133,7 @@ Talks:
 * Alex Tideman - Immersive Journalism with VR
 * Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker - Game Design (What makes games "good")
-* Max Tedford - [The Life and Times of Alan Turing]
+* Max Tedford - [The Life and Times of Alan Turing] (https://gist.github.com/maxtedford/a24edb13c91012334abc)
 * Bret Doucette - "The Best Travel Credit Cards"
 
 Student-Led Sessions:
