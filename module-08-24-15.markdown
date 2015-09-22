@@ -128,7 +128,7 @@ Talks:
 * Justin Holmes - Elon Musk
 * Max Millington - RECORDS(records)
 * Vanessa Gomez -
-* Erik Butcher - Graphing Websites And Problems
+* Erik Butcher - [Graphing Websites And Problems](https://gist.github.com/with-a-k/a7886601917b72c98bca)
 * Alex Tideman - Immersive Journalism with VR
 * Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker - Game Design (What makes games "good")
