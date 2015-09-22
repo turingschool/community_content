@@ -126,7 +126,6 @@ Talks:
 * Drew Reynolds - [Live SoundCloud Search Using jQuery](http://blog.drewreynolds.me/soundcloud-search/)
 * Travis Haby - [Decoding Chinese Characters](https://gist.github.com/travishaby/c65b834136be712cc8b6)
 * Justin Holmes - Elon Musk
-* Justin Holzmann - The Big Pond Effect
 * Max Millington - RECORDS(records)
 * Vanessa Gomez -
 * Erik Butcher - Graphing Websites And Problems
@@ -148,7 +147,11 @@ Slot 2: Michael Merrill - Prototyping with Sketch and Invision
 - Design Principles
 - Prototyping with Invision
 
-Slot 3:
+Slot 3: Justin Holzmann - Recursion Basics Workshop
+- Step 1: Learn the basics of recursion through real world examples & practice
+(Web browsing habits as first example).
+- Step 2: Apply what you just learned to get started on a Binary Search Tree.
+- Step 3: Profit... errrrr. Get more people to attend DSA!!!!
 
 ### **Week of 9/28**
 
