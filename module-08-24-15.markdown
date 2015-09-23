@@ -133,7 +133,7 @@ Talks:
 * Adam Jensen - Real World Algorithms that we use everyday
 * Jerrod Paul-Junker - [Game Design](https://gist.github.com/Unsafepond/a7fea73cb9550d9da255)
 * Max Tedford - [The Life and Times of Alan Turing](https://gist.github.com/maxtedford/a24edb13c91012334abc)
-* Bret Doucette - "The Best Travel Credit Cards"
+* Bret Doucette - [The Best Travel Credit Cards](https://gist.github.com/bad6e/abf8896b4166ebf1046f)
 
 Student-Led Sessions:
 
