@@ -121,7 +121,7 @@ Slot 3:
 
 Talks:
 
-* Margarett Ly  -
+* Margarett Ly  - Live Coding: Binary Search Tree
 * Josh Cass - [The stuff and the things](https://gist.github.com/joshcass/881f32732361e709e148)
 * Drew Reynolds - [Live SoundCloud Search Using jQuery](http://blog.drewreynolds.me/soundcloud-search/)
 * Travis Haby - [Decoding Chinese Characters](https://gist.github.com/travishaby/c65b834136be712cc8b6)
