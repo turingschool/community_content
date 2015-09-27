@@ -165,7 +165,7 @@ Talks:
 * Mitch Ashby - Where software development and the social services meet.
 * David Shim -
 * Chris Cenatiempo -
-* Samson Brock -
+* Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel 
 * Michael Wong -
 * Robert M. Cornell -
 
