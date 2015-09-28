@@ -160,7 +160,7 @@ Talks:
 * Russell Harms -
 * Rose Kohn - Why Are You Vegan?
 * Whitney Hiemstra -
-* Mitch Ashby - Where software development and the social services meet.
+* Mitch Ashby - Jumping into the Job Search.
 * David Shim -
 * Chris Cenatiempo -
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel
