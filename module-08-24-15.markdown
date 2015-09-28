@@ -164,7 +164,7 @@ Talks:
 * Whitney Hiemstra -
 * Mitch Ashby - Where software development and the social services meet.
 * David Shim -
-* Chris Cenatiempo -
+* Chris Cenatiempo - Editing sound files with Audacity
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel 
 * Michael Wong -
 * Robert M. Cornell -
