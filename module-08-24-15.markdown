@@ -166,7 +166,7 @@ Talks:
 * David Shim -
 * Chris Cenatiempo -
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel 
-* Michael Wong -
+* Michael Wong - Augmented Reality vs Virtual Reality
 * Robert M. Cornell -
 
 Student-Led Sessions:
