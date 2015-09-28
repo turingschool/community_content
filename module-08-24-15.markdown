@@ -158,7 +158,7 @@ Slot 3: Justin Holzmann - Recursion Basics Workshop
 Talks:
 
 * Russell Harms -
-* Rose Kohn -
+* Rose Kohn - Why Are You Vegan?
 * Sebastian Abondano -
 * Mike Reeves -
 * Whitney Hiemstra -
