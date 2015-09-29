@@ -160,7 +160,7 @@ Talks:
 * Russell Harms - To Be Or Not To Be: English Without "Is"
 * Rose Kohn - Why Are You Vegan?
 * Whitney Hiemstra -
-* Mitch Ashby - Jumping into the Job Search.
+* Mitch Ashby - [Jumping into the Job Search](https://gist.github.com/mitchashby16/e4d9b786b26e44721cd8)
 * David Shim - Internet Space Race
 * Chris Cenatiempo - Edit sound files with Audacity
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel
