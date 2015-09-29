@@ -158,7 +158,7 @@ Slot 3: Justin Holzmann - Recursion Basics Workshop
 Talks:
 
 * Russell Harms - To Be Or Not To Be: English Without "Is"
-* Rose Kohn - Why Are You Vegan?
+* Rose Kohn - Why Are You Vegan? (https://gist.github.com/roseak/a1176247d1e357ea1906)
 * Whitney Hiemstra -
 * Mitch Ashby - [Jumping into the Job Search](https://gist.github.com/mitchashby16/e4d9b786b26e44721cd8)
 * David Shim - Internet Space Race
