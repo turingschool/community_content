@@ -161,7 +161,7 @@ Talks:
 * Rose Kohn - Why Are You Vegan?
 * Whitney Hiemstra -
 * Mitch Ashby - Jumping into the Job Search.
-* David Shim -
+* David Shim - Internet Space Race
 * Chris Cenatiempo -
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel
 * Michael Wong - Augmented Reality vs Virtual Reality
