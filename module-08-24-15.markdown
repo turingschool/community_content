@@ -162,7 +162,7 @@ Talks:
 * Whitney Hiemstra -
 * Mitch Ashby - Jumping into the Job Search.
 * David Shim -
-* Chris Cenatiempo - [Edit sound files with Audacity] (https://gist.github.com/b55b17771d73f5c5e9e6.git)
+* Chris Cenatiempo - [Edit sound files with Audacity](https://gist.github.com/b55b17771d73f5c5e9e6.git)
 * Samson Brock - O Arel, WHERE Art Thou? SQL Querying with Arel
 * Michael Wong - Augmented Reality vs Virtual Reality
 * Robert M. Cornell -
