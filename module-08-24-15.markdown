@@ -164,8 +164,8 @@ Talks:
 * David Shim - [Internet Space Race](https://gist.github.com/dsshim/3df178306b95c06adc04)
 * Chris Cenatiempo - Edit sound files with Audacity
 * Samson Brock - [O Arel, WHERE Art Thou? SQL Querying with Arel](https://gist.github.com/imwithsam/c16023a8108a5567003a)
-* Michael Wong - Augmented Reality vs Virtual Reality
-* Robert M. Cornell -
+* Michael Wong - [Augmented Reality vs Virtual Reality](https://gist.github.com/Kealii/a22513a9e17ceb90163c)
+* Robert M. Cornell - 
 
 Student-Led Sessions:
 
