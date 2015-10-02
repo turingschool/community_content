@@ -1,0 +1,100 @@
+**NOTE: You may opt into preparing and delivering a 1-hour student-led session on Friday in place of giving a lightning talk. Please note that choice when you submit your topic. This option will be limited to the first three people (as long as their topics are accepted). Substitutions for screencasts are only acceptable if the screencast is already completed by topic submission deadline.**
+
+### Sample:
+Talks :
+
+* [DJ Greenfield](https://www.facebook.com/dj.greenfield3) - [Advertising on the Internet](https://gist.github.com/AllPurposeName/7c117da4b0345eb6b817)
+
+Student-led Sessions:
+
+* Michael Dorrance - [Breaking down problems with wireframes](https://gist.github.com/mdorrance/0542aa31b9328bf80c9c) (2 hours)
+- Gain an understanding of the REAL user stories
+- Introduce wireframing tools and techniques
+- Lets break down the user stories with the classic project "Traffic Spy"
+- Build a clickable wireframe of Traffic Spy using [Balsamiq](https://balsamiq.com/)
+
+### **Week of 10/12**
+
+Talks :
+
+* [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
+
+Student-led Sessions:
+
+* [George Hudson](http//turingwithgeorge.tumblr.com) - [Swift - The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
+
+### **Week of 10/19**
+
+Talks:
+
+* [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
+
+
+Student-led Sessions:
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
+
+### **Week of 10/26**
+
+Talks:
+
+
+Student-Led Sessions:
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
+
+
+### **Week of 11/2**
+
+Talks:
+
+
+
+Student-Led Sessions:
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
+
+
+### **Week of 11/16**
+
+Talks:
+
+
+
+Student-Led Sessions:
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
+
+### **Week of 11/23 (THANKSGIVING WEEK)**
+
+Talks:
+
+
+
+Student-Led Sessions: (If there are any this week)
+
+* George Hudson - [Swift - Showcase our apps!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
+Slot 2:
+
+Slot 3:
