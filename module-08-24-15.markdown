@@ -166,8 +166,13 @@ Talks:
 * Samson Brock - [O Arel, WHERE Art Thou? SQL Querying with Arel](https://gist.github.com/imwithsam/c16023a8108a5567003a)
 * Michael Wong - [Augmented Reality vs Virtual Reality](https://gist.github.com/Kealii/a22513a9e17ceb90163c)
 * Robert M. Cornell - 
+* 
+### **Week of 10/12**
 
 Student-Led Sessions:
+Talks:
+
+* Cole Hall - Con Artists: how to spot them and the great cons of history
 
 Slot 1:
 
