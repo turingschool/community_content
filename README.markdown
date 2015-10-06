@@ -1,22 +1,24 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation should take approximately 3-6 hours. **If you are in module 4, you have the option of leading/teaching a 1-hour student-led session on Friday in place of giving a final lightning talk.**
+Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation will take approximately 2-4 hours. **In place of a lightning talk, a student may elect to prepare and lead a 1-hour student-led session for Friday's elective block.**
 
 ## Schedule
 
 During intermission week, submit a pull request for that module's markdown file and add your topic. Topic choices will be first-come, first-served. 
 
-During the week of your lighting talk, the schedule will be as follows:
+During the week of your lighting talk or student-led session, the schedule will be as follows:
 
 * **Monday**: Submit your topic to the markdown file  **before 4pm**. 
 * **Tuesday**: Add your outline as a gist **before 4pm**. Please don't make us hunt you down!
 * **Wednesday**: Draft slides and/or content for presentation. You do not need to submit anything.
-* **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory.
-* **Friday**: Present your 5-minute talk for your Turing peers. 
+* **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory for both lightning talkers and students who are leading sessions. 
+* **Friday**: Present your 5-minute talk or student-led session for your Turing peers.  
 
 ## Topics & Themes
 
-**Module 2 students**: Your topic can either be tech-related OR related to your background before coming to Turing.
+All topics must be approved 
+
+**Module 2 students**: It is preferred that your topic fit into one of the themes below. That said, feel free to pitch a topic related to your experience prior to Turing. Keep in mind that the topic should be of interest to a school of software developers and that the topic must be approved before moving forward. 
 
 **Module 3 and 4 students**: Your topic should fit into one of the themes below:
 
