@@ -4,6 +4,8 @@
 
 ### **Week of 10/12**
 
+##### Lightnint Talks
+
 * Marla Brizel - Rails vs Django: What's the big deal?
 * Sebastian Abondano
 * Mike Reeves
@@ -16,8 +18,15 @@
 * Chad Minnerath
 * Ryan Johnson
 * Sekhar Paladugu
+* [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
+
+##### Electives and Student-Led Sessions
+
+* [George Hudson](http//turingwithgeorge.tumblr.com) - [Swift - The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 ### **Week of 10/19**
+
+##### Lightning Talks
 
 * David Shim
 * Alex Tideman
@@ -31,8 +40,15 @@
 * Torie Warren
 * Jason Pilz
 * Matt Stjernholm
+[George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
+
+##### Electives and Student-Led Sessions
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 ### **Week of 10/26**
+
+##### Lightning Talks
 
 * Lovisa Svallingson
 * Rick Bacci
@@ -45,7 +61,13 @@
 * Shannon Paige
 * John Slota
 
+##### Electives and Student-Led Sessions
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
 ### **Week of 11/2**
+
+##### Lightning Talks
 
 * Jai Misra
 * Adam Caron
@@ -57,7 +79,13 @@
 * Aaron Careaga - Staying Alive in the Backcountry
 * Robbie Lane
 
+##### Electives and Student-Led Sessions
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
 ### **Week of 11/9**
+
+##### Lightning Talks
 
 * Drew Conly
 * Mitch Ashby
@@ -70,7 +98,13 @@
 * Matt Rooney
 * Edgar Duran
 
+##### Student-Led Sessions
+
+* George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+
 ### **Week of 11/16**
+
+##### Lightning Talks
 
 * Samson Brock
 * Michael Dorrance
@@ -82,3 +116,7 @@
 * Amber Crawford
 * Emily Dowdle
 * Charissa Lawrence
+
+##### Student-Led Sessions
+
+* George Hudson - [Swift - Showcase our apps!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
