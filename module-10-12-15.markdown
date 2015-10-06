@@ -25,7 +25,7 @@
 * Jason Wright
 * Rose Kohn
 * Mary Beth Burch
-* David Stinnette
+* David Stinnette - Virtual Reality Therapy
 * Jerrod Paul Junker
 * Nicole Hall
 * Torie Warren
