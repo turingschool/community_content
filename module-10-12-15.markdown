@@ -4,7 +4,7 @@
 
 ### **Week of 10/12**
 
-* Marla Brizel
+* Marla Brizel - Rails vs Django: What's the big deal?
 * Sebastian Abondano
 * Mike Reeves
 * Jack Yeh
