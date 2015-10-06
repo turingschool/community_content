@@ -106,7 +106,7 @@
 
 ##### Lightning Talks
 
-* Samson Brock
+* Samson Brock - Elixir on Phoenix
 * Michael Dorrance
 * Dave Maurer
 * Regis Boudinot
