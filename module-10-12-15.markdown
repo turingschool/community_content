@@ -33,7 +33,7 @@
 * Max Millington
 * Jason Wright
 * Rose Kohn
-* Mary Beth Burch
+* Mary Beth Burch - Smart Cities, Data, and the IoT
 * David Stinnette - Virtual Reality Therapy
 * Jerrod Paul Junker
 * Nicole Hall
