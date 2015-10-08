@@ -10,7 +10,7 @@
 * Sebastian Abondano
 * Mike Reeves
 * Jack Yeh
-* Bret Doucette
+* Bret Doucette - Nokogiri is fun!
 * Travis Haby
 * Justin Holzmann
 * Russell Harms
