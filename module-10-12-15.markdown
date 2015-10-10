@@ -4,7 +4,7 @@
 
 ### **Week of 10/12**
 
-##### Lightnint Talks
+##### Lightning Talks
 
 * Marla Brizel - [Rails vs Django: What's the big deal?](https://gist.github.com/marlabrizel/fbf75abe7fc9d9ad2b07)
 * Sebastian Abondano
