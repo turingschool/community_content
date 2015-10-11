@@ -17,7 +17,7 @@
 * Tyler Komoroske
 * Chad Minnerath
 * Ryan Johnson
-* Sekhar Paladugu
+* Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
 
 ##### Electives and Student-Led Sessions
