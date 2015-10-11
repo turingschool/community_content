@@ -16,7 +16,7 @@
 * Russell Harms
 * Tyler Komoroske
 * Chad Minnerath
-* Ryan Johnson
+* Ryan Johnson - Wearable technology and sports analytics
 * Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
 
