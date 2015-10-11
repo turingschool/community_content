@@ -32,7 +32,7 @@
 * Alex Tideman
 * Max Millington
 * Jason Wright
-* Rose Kohn
+* Rose Kohn - Who is Alan Kay?
 * Mary Beth Burch - Smart Cities, Data, and the IoT
 * David Stinnette - Virtual Reality Therapy
 * Jerrod Paul Junker
