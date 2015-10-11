@@ -12,7 +12,7 @@
 * Jack Yeh
 * Bret Doucette - Nokogiri is fun!
 * Travis Haby
-* Justin Holzmann
+* Justin Holzmann - Programs that write programs (Metaprogramming in Ruby with #send)
 * Russell Harms
 * Tyler Komoroske
 * Chad Minnerath
