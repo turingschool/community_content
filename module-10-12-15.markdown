@@ -11,7 +11,6 @@
 * Bret Doucette - Nokogiri is fun!
 * Travis Haby - How Japanese people use computers
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
-* Russell Harms
 * Tyler Komoroske - Americans programming abroad
 * Chad Minnerath - UN facilitated technology transfer
 * Ryan Johnson - Wearable technology and sports analytics
@@ -22,6 +21,7 @@
 
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Swift - The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Regis Boudinot - [Vagrant, Rails, and DevOps](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
+* Russell Harms - How Cryptography Works
 
 ### **Week of 10/19**
 
