@@ -76,7 +76,7 @@
 * Dmitry Vizersky
 * Mimi Schatz
 * Ryan Asensio
-* Jeff Ruane
+* Jeff Ruane - Quine Programs
 * Aaron Careaga - Staying Alive in the Backcountry
 * Amber Crawford
 
