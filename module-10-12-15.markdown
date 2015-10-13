@@ -7,7 +7,6 @@
 ##### Lightning Talks
 
 * Marla Brizel - [Rails vs Django: What's the big deal?](https://gist.github.com/marlabrizel/fbf75abe7fc9d9ad2b07)
-* Sebastian Abondano
 * Bret Doucette - Nokogiri is fun!
 * Travis Haby - [Word Processing in Japanese](https://gist.github.com/travishaby/e93df231985fb046032c)
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
@@ -16,6 +15,10 @@
 * Ryan Johnson - [Sports Analytics and Wearables.. changing the game.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
 * Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
+
+##### Screencasts
+
+* Sebastian Abondano - [D3JS to Visualize Data](http://sebastianabondano.com/)
 
 ##### Electives and Student-Led Sessions
 
