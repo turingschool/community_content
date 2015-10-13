@@ -13,7 +13,7 @@
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
 * Tyler Komoroske - Americans programming abroad
 * Chad Minnerath - UN facilitated technology transfer
-* Ryan Johnson - Wearable technology and sports analytics
+* Ryan Johnson - [Sports Analytics and Wearables.. changing the game.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
 * Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
 
