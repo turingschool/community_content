@@ -8,7 +8,7 @@
 
 * Marla Brizel - [Rails vs Django: What's the big deal?](https://gist.github.com/marlabrizel/fbf75abe7fc9d9ad2b07)
 * Sebastian Abondano
-* Bret Doucette - Nokogiri is fun!
+* Bret Doucette - [Nokogiri is fun!](https://gist.github.com/bad6e/7f1c4a3ba01c7edb9108)
 * Travis Haby - [Word Processing in Japanese](https://gist.github.com/travishaby/e93df231985fb046032c)
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
 * Tyler Komoroske - Americans programming abroad
