@@ -16,7 +16,7 @@
 * Russell Harms
 * Tyler Komoroske
 * Chad Minnerath
-* Ryan Johnson - Wearable technology and sports analytics
+* Ryan Johnson - [Sports Analytics and Wearables.. changing the way you play and train.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
 * Sekhar Paladugu
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
 
