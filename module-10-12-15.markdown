@@ -13,7 +13,7 @@
 * Tyler Komoroske - Americans programming abroad
 * Chad Minnerath - [UN facilitated technology transfer](https://gist.github.com/cminnerath/92d4454b5951ce942e43)
 * Ryan Johnson - [Sports Analytics and Wearables.. changing the game.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
-* Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
+* Sekhar Paladugu - [Japanese: On Language and Programming](https://github.com/sekharp/lightning-talk-outlines/blob/master/paladugu_mod2_lightning.md)
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
 
 ##### Screencasts
