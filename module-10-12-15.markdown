@@ -10,7 +10,7 @@
 * Bret Doucette - [Nokogiri is fun!](https://gist.github.com/bad6e/7f1c4a3ba01c7edb9108)
 * Travis Haby - [Word Processing in Japanese](https://gist.github.com/travishaby/e93df231985fb046032c)
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
-* Tyler Komoroske - Americans programming abroad
+* Tyler Komoroske - Americans programming abroad(https://gist.github.com/tjkomor/1fbb95c881da7397ac14)
 * Chad Minnerath - [UN facilitated technology transfer](https://gist.github.com/cminnerath/92d4454b5951ce942e43)
 * Ryan Johnson - [Sports Analytics and Wearables.. changing the game.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
 * Sekhar Paladugu - [Japanese: On Language and Programming](https://github.com/sekharp/lightning-talk-outlines/blob/master/paladugu_mod2_lightning.md)
