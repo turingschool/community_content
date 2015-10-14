@@ -11,7 +11,7 @@
 * Travis Haby - [Word Processing in Japanese](https://gist.github.com/travishaby/e93df231985fb046032c)
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
 * Tyler Komoroske - Americans programming abroad
-* Chad Minnerath - UN facilitated technology transfer
+* Chad Minnerath - [UN facilitated technology transfer](https://gist.github.com/cminnerath/92d4454b5951ce942e43)
 * Ryan Johnson - [Sports Analytics and Wearables.. changing the game.](https://gist.github.com/rjohnson4444/a7986de94e351ac6a6ec)
 * Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Take my Swift class!](https://gist.github.com/Egogre/5380b7326cda137b68d7)
