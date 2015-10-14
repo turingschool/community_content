@@ -25,7 +25,7 @@
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Swift - The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Regis Boudinot - [Vagrant, Rails, and DevOps](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
 * Russell Harms - [How Cryptography Works](https://gist.github.com/russelleh/51fb2f28e4f0da9df11c)
-* Alon Waisman - [Tips for faster workflow in your text editor and OS}(https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md)
+* Alon Waisman - [Tips for faster workflow in your text editor and OS](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md)
 
 ### **Week of 10/19**
 
