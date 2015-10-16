@@ -106,6 +106,7 @@
 ##### Student-Led Sessions
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+* Jamie Kawahara - DSA for Mere Mortals(Which algorithms are better for which applications and why?  Get the big picture so you can shine in an interview even if you don't know the alogrithm.)
 
 ### **Week of 11/16**
 
