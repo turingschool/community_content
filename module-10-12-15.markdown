@@ -42,13 +42,13 @@
 * Nicole Hall
 * Torie Warren
 * Jason Pilz
-* Matt Stjernholm
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
 
 ##### Electives and Student-Led Sessions
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Emily Dowdle - [Blogging Q+A](https://gist.github.com/emilydowdle/50645a40372d2a7ab3c9)
+* Matt Stjernholm (Exploring Materialize Frontend Framework)
 
 ### **Week of 10/26**
 
