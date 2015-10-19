@@ -31,7 +31,6 @@
 
 ##### Lightning Talks
 
-* David Shim
 * Alex Tideman
 * Max Millington
 * Jason Wright
