@@ -31,7 +31,7 @@
 
 ##### Lightning Talks
 
-* Alex Tideman
+* Alex Tideman - Getting Started with Meteor
 * Max Millington
 * Jason Wright
 * Rose Kohn - Who is Alan Kay?
