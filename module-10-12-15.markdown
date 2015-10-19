@@ -68,6 +68,7 @@
 ##### Electives and Student-Led Sessions
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+* Chris Cenatiempo - MATLAB
 
 ### **Week of 11/2**
 
