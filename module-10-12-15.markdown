@@ -38,7 +38,7 @@
 * Mary Beth Burch - Smart Cities, Data, and the IoT
 * David Stinnette - Virtual Reality Therapy
 * Jerrod Paul Junker
-* Nicole Hall
+* Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
 * Torie Warren
 * Jason Pilz - Using CloudKit for a BaaS
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
