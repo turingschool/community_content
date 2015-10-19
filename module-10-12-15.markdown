@@ -61,7 +61,7 @@
 * Chris Cenatiempo
 * Justin Pease
 * Jhun de Andres
-* Pat Wey
+* Pat Wey - Parallel Programming
 * Shannon Paige
 * John Slota
 
