@@ -40,7 +40,7 @@
 * Jerrod Paul Junker - Twitch.tv and the Kappa gem
 * Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
 * Torie Joy-Warren - Language vs. Math: What is Code?
-* Jason Pilz - Using CloudKit for a BaaS
+* Jason Pilz - [Using CloudKit for a BaaS](https://gist.github.com/jasonpilz/cd1f2a513f4534eed272)
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
 
 ##### Electives and Student-Led Sessions
