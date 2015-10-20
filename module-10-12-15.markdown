@@ -36,7 +36,7 @@
 * Jason Wright
 * Rose Kohn - Who is Alan Kay?
 * Mary Beth Burch - Smart Cities, Data, and the IoT
-* David Stinnette - Virtual Reality Therapy
+* David Stinnette - [Virtual Reality Therapy] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Jerrod Paul Junker - Twitch.tv and the Kappa gem
 * Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
 * Torie Joy-Warren - Language vs. Math: What is Code?
