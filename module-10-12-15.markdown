@@ -33,7 +33,6 @@
 
 * Alex Tideman - Getting Started with Meteor
 * Max Millington
-* Jason Wright
 * Rose Kohn - Who is Alan Kay?
 * Mary Beth Burch - Smart Cities, Data, and the IoT
 * David Stinnette - [Virtual Reality Therapy] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
@@ -70,6 +69,7 @@
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Chris Cenatiempo - MATLAB
+* Jason Wright
 
 ### **Week of 11/2**
 
