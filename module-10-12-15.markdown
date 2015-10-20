@@ -68,7 +68,7 @@
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Chris Cenatiempo - MATLAB
-* Jason Wright
+* Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 
 ### **Week of 11/2**
 
