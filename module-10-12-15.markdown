@@ -59,7 +59,6 @@
 * Michael Merrill
 * Alon Waisman
 * Chris Cenatiempo
-* Justin Pease
 * Jhun de Andres
 * Pat Wey - Parallel Programming
 * Shannon Paige
