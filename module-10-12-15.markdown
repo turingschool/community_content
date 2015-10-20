@@ -37,7 +37,7 @@
 * Mary Beth Burch - Smart Cities, Data, and the IoT
 * David Stinnette - [Virtual Reality Therapy] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Jerrod Paul Junker - Twitch.tv and the Kappa gem
-* Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
+* Nicole Hall - [Con artists: then and now (now referring to technology enabled cons)](https://gist.github.com/NicoleHall/fa5c6afa361ba0cd32b8)
 * Torie Joy-Warren - Language vs. Math: What is Code?
 * Jason Pilz - [Using CloudKit for a BaaS](https://gist.github.com/jasonpilz/cd1f2a513f4534eed272)
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
