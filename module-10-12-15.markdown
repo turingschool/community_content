@@ -32,7 +32,7 @@
 ##### Lightning Talks
 
 * Alex Tideman - [Getting Started with Meteor](https://gist.github.com/Alex-Tideman/83fc7e1b289d604750bb)
-* Max Millington
+* Max Millington - [Ethical Implications of Job Search](https://gist.github.com/MaxMillington/058df677934ee4a1055f)
 * Rose Kohn - [Who is Alan Kay?](https://gist.github.com/roseak/0d3a83cc2a9778683fc5)
 * Mary Beth Burch - [Smart Cities and Civic Tech](https://gist.github.com/mbburch/7b2f04480793eaa5d03b)
 * David Stinnette - [Virtual Reality Therapy] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
