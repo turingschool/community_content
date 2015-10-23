@@ -35,7 +35,6 @@
 * Max Millington - [Ethical Implications of Job Search](https://gist.github.com/MaxMillington/058df677934ee4a1055f)
 * Rose Kohn - [Who is Alan Kay?](https://gist.github.com/roseak/0d3a83cc2a9778683fc5)
 * Mary Beth Burch - [Smart Cities and Civic Tech](https://gist.github.com/mbburch/7b2f04480793eaa5d03b)
-* David Stinnette - [Virtual Reality Therapy] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Jerrod Paul Junker - [Twitch.tv and the Kappa gem] (https://gist.github.com/Unsafepond/dae9fa7112ef0d68c93b)
 * Nicole Hall - [Con artists: then and now (now referring to technology enabled cons)](https://gist.github.com/NicoleHall/fa5c6afa361ba0cd32b8)
 * Torie Joy-Warren - [Language vs. Math: What is Code?] (https://gist.github.com/toriejw/7bbc5bef729bdfef7da5)
@@ -64,6 +63,7 @@
 * Pat Wey - Parallel Programming
 * Shannon Paige
 * John Slota
+* David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 
 ##### Electives and Student-Led Sessions
 
