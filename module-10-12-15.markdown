@@ -65,6 +65,7 @@
 * Pat Wey - Parallel Programming
 * Shannon Paige
 * John Slota
+* David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 
 ##### Electives and Student-Led Sessions
 
