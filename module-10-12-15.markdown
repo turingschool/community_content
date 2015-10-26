@@ -57,7 +57,6 @@
 
 * Lovisa Svallingson - Flux vs MVC
 * Rick Bacci - Turing do's and dont's
-* Alon Waisman
 * Jhun de Andres
 * Pat Wey - Parallel Programming
 * Shannon Paige - [Halloween Lightning Talk! - Scary Internet Stories to Tell in the Dark](https://gist.github.com/ShannonPaige/83aa4622b59e09eb2aed)
@@ -71,6 +70,7 @@
 * Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 * Emily Blanchard and Dan Winter - Always Three
 * Regis Boudinot - Setting up a DO droplet for Rails Production (PG/Git/ENV vars/nginx/puma)
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable. This week - How do you feel about Enigma?
 
 ### **Week of 11/2**
 
