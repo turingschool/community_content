@@ -57,9 +57,7 @@
 
 * Lovisa Svallingson - Flux vs MVC
 * Rick Bacci - Turing do's and dont's
-* Michael Merrill
 * Alon Waisman
-* Chris Cenatiempo
 * Jhun de Andres
 * Pat Wey - Parallel Programming
 * Shannon Paige - [Halloween Lightning Talk! - Scary Internet Stories to Tell in the Dark](https://gist.github.com/ShannonPaige/83aa4622b59e09eb2aed)
@@ -96,9 +94,6 @@
 
 ##### Lightning Talks
 
-* Drew Conly
-* Mitch Ashby
-* Rob Cornell
 * Michael Wong
 * Matt Ewell
 * Matt Hecker
@@ -117,7 +112,6 @@
 ##### Lightning Talks
 
 * Samson Brock - Elixir on Phoenix
-* Michael Dorrance
 * Dave Maurer
 * Regis Boudinot
 * Adam Jensen
