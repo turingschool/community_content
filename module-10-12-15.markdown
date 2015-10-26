@@ -70,6 +70,7 @@
 * Chris Cenatiempo - MATLAB
 * Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 * Emily Blanchard and Dan Winter - Always Three
+* Regis Boudinot - Setting up a DO droplet for Rails Production (PG/Git/ENV vars/nginx/puma)
 
 ### **Week of 11/2**
 
