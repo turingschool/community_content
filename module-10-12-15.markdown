@@ -58,7 +58,7 @@
 * Lovisa Svallingson - Flux vs MVC
 * Rick Bacci - Turing do's and dont's
 * Alon Waisman
-* Jhun de Andres
+* Jhun de Andres- Denver's innercity opportunities. 
 * Pat Wey - Parallel Programming
 * Shannon Paige - [Halloween Lightning Talk! - Scary Internet Stories to Tell in the Dark](https://gist.github.com/ShannonPaige/83aa4622b59e09eb2aed)
 * John Slota
