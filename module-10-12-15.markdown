@@ -62,6 +62,7 @@
 * Shannon Paige - [Halloween Lightning Talk! - Scary Internet Stories to Tell in the Dark](https://gist.github.com/ShannonPaige/83aa4622b59e09eb2aed)
 * John Slota - Why bitcoin was created
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
+* Michael Wong - Brain Computer Interfaces (BCI)
 
 ##### Electives and Student-Led Sessions
 
@@ -94,7 +95,6 @@
 
 ##### Lightning Talks
 
-* Michael Wong
 * Matt Ewell
 * Matt Hecker
 * Ross Edfort
