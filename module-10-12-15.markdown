@@ -56,7 +56,7 @@
 ##### Lightning Talks
 
 * Lovisa Svallingson - Flux vs MVC
-* Rick Bacci
+* Rick Bacci - Turing do's and dont's
 * Michael Merrill
 * Alon Waisman
 * Chris Cenatiempo
