@@ -58,7 +58,6 @@
 * Lovisa Svallingson - Flux vs MVC
 * Rick Bacci - Turing do's and dont's
 * Michael Merrill
-* Alon Waisman
 * Chris Cenatiempo
 * Jhun de Andres
 * Pat Wey - Parallel Programming
@@ -72,6 +71,7 @@
 * Chris Cenatiempo - MATLAB
 * Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 * Emily Blanchard and Dan Winter - Always Three
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable. This week - How do you feel about Enigma?
 
 ### **Week of 11/2**
 
