@@ -61,7 +61,7 @@
 * Chris Cenatiempo
 * Justin Pease
 * Jhun de Andres
-* Pat Wey - Parallel Programming
+* Pat Wey - [Concurrent Computing](https://gist.github.com/patwey/1be9ec03a3868f3a9f6f)
 * Shannon Paige
 * John Slota
 
