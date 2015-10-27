@@ -63,6 +63,8 @@
 * John Slota - Why bitcoin was created
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Michael Wong - Brain Computer Interfaces (BCI)
+* Adam Caron - Why Sass Kicks Ass
+
 
 ##### Electives and Student-Led Sessions
 
@@ -77,7 +79,6 @@
 ##### Lightning Talks
 
 * Jai Misra
-* Adam Caron
 * Erik Butcher
 * Dmitry Vizersky
 * Mimi Schatz
