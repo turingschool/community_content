@@ -55,7 +55,7 @@
 
 ##### Lightning Talks
 
-* Lovisa Svallingson - Flux vs MVC
+* Lovisa Svallingson - Flux vs MVC [outline](https://gist.github.com/applegrain/745cc54ed938fbbc585b)
 * Rick Bacci - Turing do's and dont's
 * Jhun de Andres - Denver's innercity opportunities
 * Pat Wey - [Concurrent Computing](https://gist.github.com/patwey/1be9ec03a3868f3a9f6f)
@@ -74,6 +74,7 @@
 * Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 * Regis Boudinot - Setting up a DO droplet for Rails Production (PG/Git/ENV vars/nginx/puma)
 * Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable. This week - How do you feel about Enigma?
+* Lovisa Svallingson - React.js 1.3 --> continuation of previous two session. This week will add new ideas and delete ideas. If you want to come but missed the first session, clone `http://github.com/appleagrain/ideabox-react` (relevant files `app/views/site/index.html.erb`, `app/assets/javascripts/components/_dashboard.js.jsx`), take a look at the code and DM me if you have any questions.
 
 ### **Week of 11/2**
 
