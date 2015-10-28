@@ -58,7 +58,7 @@
 * Lovisa Svallingson - Flux vs MVC [outline](https://gist.github.com/applegrain/745cc54ed938fbbc585b)
 * Rick Bacci - Turing do's and dont's [crappy outline] (https://gist.github.com/RickBacci/a8a82a4e4401d2b46a7c)
 * Jhun de Andres - Denver's innercity opportunities(https://gist.github.com/joshuajhun/36303c7005f12f79beed)
-* Pat Wey - [Concurrent Computing](https://gist.github.com/patwey/1be9ec03a3868f3a9f6f)
+* Pat Wey - [Writing Templates In Haml](https://gist.github.com/patwey/b6744a5331c400aeafcc)
 * Shannon Paige - [Halloween Lightning Talk! - Scary Internet Stories to Tell in the Dark](https://gist.github.com/ShannonPaige/83aa4622b59e09eb2aed)
 * John Slota - [Why bitcoin was created] (https://gist.github.com/slotaj/8a12bd814c1e280a1aea)
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
