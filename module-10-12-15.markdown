@@ -84,7 +84,7 @@
 * Erik Butcher
 * Dmitry Vizersky
 * Mimi Schatz
-* Ryan Asensio
+* Ryan Asensio - Life as Code: An exploration of common themes.
 * Jeff Ruane - Quine Programs
 * Aaron Careaga - Staying Alive in the Backcountry
 * Amber Crawford
