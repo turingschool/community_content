@@ -81,7 +81,7 @@
 ##### Lightning Talks
 
 * Jai Misra
-* Erik Butcher
+* Erik Butcher - Listening for Events with JavaScript Objects
 * Dmitry Vizersky
 * Mimi Schatz
 * Ryan Asensio
