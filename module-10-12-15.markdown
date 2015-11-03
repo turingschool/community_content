@@ -63,7 +63,6 @@
 * John Slota - [Why bitcoin was created] (https://gist.github.com/slotaj/8a12bd814c1e280a1aea)
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Michael Wong - [Brain Computer Interfaces (BCI)](https://gist.github.com/Kealii/7b21ea0c14c26a9ade7a)
-* Adam Caron - Why Sass Kicks Ass
 * Ross Edfort - [Photogoraphy: Why Film is Actually Better than Digital] (https://gist.github.com/rossedfort/35e37c4550c409cf405f)
 
 
@@ -87,6 +86,7 @@
 * Ryan Asensio - Life as Code: An exploration of common themes.
 * Jeff Ruane - Quine Programs
 * Amber Crawford - Apps for Apes: Tech in the Zoo World
+* Adam Caron - Why Sass Kicks Ass
 
 ##### Electives and Student-Led Sessions
 
