@@ -83,7 +83,7 @@
 * Erik Butcher - Listening for Events with JavaScript Objects
 * Dmitry Vizersky - Pitch Anything To Get Anything - How to apply pitching lessons from author/investment banker Oren Klaff to stop selling yourself short and get the job you really want. 
 * Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
-* Ryan Asensio - Life as Code: An exploration of common themes.
+* Ryan Asensio - [Life as Code: An exploration of common themes.](https://gist.github.com/rasensio1/88de8cc3dadc18ac4e4f)
 * Jeff Ruane - Quine Programs
 * Amber Crawford - Apps for Apes: Tech in the Zoo World
 * Adam Caron - Why Sass Kicks Ass
