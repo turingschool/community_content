@@ -107,7 +107,7 @@
 ##### Student-Led Sessions
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
-* Aaron Careaga - How to Contribute to Open Source
+* Aaron Careaga and Edgar Duran - How to Contribute to Open Source
 
 ### **Week of 11/16**
 
