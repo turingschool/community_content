@@ -80,7 +80,7 @@
 ##### Lightning Talks
 
 * Jai Misra - Global Startup Culture
-* Erik Butcher - Listening for Events with JavaScript Objects
+* Erik Butcher - [Listening for Events with JavaScript Objects](https://gist.github.com/with-a-k/b14fed1c30aa05bdb335)
 * Dmitry Vizersky - Pitch Anything To Get Anything - How to apply pitching lessons from author/investment banker Oren Klaff to stop selling yourself short and get the job you really want. 
 * Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
 * Ryan Asensio - Life as Code: An exploration of common themes.
