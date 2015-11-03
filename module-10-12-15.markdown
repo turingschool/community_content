@@ -86,7 +86,7 @@
 * Ryan Asensio - Life as Code: An exploration of common themes.
 * Jeff Ruane - Quine Programs
 * Amber Crawford - Apps for Apes: Tech in the Zoo World
-* Adam Caron - Why Sass Kicks Ass
+* Adam Caron - [Why Sass Kicks Ass](https://gist.github.com/adamcaron/fddf536022923227cccf)
 
 ##### Electives and Student-Led Sessions
 
