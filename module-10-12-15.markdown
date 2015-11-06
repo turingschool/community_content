@@ -96,6 +96,8 @@
 
 ##### Lightning Talks
 
+* Samson Brock - Elixir on Phoenix
+* Dave Maurer
 * Matt Ewell
 * Matt Hecker
 * Ross Edfort
@@ -113,8 +115,6 @@
 
 ##### Lightning Talks
 
-* Samson Brock - Elixir on Phoenix
-* Dave Maurer
 * Regis Boudinot
 * Adam Jensen
 * George Hudson - [Contributing to Open Source (as a Turing student)](https://gist.github.com/Egogre/5dd4e1256cbc2bf200ba)
