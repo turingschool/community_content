@@ -103,7 +103,7 @@
 * Marlo Major - How to Start a Medical Device Startup
 * Matt Rooney
 * Edgar Duran
-* Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
+* Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
 
 ##### Student-Led Sessions
 
