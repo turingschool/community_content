@@ -101,7 +101,7 @@
 * Matt Ewell
 * Matt Hecker
 * Marlo Major
-* Matt Rooney
+* Matt Rooney - Plasma Torch Recycling
 * Edgar Duran
 * Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
 
