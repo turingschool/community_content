@@ -100,7 +100,6 @@
 * Dave Maurer
 * Matt Ewell
 * Matt Hecker
-* Ross Edfort
 * Marlo Major
 * Matt Rooney
 * Edgar Duran
