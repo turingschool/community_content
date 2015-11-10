@@ -103,6 +103,7 @@
 * Marlo Major - How to Start a Medical Device Startup
 * Matt Rooney - Plasma Torch Recycling
 * Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
+* Justin Holzmann - [Big Pond Effect](https://gist.github.com/jphoenix86/0035ca383cbff042bdbc)
 
 ##### Student-Led Sessions
 
