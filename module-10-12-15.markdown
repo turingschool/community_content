@@ -102,7 +102,6 @@
 * Matt Hecker
 * Marlo Major - How to Start a Medical Device Startup
 * Matt Rooney - Plasma Torch Recycling
-* Edgar Duran
 * Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
 
 ##### Student-Led Sessions
