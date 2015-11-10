@@ -91,6 +91,7 @@
 
 * George Hudson - [Swift - Continues all module!](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * Jamie Kawahara - Make Custom 3D Printed Business Cards
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Struggling with the project du jour? Feel like you're the only one who doesn't get some general concept (protip: you're not)? Fear not... we'll review All The Things! 
 
 ### **Week of 11/9**
 
