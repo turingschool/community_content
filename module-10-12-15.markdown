@@ -96,7 +96,7 @@
 
 ##### Lightning Talks
 
-* Samson Brock - Elixir on Phoenix
+* Samson Brock - [Elixir on Phoenix](https://gist.github.com/imwithsam/6a0b324cebdd100bc626)
 * Dave Maurer
 * Matt Ewell - How not to get ripped off by your enterprise IT services provider
 * Matt Hecker - [pry neato's](https://github.com/HoffsMH/pry-lightning-talk)
