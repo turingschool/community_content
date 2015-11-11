@@ -99,7 +99,7 @@
 * Dave Maurer - [New Developer Considerations](https://gist.github.com/davemaurer/5e4b6413c71665bfb451)
 * Matt Ewell - [How not to get ripped off by your enterprise IT services provider](https://gist.github.com/plato721/87e990d6dac12590326c)
 * Matt Hecker - [pry neato's](https://github.com/HoffsMH/pry-lightning-talk)
-* Marlo Major - How to Start a Medical Device Startup
+* Marlo Major - [How to Start a Medical Device Startup](https://gist.github.com/marlomajor/5a871170d8633c2378b6)
 * Matt Rooney - [Plasma Torch Recycling] (https://gist.github.com/MattRooney/7af915b255f393ef5a8c)
 * Mimi Schatz - [Lessons in Refactoring: RESTful routes in RailsEngine](https://gist.github.com/mcschatz/eeee9e6c8606649b0ef7)
 * Justin Holzmann - [Big Pond Effect](https://gist.github.com/jphoenix86/0035ca383cbff042bdbc)
