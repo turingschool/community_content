@@ -115,7 +115,6 @@
 
 ##### Lightning Talks
 
-* Regis Boudinot
 * Adam Jensen - [What's up with JS scopes?](https://gist.github.com/adamki/4b0d5bf6fbf7974839ab)
 * George Hudson - [Contributing to Open Source (as a Turing student)](https://gist.github.com/Egogre/5dd4e1256cbc2bf200ba)
 * Jill Donohue - [The Science Behind Gratitude] (https://gist.github.com/jillmd501/700861085d1e5faa1916)
