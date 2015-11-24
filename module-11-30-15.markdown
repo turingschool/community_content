@@ -12,7 +12,6 @@
 * Justin Holzmann
 * Regis Boudinot
 * Rick Bacci
-* Aaron Careaga
 * Adam Jensen
 * Amber Crawford
 * Nicole Hall
@@ -24,7 +23,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* "Getting Started with Sketch" - Aaron Careaga & Jason Pilz
 
 ### **Week of 12/7**
 
@@ -59,7 +58,6 @@
 * Matt Hecker
 * Samson Brock
 * Stanley Siudzinski
-* Jason Pilz
 * Jerrod Paul Junker
 * Jhun de Andres
 * Ryan Johnson
