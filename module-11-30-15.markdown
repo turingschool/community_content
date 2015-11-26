@@ -39,7 +39,7 @@
 * Edgar Duran
 * Emily Dowdle
 * Robbie Lane
-* Ross Edfort
+* Ross Edfort [Intro to p5.js](https://rossedfort.wordpress.com/2015/10/01/exploring-p5-js/)
 * Brenna Martenson
 * Chad Minnerath
 * Dan Winter
