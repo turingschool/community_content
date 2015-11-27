@@ -24,6 +24,7 @@
 ##### Electives and Student-Led Sessions
 
 * "Getting Started with Sketch" - Aaron Careaga & Jason Pilz
+* "Build a Chat application in meteor.js" - Adam Jensen
 
 ### **Week of 12/7**
 
