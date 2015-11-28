@@ -18,7 +18,7 @@
 * Pat Wey
 * Aaron Greenspan
 * Beth Sebian
-* Brant Wellman - [Refactoring Code and Evolution] - (https://gist.github.com/brantwellman/a5cd97065392ef9b7268)
+* Brant Wellman - [Refactoring Code and Evolution](https://gist.github.com/brantwellman/a5cd97065392ef9b7268)
 * Toni Rib
 
 ##### Electives and Student-Led Sessions
