@@ -10,7 +10,6 @@
 * Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
 * Justin Holzmann
 * Regis Boudinot - DevOps: Metal and Code Symbiosis
-* Adam Jensen
 * Amber Crawford
 * Nicole Hall - Communication in the digital age
 * Pat Wey - [Habit Loops](https://gist.github.com/patwey/ef59e9ce13caf4915891)
