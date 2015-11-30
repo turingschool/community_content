@@ -15,7 +15,7 @@
 * Adam Jensen
 * Amber Crawford
 * Nicole Hall
-* Pat Wey
+* Pat Wey - [Habit Loops](https://gist.github.com/patwey/ef59e9ce13caf4915891)
 * Aaron Greenspan
 * Beth Sebian
 * Brant Wellman - [Refactoring Code and Evolution](https://gist.github.com/brantwellman/a5cd97065392ef9b7268)
