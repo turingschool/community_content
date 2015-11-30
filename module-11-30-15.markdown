@@ -8,7 +8,7 @@
 
 * Alon Waisman
 * Bret Doucette
-* Jeff Ruane
+* Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
 * Justin Holzmann
 * Regis Boudinot
 * Rick Bacci
