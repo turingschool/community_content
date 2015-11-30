@@ -8,7 +8,7 @@
 
 * Bret Doucette - [A Basic Guide to Time in Rails](https://gist.github.com/bad6e/b9d6bd099295b86c0605)
 * Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
-* Justin Holzmann
+* Justin Holzmann - Loosely Coupled Interfaces (summary of Chapter 4 of POODR).
 * Regis Boudinot - DevOps: Metal and Code Symbiosis
 * Adam Jensen
 * Amber Crawford
