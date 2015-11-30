@@ -10,7 +10,7 @@
 * Bret Doucette
 * Jeff Ruane
 * Justin Holzmann
-* Regis Boudinot
+* Regis Boudinot - DevOps: Metal and Code Symbiosis
 * Rick Bacci
 * Adam Jensen
 * Amber Crawford
