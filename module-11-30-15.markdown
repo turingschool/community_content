@@ -10,7 +10,7 @@
 * Bret Doucette
 * Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
 * Justin Holzmann
-* Regis Boudinot
+* Regis Boudinot - DevOps: Metal and Code Symbiosis
 * Rick Bacci
 * Adam Jensen
 * Amber Crawford
