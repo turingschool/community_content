@@ -34,7 +34,7 @@
 * Chris Cenatiempo
 * Dave Maurer
 * Rose Kohn
-* Mary Beth Burch
+* Mary Beth Burch - Music and Code with Sonic Pi
 * Russell Harms
 * Ryan Asensio
 * David Stinnette
