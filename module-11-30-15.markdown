@@ -6,7 +6,6 @@
 
 ##### Lightning Talks
 
-* Alon Waisman
 * Bret Doucette - [A Basic Guide to Time in Rails](https://gist.github.com/bad6e/b9d6bd099295b86c0605)
 * Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
 * Justin Holzmann
