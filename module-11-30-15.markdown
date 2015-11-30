@@ -25,6 +25,7 @@
 * "Build a Chat application in meteor.js" - Adam Jensen
 * "Intro to Elm Programming" - Sekhar Paladugu
 * [Tips for faster workflow in your text editor and OS](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md) - Alon Waisman
+* Ross Edfort [Intro to p5.js](https://rossedfort.wordpress.com/2015/10/01/exploring-p5-js/)
 
 ### **Week of 12/7**
 
@@ -40,7 +41,6 @@
 * Edgar Duran
 * Emily Dowdle - [Mike Cohn’s Test Pyramid](https://gist.github.com/emilydowdle/970f41008ae865b121cb)
 * Robbie Lane - Animating SVGs
-* Ross Edfort [Intro to p5.js](https://rossedfort.wordpress.com/2015/10/01/exploring-p5-js/)
 * Brenna Martenson
 * Chad Minnerath
 * Dan Winter
