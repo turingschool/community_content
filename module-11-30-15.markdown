@@ -19,7 +19,7 @@
 * Aaron Greenspan
 * Beth Sebian
 * Brant Wellman - [Refactoring Code and Evolution](https://gist.github.com/brantwellman/a5cd97065392ef9b7268)
-* Toni Rib
+* Toni Rib - The Art of PowerPoint
 
 ##### Electives and Student-Led Sessions
 
