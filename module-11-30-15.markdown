@@ -25,6 +25,7 @@
 
 * "Getting Started with Sketch" - Aaron Careaga & Jason Pilz
 * "Build a Chat application in meteor.js" - Adam Jensen
+* "Intro to Elm Programming" - Sekhar Paladugu
 
 ### **Week of 12/7**
 
@@ -47,7 +48,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* "Intro to Elm Programming Continued" - Sekhar Paladugu
 
 ### **Week of 12/14**
 
@@ -62,7 +63,7 @@
 * Jerrod Paul Junker
 * Jhun de Andres
 * Ryan Johnson
-* Sekhar Paladugu
+* John Slota
 * Beth Secor
 * Greg Armstrong
 * Hector Huertas Baeza
@@ -82,7 +83,7 @@
 * Travis Haby
 * Tyler Graham
 * Jill Donohue
-* John Slota
+* Sekhar Paladugu
 * Justin Pease
 * Shannon Paige
 * James Crockett
