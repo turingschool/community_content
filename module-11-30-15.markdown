@@ -26,6 +26,7 @@
 * "Getting Started with Sketch" - Aaron Careaga & Jason Pilz
 * "Build a Chat application in meteor.js" - Adam Jensen
 * "Intro to Elm Programming" - Sekhar Paladugu
+* [Tips for faster workflow in your text editor and OS](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md) - Alon Waisman
 
 ### **Week of 12/7**
 
