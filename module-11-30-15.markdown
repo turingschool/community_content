@@ -10,7 +10,7 @@
 * Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
 * Justin Holzmann - Loosely Coupled Interfaces (summary of Chapter 4 of POODR).
 * Regis Boudinot - DevOps: Metal and Code Symbiosis
-* Amber Crawford
+* Amber Crawford - Coding for a Cause - Non-Profit Web Development and You
 * Nicole Hall - Communication in the digital age
 * Pat Wey - [Habit Loops](https://gist.github.com/patwey/ef59e9ce13caf4915891)
 * Aaron Greenspan - [How long is the coastline of England?](https://gist.github.com/afg419/4e03ca48f01ae9fe2e84)
