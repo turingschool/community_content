@@ -11,7 +11,7 @@
 * Justin Holzmann - Loosely Coupled Interfaces (summary of Chapter 4 of POODR).
 * Regis Boudinot - DevOps: Metal and Code Symbiosis
 * Amber Crawford - Coding for a Cause - Non-Profit Web Development and You
-* Nicole Hall - Communication in the digital age
+* Nicole Hall - [Communication in the digital age](https://gist.github.com/NicoleHall/f0cac9f15e0cf96e07a4)
 * Pat Wey - [Habit Loops](https://gist.github.com/patwey/ef59e9ce13caf4915891)
 * Aaron Greenspan - [How long is the coastline of England?](https://gist.github.com/afg419/4e03ca48f01ae9fe2e84)
 * Beth Sebian - [The Online Ummah: Islam in the Digital Age](https://github.com/bethsebian/m2_lightning_talk)
