@@ -7,7 +7,7 @@
 ##### Lightning Talks
 
 * Bret Doucette - [A Basic Guide to Time in Rails](https://gist.github.com/bad6e/b9d6bd099295b86c0605)
-* Jeff Ruane - Ken Thompson's *Reflections on Trusting Trust*
+* Jeff Ruane - [Ken Thompson's *Reflections on Trusting Trust*](https://gist.github.com/jbrr/b07f15c0220afe89f4ef)
 * Justin Holzmann - Loosely Coupled Interfaces (summary of Chapter 4 of POODR).
 * Regis Boudinot - DevOps: Metal and Code Symbiosis
 * Amber Crawford - Coding for a Cause - Non-Profit Web Development and You
