@@ -22,7 +22,7 @@
 
 * "Getting Started with Sketch" - Aaron Careaga & Jason Pilz
 * "Build a Chat application in meteor.js" - Adam Jensen
-* "Intro to Elm Programming" - Sekhar Paladugu
+* "Intro to Elm Programming" - Sekhar Paladugu & Matt Rooney
 * [Tips for faster workflow in your text editor and OS](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md) - Alon Waisman
 * Ross Edfort [Intro to p5.js](https://rossedfort.wordpress.com/2015/10/01/exploring-p5-js/)
 
@@ -46,7 +46,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* "Intro to Elm Programming Continued" - Sekhar Paladugu
+* "Intro to Elm Programming Continued" - Sekhar Paladugu & Matt Rooney
 
 ### **Week of 12/14**
 
@@ -81,7 +81,6 @@
 * Travis Haby
 * Tyler Graham
 * Jill Donohue
-* Sekhar Paladugu
 * Justin Pease
 * Shannon Paige
 * James Crockett
@@ -97,7 +96,6 @@
 ##### Lightning Talks
 
 * Marlo Major
-* Matt Rooney
 * Matt Stjernholm
 * Michael Wong
 * Torie Warren
