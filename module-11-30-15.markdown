@@ -16,7 +16,7 @@
 * Aaron Greenspan - [How long is the coastline of England?](https://gist.github.com/afg419/4e03ca48f01ae9fe2e84)
 * Beth Sebian - [The Online Ummah: Islam in the Digital Age](https://github.com/bethsebian/m2_lightning_talk)
 * Brant Wellman - [Refactoring Code and Evolution](https://gist.github.com/brantwellman/a5cd97065392ef9b7268)
-* Toni Rib - The Art of PowerPoint
+* Toni Rib - [The Art of PowerPoint](https://gist.github.com/ToniRib/7db128341b4f3ba0a976)
 
 ##### Electives and Student-Led Sessions
 
