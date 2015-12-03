@@ -25,6 +25,7 @@
 * "[Intro to Elm Programming](https://gist.github.com/MattRooney/6131a8d3bd85739d7cc9)" - Sekhar Paladugu & Matt Rooney
 * [Tips for faster workflow in your text editor and OS](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md) - Alon Waisman - Matt Hecker
 * Ross Edfort [Intro to p5.js](https://rossedfort.wordpress.com/2015/10/01/exploring-p5-js/)
+* Regis Boudinot - [Intro to DevOps: Setting up a Virtual Machine and Learning Linux](https://gist.github.com/selfup/3a7da40919fa7acdc30c)
 
 ### **Week of 12/7**
 
