@@ -53,7 +53,7 @@
 
 ##### Lightning Talks
 
-* Erik Butcher
+* Erik Butcher - Extreme Val(or)idation
 * George Hudson
 * Matt Ewell
 * Matt Hecker
