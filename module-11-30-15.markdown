@@ -46,8 +46,6 @@
 
 ##### Electives and Student-Led Sessions
 
-* "Intro to Elm Programming Continued" - Sekhar Paladugu & Matt Rooney
-
 ### **Week of 12/14**
 
 ##### Lightning Talks
