@@ -33,7 +33,6 @@
 
 * Chris Cenatiempo
 * Dave Maurer
-* Rose Kohn
 * Mary Beth Burch - Music and Code with Sonic Pi
 * Russell Harms
 * Ryan Asensio - [Lisps](https://gist.github.com/rasensio1/1dea254a43b819140904)
@@ -66,7 +65,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 
 ### **Week of 1/11**
 
