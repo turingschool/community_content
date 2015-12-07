@@ -38,7 +38,7 @@
 * Russell Harms
 * Ryan Asensio - [Lisps](https://gist.github.com/rasensio1/1dea254a43b819140904)
 * David Stinnette
-* Edgar Duran
+* Edgar Duran - Li-Fi
 * Emily Dowdle - [Mike Cohn’s Test Pyramid](https://gist.github.com/emilydowdle/970f41008ae865b121cb)
 * Robbie Lane - Animating SVGs
 * Brenna Martenson
