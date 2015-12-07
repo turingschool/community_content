@@ -47,6 +47,7 @@
 ##### Electives and Student-Led Sessions
 
 * "Intro to Elm Programming Continued" - Sekhar Paladugu & Matt Rooney
+* [p5.js continued - p5.sound!](https://gist.github.com/rossedfort/2f1487a7954120ebd4a8) - Ross
 
 ### **Week of 12/14**
 
