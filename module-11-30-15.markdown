@@ -31,7 +31,6 @@
 
 ##### Lightning Talks
 
-* Dave Maurer
 * Mary Beth Burch - Music and Code with Sonic Pi
 * Russell Harms - [Funcational and Object Oriented Programming](https://gist.github.com/russelleh/b24294211a7ab6c9fe98)
 * Ryan Asensio - [Lisps](https://gist.github.com/rasensio1/1dea254a43b819140904)
