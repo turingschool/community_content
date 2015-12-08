@@ -102,4 +102,4 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* Justin Pease - Begginner object model class for foxtrotters
