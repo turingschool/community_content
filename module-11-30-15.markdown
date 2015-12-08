@@ -44,6 +44,7 @@
 
 ##### Electives and Student-Led Sessions
 * Chris Cenatiempo - Intro to C Programming
+* Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 
 ### **Week of 12/14**
 
@@ -65,8 +66,6 @@
 
 ##### Electives and Student-Led Sessions
 
-* Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
-
 ### **Week of 1/11**
 
 ##### Lightning Talks
@@ -74,7 +73,6 @@
 * Jason Wright
 * Jack Yeh
 * Michael Merrill
-* Mimi Schatz
 * Travis Haby
 * Tyler Graham
 * Jill Donohue
@@ -86,7 +84,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 
 ### **Week of 1/18**
 
