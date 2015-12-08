@@ -35,7 +35,7 @@
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Edgar Duran - Li-Fi
 * Emily Dowdle - [Mike Cohn’s Test Pyramid](https://gist.github.com/emilydowdle/970f41008ae865b121cb)
-* Robbie Lane - Animating SVGs
+* Robbie Lane - [Animating SVGs](https://gist.github.com/robbielane/534d6ae0e3a1c8a06018)
 * Brenna Martenson - Language Acquisition and Technology
 * Dan Winter - Programming the Keurig of Beer
 
