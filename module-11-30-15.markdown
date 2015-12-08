@@ -33,7 +33,7 @@
 
 * Chris Cenatiempo
 * Dave Maurer
-* Mary Beth Burch - Music and Code with Sonic Pi
+* Mary Beth Burch - [Music and Code with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
 * Russell Harms
 * Ryan Asensio - [Lisps](https://gist.github.com/rasensio1/1dea254a43b819140904)
 * David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
