@@ -31,7 +31,6 @@
 
 ##### Lightning Talks
 
-* Chris Cenatiempo
 * Dave Maurer
 * Mary Beth Burch - Music and Code with Sonic Pi
 * Russell Harms
@@ -44,6 +43,7 @@
 * Dan Winter - Programming the Keurig of Beer
 
 ##### Electives and Student-Led Sessions
+* Chris Cenatiempo - Intro to C Programming
 
 ### **Week of 12/14**
 
