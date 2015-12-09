@@ -43,7 +43,7 @@
 * Chris Cenatiempo - Intro to C Programming
 * Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 * Ryan Asensio - Clojure
-* MB Burch - Sonic Pi
+* MB Burch - [Play with Music with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
 * Justin Pease - Beginner object model class for foxtrotters
 
 ### **Week of 12/14**
