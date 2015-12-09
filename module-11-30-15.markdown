@@ -44,7 +44,7 @@
 * Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 * Ryan Asensio - Clojure
 * MB Burch - Sonic Pi
-* Justin Pease - Begginner object model class for foxtrotters
+* Justin Pease - Beginner object model class for foxtrotters
 
 ### **Week of 12/14**
 
