@@ -36,7 +36,6 @@
 * Edgar Duran - [Li-Fi] (https://gist.github.com/edgarduran/ec9088abe5e09609b882)
 * Emily Dowdle - [Mike Cohn’s Test Pyramid](https://gist.github.com/emilydowdle/970f41008ae865b121cb)
 * Robbie Lane - [Animating SVGs](https://gist.github.com/robbielane/534d6ae0e3a1c8a06018)
-* Brenna Martenson - Language Acquisition and Technology
 * Dan Winter - [Programming the Keurig of Beer](https://gist.github.com/danjwinter/e1e9868d32e335d2d768)
 
 ##### Electives and Student-Led Sessions
@@ -45,6 +44,7 @@
 * Ryan Asensio - Clojure
 * MB Burch - [Play with Music with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
 * Justin Pease - Beginner object model class for foxtrotters
+* Brenna Martenson- [CSS & Inspect Element] (https://gist.github.com/martensonbj/f1d796b76b20ebe68da3)
 
 ### **Week of 12/14**
 
