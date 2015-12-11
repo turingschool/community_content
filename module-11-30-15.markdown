@@ -38,7 +38,7 @@
 * Dan Winter - [Programming the Keurig of Beer](https://gist.github.com/danjwinter/e1e9868d32e335d2d768)
 
 ##### Electives and Student-Led Sessions
-* Chris Cenatiempo - Intro to C Programming
+* Chris Cenatiempo - [Intro to C Programming](https://gist.github.com/ChrisCenatie/2e9652c8459d7683ec45)
 * Rose Kohn & Mimi Schatz - Conf Talk View and Discuss
 * Ryan Asensio - [Clojure](https://gist.github.com/rasensio1/1dea254a43b819140904)
 * MB Burch - [Play with Music with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
