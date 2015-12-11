@@ -44,6 +44,7 @@
 * MB Burch - [Play with Music with Sonic Pi](https://gist.github.com/mbburch/9e98212d9b4a5a40169a)
 * Justin Pease - Beginner object model class for foxtrotters
 * Brenna Martenson- [CSS & Inspect Element] (https://gist.github.com/martensonbj/f1d796b76b20ebe68da3)
+* Ross Edfort - [p5.js continued - p5.sound!](https://gist.github.com/rossedfort/2f1487a7954120ebd4a8)
 
 ### **Week of 12/14**
 
