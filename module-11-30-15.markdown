@@ -61,7 +61,7 @@
 * John Slota
 * Beth Secor - [Applying Statistics to Benchmarking](https://gist.github.com/bethsecor/fbbddc66621855e24ae3)
 * Greg Armstrong
-* Hector Huertas Baeza
+* Hector Huertas Baeza - [Why bundler exists and how does it works?](https://gist.github.com/hectorhuertas/6dd37217ddc1ae977a8c)
 
 ##### Electives and Student-Led Sessions
 
