@@ -54,7 +54,6 @@
 * George Hudson
 * Matt Ewell
 * Matt Hecker
-* David Stinnette - [Combating PTSD with Tech] (https://gist.github.com/dastinnette/e581b5c06516afc3c2e8)
 * Jerrod Paul Junker
 * Jhun de Andres
 * Ryan Johnson
