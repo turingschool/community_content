@@ -64,6 +64,7 @@
 ##### Electives and Student-Led Sessions
 
 * Matt Hecker
+* Jhun & Ryab [Coding and the Inner-city](https://gist.github.com/joshuajhun/c0d815a25a8f550bea33)
 
 ### **Week of 1/11**
 
