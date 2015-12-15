@@ -51,7 +51,7 @@
 ##### Lightning Talks
 
 * Jhun de Andres
-* Erik Butcher - Extreme Val(or)idation
+* Erik Butcher - [Extreme Val(or)idation](https://gist.github.com/with-a-k/d92fb9ba5a9bfea0cff1)
 * George Hudson - [Teach Coding To Anyone](https://gist.github.com/Egogre/2a42d15737f6696ab8c3)
 * Matt Ewell - [My biggest IT fails, and lessons to apply to dev careers](https://gist.github.com/plato721/de19241c1d35fac85217)
 * Jerrod Paul Junker
