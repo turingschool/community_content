@@ -56,7 +56,7 @@
 * Matt Ewell - [My biggest IT fails, and lessons to apply to dev careers](https://gist.github.com/plato721/de19241c1d35fac85217)
 * Jerrod Paul Junker
 * Ryan Johnson
-* John Slota - How to safe your money effectively
+* John Slota - [How to save your money effectively](https://gist.github.com/slotaj/0a7bf5ec7e1a27a445e4)
 * Beth Secor - [Applying Statistics to Benchmarking](https://gist.github.com/bethsecor/fbbddc66621855e24ae3)
 * Greg Armstrong - [Can Programming Solve Spinal-Cord Injury?](https://gist.github.com/GregoryArmstrong/3af1a02c2b083e21aebc)
 * Hector Huertas Baeza - [Why bundler exists and how does it works?](https://gist.github.com/hectorhuertas/6dd37217ddc1ae977a8c)
