@@ -52,7 +52,7 @@
 
 * Erik Butcher - Extreme Val(or)idation
 * George Hudson
-* Matt Ewell
+* Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
 * Matt Hecker
 * Jerrod Paul Junker
 * Jhun de Andres
