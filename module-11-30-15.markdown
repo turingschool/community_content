@@ -50,6 +50,7 @@
 
 ##### Lightning Talks
 
+* Jhun de Andres
 * Erik Butcher - Extreme Val(or)idation
 * George Hudson
 * Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
@@ -68,7 +69,6 @@
 
 ##### Lightning Talks
 
-* Jhun de Andres
 * Jason Wright
 * Jack Yeh
 * Michael Merrill
