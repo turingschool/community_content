@@ -52,7 +52,7 @@
 
 * Jhun de Andres
 * Erik Butcher - Extreme Val(or)idation
-* George Hudson
+* George Hudson - [Teach Coding To Anyone](https://gist.github.com/Egogre/2a42d15737f6696ab8c3)
 * Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
 * Jerrod Paul Junker
 * Ryan Johnson
