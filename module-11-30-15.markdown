@@ -54,7 +54,6 @@
 * George Hudson
 * Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
 * Jerrod Paul Junker
-* Jhun de Andres
 * Ryan Johnson
 * John Slota
 * Beth Secor - [Applying Statistics to Benchmarking](https://gist.github.com/bethsecor/fbbddc66621855e24ae3)
@@ -69,6 +68,7 @@
 
 ##### Lightning Talks
 
+* Jhun de Andres
 * Jason Wright
 * Jack Yeh
 * Michael Merrill
