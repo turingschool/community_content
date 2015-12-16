@@ -65,6 +65,7 @@
 * Jhun & Ryan [Coding and the Inner-city](https://gist.github.com/joshuajhun/c0d815a25a8f550bea33)
 * Ross Edfort - [p5.js continued p5bots](https://github.com/sarahgp/p5bots/blob/master/examples/HelloWorld.md)
 * Brennan Holzclaw - Intro to Podcasting
+* Erinna Chen - Recursion
 
 ### **Week of 1/11**
 
