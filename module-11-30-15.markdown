@@ -50,12 +50,10 @@
 
 ##### Lightning Talks
 
-* Jhun de Andres
 * Erik Butcher - [Extreme Val(or)idation](https://gist.github.com/with-a-k/d92fb9ba5a9bfea0cff1)
 * George Hudson - [Teach Coding To Anyone](https://gist.github.com/Egogre/2a42d15737f6696ab8c3)
 * Matt Ewell - [My biggest IT fails, and lessons to apply to dev careers](https://gist.github.com/plato721/de19241c1d35fac85217)
 * Jerrod Paul Junker
-* Ryan Johnson
 * John Slota - [How to save your money effectively](https://gist.github.com/slotaj/0a7bf5ec7e1a27a445e4)
 * Beth Secor - [Applying Statistics to Benchmarking](https://gist.github.com/bethsecor/fbbddc66621855e24ae3)
 * Greg Armstrong - [Can Programming Solve Spinal-Cord Injury?](https://gist.github.com/GregoryArmstrong/3af1a02c2b083e21aebc)
@@ -63,8 +61,10 @@
 
 ##### Electives and Student-Led Sessions
 
-* Matt Hecker
+* Matt Hecker - Module 1 Recap and Review
 * Jhun & Ryab [Coding and the Inner-city](https://gist.github.com/joshuajhun/c0d815a25a8f550bea33)
+* Ross Edfort - p5.js continued
+* Brennan Holzclaw - Intro to Podcasting
 
 ### **Week of 1/11**
 
