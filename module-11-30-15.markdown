@@ -76,7 +76,7 @@
 * Michael Merrill
 * Travis Haby
 * Tyler Graham
-* Jill Donohue
+* Jill Donohue- [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
 * Justin Pease
 * Shannon Paige
 * James Crockett
