@@ -76,7 +76,7 @@
 * Michael Merrill
 * Travis Haby
 * Tyler Graham
-* Jill Donohue
+* Jill Donohue - Front End Web Trends
 * Justin Pease
 * Shannon Paige
 * James Crockett
