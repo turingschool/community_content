@@ -76,7 +76,7 @@
 * Tyler Graham
 * Jill Donohue - [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
 * Justin Pease
-* Shannon Paige
+* Shannon Paige - [The Cult of Pythagoras](https://gist.github.com/ShannonPaige/4455e24eb7c3f4a55420)
 * James Crockett
 * Jordan Lawler
 * Joseph Perry
