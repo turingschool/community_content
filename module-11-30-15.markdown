@@ -77,7 +77,7 @@
 * Jill Donohue - [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
 * Justin Pease
 * Shannon Paige
-* James Crockett
+* James Crockett - [Wearable Analytics and the NFL] (https://gist.github.com/jecrockett/5c5b7e0afd713fca9175)
 * Jordan Lawler
 * Joseph Perry
 
