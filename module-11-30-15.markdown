@@ -77,7 +77,7 @@
 * Jill Donohue - [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
 * Justin Pease
 * Shannon Paige - [The Cult of Pythagoras](https://gist.github.com/ShannonPaige/4455e24eb7c3f4a55420)
-* James Crockett
+* James Crockett - [Wearable Analytics and the NFL] (https://gist.github.com/jecrockett/5c5b7e0afd713fca9175)
 * Jordan Lawler
 * Joseph Perry - https://gist.github.com/jwperry/e1011eb731afa1d67c3a
 
