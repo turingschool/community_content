@@ -71,7 +71,7 @@
 
 * Matt Ewell - [My biggest IT fails, and lessons to apply to dev careers](https://gist.github.com/plato721/de19241c1d35fac85217)
 * Jerrod Paul Junker [Upcoming Game Technologies](https://gist.github.com/Unsafepond/f7bee08b61b53d8aaed5)
-* Jack Yeh
+* Jack Yeh [The Secret Life of Binary Code]
 * Michael Merrill
 * Tyler Graham - The Global Hacking War
 * Jill Donohue - [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
