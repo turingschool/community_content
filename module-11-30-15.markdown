@@ -78,7 +78,7 @@
 * Justin Pease
 * Shannon Paige - [The Cult of Pythagoras](https://gist.github.com/ShannonPaige/4455e24eb7c3f4a55420)
 * James Crockett - [Wearable Analytics and the NFL] (https://gist.github.com/jecrockett/5c5b7e0afd713fca9175)
-* Jordan Lawler
+* Jordan Lawler = Slack Pro Tips, AND YOU CAN TOO!
 * Joseph Perry - https://gist.github.com/jwperry/e1011eb731afa1d67c3a
 
 ##### Electives and Student-Led Sessions
