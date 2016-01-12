@@ -75,7 +75,7 @@
 * Michael Merrill
 * Tyler Graham - The Global Hacking War
 * Jill Donohue - [Front End is Your Friend!](https://gist.github.com/jillmd501/8fcd7e27930dbebc0a41)
-* Justin Pease
+* Justin Pease - Smart is Not a Thing! 
 * Shannon Paige - [The Cult of Pythagoras](https://gist.github.com/ShannonPaige/4455e24eb7c3f4a55420)
 * James Crockett - [Wearable Analytics and the NFL] (https://gist.github.com/jecrockett/5c5b7e0afd713fca9175)
 * Jordan Lawler = Slack Pro Tips, AND YOU CAN TOO!
