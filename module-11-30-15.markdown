@@ -99,6 +99,7 @@
 * Steve Pentler
 * Steven Olson
 * Taylor Moore
+* Alon Waisman - Ruby 2.3's amazing new 'safe navigation' operator.
 
 ##### Electives and Student-Led Sessions
 
