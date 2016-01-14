@@ -80,6 +80,7 @@
 * James Crockett - [Wearable Analytics and the NFL] (https://gist.github.com/jecrockett/5c5b7e0afd713fca9175)
 * Jordan Lawler - [Slack Pro Tips, AND YOU CAN TOO!](https://gist.github.com/Jlawlzz/034ff3bdff984fe23ef6)
 * Joseph Perry - [Programming Careers in Energy and Commodities Trading] (https://gist.github.com/jwperry/e1011eb731afa1d67c3a)
+* Alon Waisman - Six Degrees of Safe Navigation in Ruby 2.3
 
 ##### Electives and Student-Led Sessions
 
@@ -99,7 +100,6 @@
 * Steve Pentler
 * Steven Olson
 * Taylor Moore
-* Alon Waisman - Ruby 2.3's amazing new 'safe navigation' operator.
 
 ##### Electives and Student-Led Sessions
 
