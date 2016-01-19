@@ -96,7 +96,7 @@
 * Torie Warren - [Qlb: The Arabic Programming Language](https://gist.github.com/toriejw/4fff447106d839cd77e0)
 * Tyler Komoroske
 * Lenny Myerson
-* Penney Garrett - Mycelium: Nature's Internet
+* Penney Garrett - [Mycelium: Nature's Internet](https://gist.github.com/PenneyGadget/3a57fec463bc3e52d140)
 * Steve Pentler
 * Steven Olson
 * Taylor Moore
