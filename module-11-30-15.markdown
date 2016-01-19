@@ -99,8 +99,7 @@
 * Penney Garrett - [Mycelium: Nature's Internet](https://gist.github.com/PenneyGadget/3a57fec463bc3e52d140)
 * Steve Pentler
 * Steven Olson
-* Taylor Moore
 
 ##### Electives and Student-Led Sessions
 
-*
+*Taylor Moore - Brackets Intro
