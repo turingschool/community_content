@@ -91,7 +91,7 @@
 ##### Lightning Talks
 
 * Marlo Major
-* Matt Stjernholm
+* Matt Stjernholm - [(Blog Post): The Asset Pipeline is Your Friend)]
 * Michael Wong
 * Torie Warren - [Qlb: The Arabic Programming Language](https://gist.github.com/toriejw/4fff447106d839cd77e0)
 * Tyler Komoroske
