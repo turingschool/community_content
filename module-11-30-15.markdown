@@ -97,7 +97,7 @@
 * Tyler Komoroske - Blog
 * Lenny Myerson
 * Penney Garrett - [Mycelium: Nature's Internet](https://gist.github.com/PenneyGadget/3a57fec463bc3e52d140)
-* Steve Pentler
+* Steve Pentler - Blog Post
 * Steven Olson - Blog Post
 
 ##### Electives and Student-Led Sessions
