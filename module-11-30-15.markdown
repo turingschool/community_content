@@ -97,7 +97,7 @@
 * Lenny Myerson - The Placebo Effect
 * Penney Garrett - [Mycelium: Nature's Internet](https://gist.github.com/PenneyGadget/3a57fec463bc3e52d140)
 * Steve Pentler - Blog Post
-* Steven Olson - Blog Post
+* Steven Olson - [Blog Post: Dealing with the firehose of information at Turing]
 
 ##### Electives and Student-Led Sessions
 
