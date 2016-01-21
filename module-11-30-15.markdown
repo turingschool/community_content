@@ -93,7 +93,7 @@
 * Marlo Major
 * Matt Stjernholm - [(Blog Post): The Asset Pipeline is Your Friend)]
 * Torie Warren - [Qlb: The Arabic Programming Language](https://gist.github.com/toriejw/4fff447106d839cd77e0)
-* Tyler Komoroske - Blog
+* Tyler Komoroske - Blog-Figuring out how to figure things out
 * Lenny Myerson - The Placebo Effect
 * Penney Garrett - [Mycelium: Nature's Internet](https://gist.github.com/PenneyGadget/3a57fec463bc3e52d140)
 * Steve Pentler - Blog Post
