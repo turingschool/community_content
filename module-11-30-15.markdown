@@ -91,7 +91,7 @@
 ##### Lightning Talks
 
 * Marlo Major
-* Matt Stjernholm - [(Blog Post): The Asset Pipeline is Your Friend)]
+* Matt Stjernholm - [Blog Post: Debugging the Asset Pipeline](https://gist.github.com/matt-stj/64a70e644e07eb404828)
 * Torie Warren - [Qlb: The Arabic Programming Language](https://gist.github.com/toriejw/4fff447106d839cd77e0)
 * Tyler Komoroske - Blog
 * Lenny Myerson - The Placebo Effect
