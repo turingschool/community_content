@@ -21,7 +21,7 @@
 * Ross Edfort
 * Brian Rippeto
 * Charles Ellison
-* Chelsea Johnson
+* Allan Blair
 * David Whitaker
 
 ##### Electives and Student-Led Sessions
@@ -105,7 +105,7 @@
 * Toni Rib
 * Aaron Careaga
 * Lenny Myerson
-* Allan Blair
+* Chelsea Johnson
 * Brennan Holtzclaw
 * Matt Packer
 * Nate Venn
