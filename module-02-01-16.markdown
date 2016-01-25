@@ -16,9 +16,7 @@
 * Amber Crawford
 * Edgar Duran
 * Pat Wey
-* Robbie Lane
 * Tyler Komoroske
-* Ross Edfort
 * Brian Rippeto
 * Charles Ellison
 * Allan Blair
@@ -26,7 +24,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* [How to create and use SVG's - With Robbie and Ross](https://gist.github.com/rossedfort/39eb6e9dc6da99677047)
 
 ### **Week of 2/8**
 
