@@ -42,7 +42,7 @@
 * David Stinette
 * Sekhar Paladugu
 * Shannon Paige
-* Erinna Chen
+* Erinna Chen: Fun with Linear Algebra
 * Hedy Woo
 * Nicholas Dorans: Alternative Energy Sources
 * July Tran
