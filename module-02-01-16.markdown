@@ -86,7 +86,7 @@
 * John Slota
 * Alexis Navarrete
 * Admir Draganovic
-* Adrienne Domingus
+* Adrienne Domingus: Disposal & "recycling" of electronics
 * Kimiko Kano
 * Nick Weiland
 * Scott Firestone
