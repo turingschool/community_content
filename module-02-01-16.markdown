@@ -26,6 +26,7 @@
 
 * [How to create and use SVG's - With Robbie and Ross](https://gist.github.com/rossedfort/39eb6e9dc6da99677047)
 * [How to get started with Vim - Adam Jensen](https://gist.github.com/adamki/cb0e52a096ad53be70db)
+* Getting Started With Phoenix: Burning Into A Pile of Ashes - With Torie and Pat
 
 ### **Week of 2/8**
 
