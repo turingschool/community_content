@@ -19,7 +19,7 @@
 * Tyler Komoroske
 * Brian Rippeto
 * Charles Ellison
-* Allan Blair
+* Allan Blair: [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
 * David Whitaker
 
 ##### Electives and Student-Led Sessions
