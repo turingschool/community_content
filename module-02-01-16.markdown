@@ -20,7 +20,7 @@
 * Brian Rippeto
 * Charles Ellison
 * Allan Blair: [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
-* David Whitaker
+* David Whitaker: Technology in the food system: Tracking where YOUR food comes from
 
 ##### Electives and Student-Led Sessions
 
