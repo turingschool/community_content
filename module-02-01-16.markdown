@@ -9,7 +9,7 @@
 ##### Lightning Talks
 
 * Michael Wong - Drones: For more than just spying on your neighbors
-* Marlo Major
+* Marlo Major - [Write User Stories like a 12 year old](https://gist.github.com/marlomajor/d00c043df9305aa8629a)
 * Aaron Greenspan
 * Beth Sebian
 * Adam Jensen
@@ -18,9 +18,9 @@
 * Pat Wey
 * Tyler Komoroske
 * Brian Rippeto
-* Charles Ellison: Artificial intelligence: Bridging the gap
-* Allan Blair: [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
-* David Whitaker: Technology in the food system: Tracking where YOUR food comes from
+* Charles Ellison - Artificial intelligence: Bridging the gap
+* Allan Blair - [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
+* David Whitaker - Technology in the food system: Tracking where YOUR food comes from
 
 ##### Electives and Student-Led Sessions
 
