@@ -12,7 +12,6 @@
 * Marlo Major - [Write User Stories like a 12 year old](https://gist.github.com/marlomajor/d00c043df9305aa8629a)
 * Aaron Greenspan
 * Beth Sebian
-* Adam Jensen
 * Amber Crawford
 * Edgar Duran
 * Pat Wey
