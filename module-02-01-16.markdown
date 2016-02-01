@@ -15,7 +15,7 @@
 * Amber Crawford
 * Edgar Duran
 * Tyler Komoroske - ClojureScript vs JavaScript
-* Brian Rippeto
+* Brian Rippeto - Little Tech - Big Tech: Social impact
 * Charles Ellison - Artificial intelligence: Bridging the gap
 * Allan Blair - [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
 * David Whitaker - Technology in the food system: Tracking where YOUR food comes from
