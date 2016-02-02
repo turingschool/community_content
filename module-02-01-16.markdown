@@ -49,6 +49,8 @@
 ##### Electives and Student-Led Sessions
 
 * Intro to R Programming (and statistics too!) - Beth Secor
+* Justin Pease - Intro to the object model.   
+
 
 ### **Week of 2/22**
 
@@ -71,7 +73,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+* * Justin Pease - Intro to the object model.  
 
 ### **Week of 2/29**
 
@@ -79,7 +81,6 @@
 
 * Penney Garrett
 * Steve Pentler
-* Justin Pease
 * Jhun de Andres
 * Jill Donohue
 * John Slota
@@ -92,7 +93,7 @@
 
 ##### Electives and Student-Led Sessions
 
-* 
+*
 
 ### **Week of 3/7**
 
