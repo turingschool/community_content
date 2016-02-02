@@ -13,7 +13,7 @@
 * Aaron Greenspan
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
 * Amber Crawford - Big Data: How IBM's Watson is Working to Improve local Communities
-* Edgar Duran
+* Edgar Duran - AR- Augmented Reality, seeing things differently.
 * Tyler Komoroske - ClojureScript vs JavaScript
 * Brian Rippeto - Little Tech - Big Tech: Social impact
 * Charles Ellison - Artificial intelligence: Bridging the gap
@@ -25,7 +25,6 @@
 * [How to create and use SVG's - With Robbie and Ross](https://gist.github.com/rossedfort/39eb6e9dc6da99677047)
 * [How to get started with Vim - Adam Jensen](https://gist.github.com/adamki/cb0e52a096ad53be70db)
 * Getting Started With Phoenix - With Torie and Pat
-* [Tips for faster workflow in your text editor and OS (good for Module 1 folks)](https://gist.github.com/MowAlon/1641b1208aba11a15d85) - Alon
 
 ### **Week of 2/8**
 
