@@ -12,7 +12,7 @@
 * Marlo Major - [Write User Stories like a 12 year old](https://gist.github.com/marlomajor/d00c043df9305aa8629a)
 * Aaron Greenspan
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
-* Amber Crawford
+* Amber Crawford - Big Data: How IBM's Watson is Working to Improve local Communities
 * Edgar Duran
 * Tyler Komoroske - ClojureScript vs JavaScript
 * Brian Rippeto - Little Tech - Big Tech: Social impact
