@@ -13,7 +13,7 @@
 * Aaron Greenspan
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
 * Amber Crawford - Big Data: How IBM's Watson is Working to Improve local Communities
-* Edgar Duran
+* Edgar Duran - AR- Augmented Reality, seeing things differently.
 * Tyler Komoroske - ClojureScript vs JavaScript
 * Brian Rippeto - Little Tech - Big Tech: Social impact
 * Charles Ellison - Artificial intelligence: Bridging the gap
