@@ -15,7 +15,7 @@
 * Amber Crawford - Blog Post: [Big Data: How IBM's Watson is Working to Improve Local Communities](IBM Watson is a technology platform that uses natural language processing and machine learning to reveal insights from large amounts of unstructured data)
 * Edgar Duran - AR- Augmented Reality, seeing things differently.
 * Tyler Komoroske - ClojureScript vs JavaScript (https://gist.github.com/tjkomor/23b7e5a366538cfed2d6)
-* Brian Rippeto - Little Tech - Big Tech: Social impact
+* Brian Rippeto - [Community Transformation through Technology and Entrepreneurship](https://gist.github.com/brianrip/82bcb174c19b4f3c8d8c)
 * Charles Ellison - [Artificial intelligence: Bridging the gap](https://gist.github.com/chadellison/d4b5646e4cf21c9bc9db)
 * Allan Blair - [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
 * David Whitaker - [Technology in the food system: Tracking where YOUR food comes from](https://gist.github.com/damwhit/b887b2b04d67520bcd87)
