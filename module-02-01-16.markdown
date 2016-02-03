@@ -14,7 +14,7 @@
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
 * Amber Crawford - Big Data: How IBM's Watson is Working to Improve local Communities
 * Edgar Duran - AR- Augmented Reality, seeing things differently.
-* Tyler Komoroske - ClojureScript vs JavaScript
+* Tyler Komoroske - ClojureScript vs JavaScript (https://gist.github.com/tjkomor/23b7e5a366538cfed2d6)
 * Brian Rippeto - Little Tech - Big Tech: Social impact
 * Charles Ellison - Artificial intelligence: Bridging the gap
 * Allan Blair - [Go nuts for Golang!](https://gist.github.com/e913e60955f6c540e353.git)
