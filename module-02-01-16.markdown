@@ -12,7 +12,7 @@
 * Marlo Major - [Write User Stories like a 12 year old](https://gist.github.com/marlomajor/d00c043df9305aa8629a)
 * Aaron Greenspan
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
-* Amber Crawford - Big Data: How IBM's Watson is Working to Improve local Communities
+* Amber Crawford - Blog Post: [Big Data: How IBM's Watson is Working to Improve Local Communities](IBM Watson is a technology platform that uses natural language processing and machine learning to reveal insights from large amounts of unstructured data)
 * Edgar Duran - AR- Augmented Reality, seeing things differently.
 * Tyler Komoroske - ClojureScript vs JavaScript (https://gist.github.com/tjkomor/23b7e5a366538cfed2d6)
 * Brian Rippeto - Little Tech - Big Tech: Social impact
