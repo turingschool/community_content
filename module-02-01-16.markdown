@@ -26,6 +26,7 @@
 * [How to get started with Vim - Adam Jensen](https://gist.github.com/adamki/cb0e52a096ad53be70db)
 * Getting Started With Phoenix - With Torie and Pat
 * [Tips for faster workflow in your text editor and OS (good for Module 1 folks)](https://gist.github.com/MowAlon/1641b1208aba11a15d85) - Alon
+* How Ruby reads code - with Justin Pease (a precursor to my beginners object model)
 
 ### **Week of 2/8**
 
