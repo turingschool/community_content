@@ -13,7 +13,7 @@
 * Aaron Greenspan
 * Beth Sebian - Muslim Women Using Tech to Promote Change in their Communities
 * Amber Crawford - Blog Post: [Big Data: How IBM's Watson is Working to Improve Local Communities](IBM Watson is a technology platform that uses natural language processing and machine learning to reveal insights from large amounts of unstructured data)
-* Edgar Duran - AR- Augmented Reality, seeing things differently.
+* Edgar Duran - [AR- Augmented Reality, seeing things differently.](https://gist.github.com/edgarduran/17264ed7f8bbf1182093)
 * Tyler Komoroske - ClojureScript vs JavaScript (https://gist.github.com/tjkomor/23b7e5a366538cfed2d6)
 * Brian Rippeto - [Community Transformation through Technology and Entrepreneurship](https://gist.github.com/brianrip/82bcb174c19b4f3c8d8c)
 * Charles Ellison - [Artificial intelligence: Bridging the gap](https://gist.github.com/chadellison/d4b5646e4cf21c9bc9db)
