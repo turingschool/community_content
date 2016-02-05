@@ -34,7 +34,7 @@
 * Greg Armstrong
 * Brenna Martenson
 * Dan Winter
-* Emily Dowdle
+* Emily Dowdle: Intro to DevOps
 * Jason Pilz
 * Jerrod Paul Junker
 * Ryan Johnson
