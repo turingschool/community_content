@@ -41,7 +41,7 @@
 * David Stinnette: How to make the most of a Meetup
 * Sekhar Paladugu
 * Shannon Paige
-* Erinna Chen: Fun with Linear Algebra
+* Erinna Chen: [Fun with Linear Algebra](https://gist.github.com/erinnachen/e5ed57f779cba052c718)
 * Hedy Woo
 * Nicholas Dorans: Alternative Energy Sources
 * July Tran: [Systems Thinking for Fun and for Profit](https://gist.github.com/julyytran/737832cd2e4d611f2cfe)
