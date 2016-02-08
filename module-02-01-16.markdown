@@ -38,7 +38,7 @@
 * Jason Pilz
 * Jerrod Paul Junker
 * Ryan Johnson
-* David Stinnette: How to make the most of a Meetup
+* David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
 * Shannon Paige
 * Erinna Chen: [Fun with Linear Algebra](https://gist.github.com/erinnachen/e5ed57f779cba052c718)
