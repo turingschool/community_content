@@ -31,7 +31,6 @@
 
 ##### Lightning Talks
 
-* Greg Armstrong
 * Brenna Martenson
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
@@ -49,7 +48,8 @@
 ##### Electives and Student-Led Sessions
 
 * Intro to R Programming (and statistics too!) - Beth Secor
-* Justin Pease - Intro to the object model.   
+* Justin Pease - Intro to the object model.
+* Greg Armstrong - Custom audio visualizers with p5.sound
 
 
 ### **Week of 2/22**
