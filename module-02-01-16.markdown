@@ -34,7 +34,6 @@
 * Brenna Martenson: Avoid a Bad Time with BootstrapStudio
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
-* Jerrod Paul Junker
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
 * Shannon Paige
