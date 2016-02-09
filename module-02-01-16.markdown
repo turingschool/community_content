@@ -34,9 +34,7 @@
 * Brenna Martenson
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
-* Jason Pilz
 * Jerrod Paul Junker
-* Ryan Johnson
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
 * Shannon Paige
@@ -50,6 +48,7 @@
 * Intro to R Programming (and statistics too!) - Beth Secor
 * Justin Pease - Intro to the object model.
 * Greg Armstrong - Custom audio visualizers with p5.sound
+* Jason Pilz & Ryan Johnson - DevOps
 
 
 ### **Week of 2/22**
