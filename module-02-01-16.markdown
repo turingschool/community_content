@@ -36,7 +36,7 @@
 * Emily Dowdle: Intro to DevOps
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
-* Shannon Paige
+* Shannon Paige: Enumerable Module - ENUMERATE (beginner talk at Denver.rb)
 * Erinna Chen: [Fun with Linear Algebra](https://gist.github.com/erinnachen/e5ed57f779cba052c718)
 * Hedy Woo [Staying Alive: algorithms in cardiac arrest] (https://gist.github.com/thePaulista/4aee593fa6ce10d3f5db)
 * Nicholas Dorans: Alternative Energy Sources
