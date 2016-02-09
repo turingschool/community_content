@@ -46,7 +46,7 @@
 * Intro to R Programming (and statistics too!) - Beth Secor
 * Justin Pease - Intro to the object model.
 * Greg Armstrong - [Custom audio visualizers with p5.sound](https://gist.github.com/GregoryArmstrong/dcce5bcef58e0f5fa970)
-* Jason Pilz & Ryan Johnson - DevOps
+* Jason Pilz & Ryan Johnson - [DevOps](https://gist.github.com/jasonpilz/2bdc6eb53378703004da) - Note: Anybody interested, please let us know by thursday so we can set up a droplet (Need SSH key for setup)
 * Emily Dowdle - [Introduction to Docker](https://training.docker.com/self-paced-training)
 
 
