@@ -32,7 +32,6 @@
 ##### Lightning Talks
 
 * Brenna Martenson
-* Dan Winter
 * Emily Dowdle: Intro to DevOps
 * Jason Pilz
 * Jerrod Paul Junker
@@ -50,6 +49,7 @@
 * Intro to R Programming (and statistics too!) - Beth Secor
 * Justin Pease - Intro to the object model.
 * Greg Armstrong - Custom audio visualizers with p5.sound
+* Dan Winter - Go Code Colorado (with Aaron Greenspan)
 
 
 ### **Week of 2/22**
