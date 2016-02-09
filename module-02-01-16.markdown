@@ -31,7 +31,7 @@
 
 ##### Lightning Talks
 
-* Brenna Martenson
+* Brenna Martenson: Avoid a Bad Time with BootstrapStudio
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
 * Jason Pilz
