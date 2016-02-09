@@ -33,7 +33,6 @@
 
 * Brenna Martenson: Avoid a Bad Time with BootstrapStudio
 * Dan Winter
-* Emily Dowdle: Intro to DevOps
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
 * Shannon Paige
@@ -48,6 +47,7 @@
 * Justin Pease - Intro to the object model.
 * Greg Armstrong - Custom audio visualizers with p5.sound
 * Jason Pilz & Ryan Johnson - DevOps
+* Emily Dowdle - [Introduction to Docker](https://training.docker.com/self-paced-training)
 
 
 ### **Week of 2/22**
