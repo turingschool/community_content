@@ -31,17 +31,14 @@
 
 ##### Lightning Talks
 
-* Brenna Martenson
+* Brenna Martenson: Avoid a Bad Time with BootstrapStudio
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
-* Jason Pilz
-* Jerrod Paul Junker
-* Ryan Johnson
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu
 * Shannon Paige
 * Erinna Chen: [Fun with Linear Algebra](https://gist.github.com/erinnachen/e5ed57f779cba052c718)
-* Hedy Woo
+* Hedy Woo [Staying Alive: algorithms in cardiac arrest] (https://gist.github.com/thePaulista/4aee593fa6ce10d3f5db)
 * Nicholas Dorans: Alternative Energy Sources
 * July Tran: [Systems Thinking for Fun and for Profit](https://gist.github.com/julyytran/737832cd2e4d611f2cfe)
 
@@ -50,6 +47,7 @@
 * Intro to R Programming (and statistics too!) - Beth Secor
 * Justin Pease - Intro to the object model.
 * Greg Armstrong - Custom audio visualizers with p5.sound
+* Jason Pilz & Ryan Johnson - DevOps
 
 
 ### **Week of 2/22**
