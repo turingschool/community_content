@@ -45,7 +45,7 @@
 
 * Intro to R Programming (and statistics too!) - Beth Secor
 * Justin Pease - Intro to the object model.
-* Greg Armstrong - Custom audio visualizers with p5.sound
+* Greg Armstrong - [Custom audio visualizers with p5.sound](https://gist.github.com/GregoryArmstrong/dcce5bcef58e0f5fa970)
 * Jason Pilz & Ryan Johnson - DevOps
 * Emily Dowdle - [Introduction to Docker](https://training.docker.com/self-paced-training)
 
