@@ -78,7 +78,7 @@
 ##### Lightning Talks
 
 * Penney Garrett
-* Steve Pentler
+* Steve Pentler - Amazon Web Services[WIP]
 * Jhun de Andres
 * Jill Donohue
 * John Slota
