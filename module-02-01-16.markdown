@@ -65,7 +65,7 @@
 * Michael Wong
 * Nicole Hall The Antikythera Mechanism
 * Torie Warren
-* Adam Hundley
+* Adrienne Domingus: Disposal & "recycling" of electronics
 * Heidi Hoopes
 * Julian Feliciano
 
@@ -84,7 +84,7 @@
 * John Slota
 * Alexis Navarrete
 * Admir Draganovic
-* Adrienne Domingus: Disposal & "recycling" of electronics
+* Adam Hundley
 * Kimiko Kano
 * Nick Weiland
 * Scott Firestone
