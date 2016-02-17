@@ -31,7 +31,7 @@
 
 ##### Lightning Talks
 
-* Brenna Martenson: Avoid a Bad Time with BootstrapStudio
+* Brenna Martenson: [Avoid a Bad Time with BootstrapStudio](https://gist.github.com/martensonbj/62a4ea94c933d7e0f840)
 * David Stinnette: [How to make the most of a Meetup](https://gist.github.com/dastinnette/346b7ec668999407153d)
 * Sekhar Paladugu: [Who Really Was Alan Turing?](https://gist.github.com/sekharp/e3c8849b7af206d09316)
 * Shannon Paige: Enumerable Module - ENUMERATE (beginner talk at Denver.rb)
