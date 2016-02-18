@@ -64,7 +64,6 @@
 * Matt Stjernholm
 * Michael Wong
 * Nicole Hall The Antikythera Mechanism
-* Torie Warren
 * Adrienne Domingus: Disposal & "recycling" of electronics
 * Heidi Hoopes
 * Julian Feliciano
