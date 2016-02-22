@@ -58,7 +58,7 @@
 * Brant Wellman - lolcommits gem and git commit messages
 * Hector Huertas Baeza - From Ruby to Elixir
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
-* Jordan Lawler
+* Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
 * Michael Wong - Ethics in Automation
 * Nicole Hall The Antikythera Mechanism
@@ -67,6 +67,7 @@
 
 ##### Electives and Student-Led Sessions
 
+* Jordan Lawler - maxMSP & Jitter, Creating realtime dynamic audio/visual experiences. 
 * Justin Pease - Intro to the object model.  
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
 * * Julian Feliciano - Inro to Node
