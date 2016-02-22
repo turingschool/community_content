@@ -65,7 +65,7 @@
 * Michael Wong - Ethics in Automation
 * Nicole Hall The Antikythera Mechanism
 * Adrienne Domingus: Disposal & "recycling" of electronics
-* Heidi Hoopes
+* Heidi Hoopes - [< /XSS >: A Malicious User in a Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
 
 ##### Electives and Student-Led Sessions
 
