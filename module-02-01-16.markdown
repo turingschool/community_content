@@ -55,7 +55,7 @@
 ##### Lightning Talks
 
 
-* Brant Wellman
+* Brant Wellman - lolcommits gem and git commit messages
 * Hector Huertas Baeza
 * James Crockett
 * Jordan Lawler
