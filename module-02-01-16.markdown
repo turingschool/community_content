@@ -56,7 +56,7 @@
 
 
 * Brant Wellman - lolcommits gem and git commit messages
-* Hector Huertas Baeza
+* Hector Huertas Baeza - From Ruby to Elixir
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler
 * Marlo Major
