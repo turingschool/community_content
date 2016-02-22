@@ -60,8 +60,6 @@
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler
 * Marlo Major
-* Matt Rooney
-* Matt Stjernholm
 * Michael Wong - Ethics in Automation
 * Nicole Hall The Antikythera Mechanism
 * Adrienne Domingus: Disposal & "recycling" of electronics
@@ -72,6 +70,7 @@
 * Justin Pease - Intro to the object model.  
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
 * * Julian Feliciano - Inro to Node
+* Matt Rooney & Matt Stjernhom - Intro to Angular.js
 
 ### **Week of 2/29**
 
