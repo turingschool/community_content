@@ -59,7 +59,7 @@
 * Hector Huertas Baeza - From Ruby to Elixir
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler
-* Marlo Major
+* Marlo Major - How to Read a Book
 * Michael Wong - Ethics in Automation
 * Nicole Hall The Antikythera Mechanism
 * Adrienne Domingus: Disposal & "recycling" of electronics
