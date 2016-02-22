@@ -63,7 +63,7 @@
 * Matt Rooney
 * Matt Stjernholm
 * Michael Wong
-* Nicole Hall The Antikythera Mechanism
+* Nicole Hall [The Antikythera Mechanism](https://gist.github.com/NicoleHall/1a04d1ec7fdd18d48cac)
 * Adrienne Domingus: Disposal & "recycling" of electronics
 * Heidi Hoopes
 
