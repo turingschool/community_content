@@ -82,7 +82,7 @@
 * Jhun de Andres
 * Jill Donohue
 * John Slota
-* Alexis Navarrete
+* Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
 * Adam Hundley
 * Kimiko Kano
