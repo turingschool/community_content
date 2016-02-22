@@ -71,6 +71,7 @@
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
 * * Julian Feliciano - Inro to Node
 * Matt Rooney & Matt Stjernhom - Intro to Angular.js
+* Toni Rib - Rails Application Templates & .railsrc files - never forget your gems and configs again!
 
 ### **Week of 2/29**
 
