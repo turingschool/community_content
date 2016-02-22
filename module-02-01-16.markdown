@@ -57,7 +57,7 @@
 
 * Brant Wellman - lolcommits gem and git commit messages
 * Hector Huertas Baeza
-* James Crockett
+* James Crockett - Big O Notation and Measuring Your Code's Efficiency
 * Jordan Lawler
 * Marlo Major
 * Matt Rooney
