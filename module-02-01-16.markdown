@@ -70,7 +70,7 @@
 * Jordan Lawler - maxMSP & Jitter, Creating realtime dynamic audio/visual experiences. 
 * Justin Pease - Intro to the object model.  
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
-* * Julian Feliciano - Inro to Node
+* Julian Feliciano - Intro to Node.js
 * Matt Rooney & Matt Stjernhom - Intro to Angular.js
 * Toni Rib - Rails Application Templates & .railsrc files - never forget your gems and configs again!
 
