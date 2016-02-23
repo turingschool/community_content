@@ -73,6 +73,7 @@
 * Julian Feliciano - Intro to Node.js
 * Matt Rooney & Matt Stjernhom - Intro to Angular.js
 * Toni Rib - Rails Application Templates & .railsrc files - never forget your gems and configs again!
+* Allan Blair & Erinna Chen - Technical Interview Prep
 
 ### **Week of 2/29**
 
