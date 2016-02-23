@@ -61,7 +61,7 @@
 * Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
 * Michael Wong - Ethics in Automation
-* Nicole Hall The Antikythera Mechanism
+* Nicole Hall [The Antikythera Mechanism](https://gist.github.com/NicoleHall/1a04d1ec7fdd18d48cac)
 * Adrienne Domingus: Disposal & "recycling" of electronics
 * Heidi Hoopes - [< /XSS >: A Malicious User in a Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
 
