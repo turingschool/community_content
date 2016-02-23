@@ -62,7 +62,7 @@
 * Marlo Major - How to Read a Book
 * Michael Wong - Ethics in Automation
 * Nicole Hall The Antikythera Mechanism
-* Adrienne Domingus: Disposal & "recycling" of electronics
+* Adrienne Domingus: [EWaste](https://docs.google.com/presentation/d/1hgGBxZbnP978O7vkPrTAovhzO2H5QG8hiMYx9fyDnYM/edit?usp=sharing)
 * Heidi Hoopes - [< /XSS >: A Malicious User in a Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
 
 ##### Electives and Student-Led Sessions
