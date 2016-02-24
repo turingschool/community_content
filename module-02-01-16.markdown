@@ -56,7 +56,7 @@
 
 
 * Brant Wellman - [lolcommits gem and git commit messages](https://gist.github.com/brantwellman/09ee2e871c3454c77e5a)
-* Hector Huertas Baeza - From Ruby to Elixir
+* Hector Huertas Baeza - [From Rails to Phoenix](https://gist.github.com/hectorhuertas/d156301fe580d1463a32)
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
