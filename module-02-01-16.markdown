@@ -60,7 +60,7 @@
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
-* Michael Wong - Ethics in Automation
+* Michael Wong - [Ethics in Automation](https://gist.github.com/Kealii/2e3126cc297b38fa8e1e)
 * Nicole Hall [The Antikythera Mechanism](https://gist.github.com/NicoleHall/1a04d1ec7fdd18d48cac)
 * Adrienne Domingus: [Disposal & "recycling" of electronics](https://docs.google.com/presentation/d/1hgGBxZbnP978O7vkPrTAovhzO2H5QG8hiMYx9fyDnYM/edit?usp=sharing)
 * Heidi Hoopes - [< /XSS >: A Malicious User in a Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
