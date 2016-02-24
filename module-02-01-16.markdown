@@ -68,7 +68,6 @@
 ##### Electives and Student-Led Sessions
 
 * Jordan Lawler - maxMSP & Jitter, Creating realtime dynamic audio/visual experiences. 
-* Justin Pease - Intro to the object model.  
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
 * Julian Feliciano - [Intro to Node.js](https://github.com/julsfelic/from_ruby_to_node)
 * Matt Rooney & Matt Stjernhom - Intro to Angular.js
