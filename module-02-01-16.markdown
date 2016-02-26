@@ -56,13 +56,13 @@
 
 
 * Brant Wellman - [lolcommits gem and git commit messages](https://gist.github.com/brantwellman/09ee2e871c3454c77e5a)
-* Hector Huertas Baeza - From Ruby to Elixir
+* Hector Huertas Baeza - [From Rails to Phoenix](https://gist.github.com/hectorhuertas/d156301fe580d1463a32)
 * James Crockett - [Big O Notation](https://gist.github.com/jecrockett/55d7f7187739dddcae50)
 * Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
-* Michael Wong - Ethics in Automation
-* Nicole Hall The Antikythera Mechanism
-* Adrienne Domingus: Disposal & "recycling" of electronics
+* Michael Wong - [Ethics in Automation](https://gist.github.com/Kealii/2e3126cc297b38fa8e1e)
+* Nicole Hall [The Antikythera Mechanism](https://gist.github.com/NicoleHall/1a04d1ec7fdd18d48cac)
+* Adrienne Domingus: [Disposal & "recycling" of electronics](https://docs.google.com/presentation/d/1hgGBxZbnP978O7vkPrTAovhzO2H5QG8hiMYx9fyDnYM/edit?usp=sharing)
 * Heidi Hoopes - [< /XSS >: A Malicious User in a Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
 
 ##### Electives and Student-Led Sessions
@@ -70,8 +70,8 @@
 * Jordan Lawler - maxMSP & Jitter, Creating realtime dynamic audio/visual experiences.
 * Justin Pease - Intro to the object model.  
 * Allison Reu Singer - Protocol Blog Writing Follow-Up: Writing Techniques
-* Julian Feliciano - Intro to Node.js
 * Matt Rooney & Matt Stjernhom - [Intro to Angular.js](https://gist.github.com/MattRooney/c68f37a75b2446abda69)
+* Julian Feliciano - [Intro to Node.js](https://github.com/julsfelic/from_ruby_to_node)
 * Toni Rib - Rails Application Templates & .railsrc files - never forget your gems and configs again!
 * Allan Blair & Erinna Chen - Technical Interview Prep
 
@@ -82,7 +82,7 @@
 * Penney Garrett
 * Steve Pentler - Computing in Technicolor
 * Jhun de Andres
-* Jill Donohue - Not Your Average Cover Letters
+* Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota
 * Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
@@ -93,7 +93,7 @@
 
 ##### Electives and Student-Led Sessions
 
-*
+* DevOps continued (Jason & Ryan)
 
 ### **Week of 3/7**
 
