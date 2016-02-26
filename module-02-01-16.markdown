@@ -81,7 +81,7 @@
 * Penney Garrett
 * Steve Pentler - Computing in Technicolor
 * Jhun de Andres
-* Jill Donohue - Not Your Average Cover Letters
+* Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota
 * Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
