@@ -102,7 +102,6 @@
 * Steven Olson
 * Taylor Moore
 * Toni Rib
-* Aaron Careaga
 * Lenny Myerson
 * Chelsea Johnson
 * David Whitaker - [Technology in the food system: Tracking where YOUR food comes from](https://gist.github.com/damwhit/b887b2b04d67520bcd87)
@@ -111,3 +110,4 @@
 ##### Electives and Student-Led Sessions
 
 * Brennan Holtzclaw - Podcasting 102
+* Aaron Careaga - [Cognitive Coding: A Mindful Geek](https://gist.github.com/acareaga/62d026cb821f3c99d369)
