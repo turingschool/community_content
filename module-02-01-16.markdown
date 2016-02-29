@@ -88,7 +88,6 @@
 * Admir Draganovic
 * Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano
-* Nick Weiland
 * Scott Firestone - Fun with MIDI
 
 ##### Electives and Student-Led Sessions
