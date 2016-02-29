@@ -89,7 +89,7 @@
 * Adam Hundley
 * Kimiko Kano
 * Nick Weiland
-* Scott Firestone
+* Scott Firestone - Fun with MIDI
 
 ##### Electives and Student-Led Sessions
 
