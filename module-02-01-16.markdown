@@ -86,7 +86,7 @@
 * John Slota
 * Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
-* Adam Hundley
+* Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano
 * Nick Weiland
 * Scott Firestone - Fun with MIDI
