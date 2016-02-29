@@ -79,7 +79,7 @@
 
 ##### Lightning Talks
 
-* Penney Garrett
+* Penney Garrett - Forgotten Female Programmers: The ENIAC Women
 * Steve Pentler - Computing in Technicolor
 * Jhun de Andres
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
