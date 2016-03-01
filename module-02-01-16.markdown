@@ -93,7 +93,7 @@
 ##### Electives and Student-Led Sessions
 
 * DevOps continued (Jason & Ryan)
-* End-to-End Design Thinking: How might we improve the way junior devs look for and secure job? (Hack Design)
+* [End-to-End Design Thinking: How might we improve the way junior devs look for and secure job?](https://gist.github.com/weilandia/0af59b189ef0da79da7b) (Hack Design)
 
 ### **Week of 3/7**
 
