@@ -87,7 +87,7 @@
 * Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
 * Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
-* Kimiko Kano - Make your own chat app with Firebase
+* Kimiko Kano - [Make your own chat app with Firebase](https://gist.github.com/ksk5280/1672995cee3893b67253)
 * Scott Firestone - Fun with MIDI
 
 ##### Electives and Student-Led Sessions
