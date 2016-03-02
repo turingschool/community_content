@@ -83,7 +83,7 @@
 * Steve Pentler - Computing in Technicolor
 * Jhun de Andres - [Tim Berners Lee and the importance of open source](https://gist.github.com/joshuajhun/3e2fdd4f2dd371571b23) 
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
-* John Slota - The future of transportation
+* John Slota - [The future of transportation](https://gist.github.com/slotaj/a82a8d6dffc9c06408bd)
 * Alexis Navarrete - [Who is Richard Stallman? And Why You Should Care](https://gist.github.com/Salvi6God/8d036bc93fb74c0fd3a0)
 * Admir Draganovic - https://github.com/Draganovic/lightning_talks.git
 * Kimiko Kano - [Make your own chat app with Firebase](https://gist.github.com/ksk5280/1672995cee3893b67253)
