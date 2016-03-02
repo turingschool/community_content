@@ -80,7 +80,7 @@
 ##### Lightning Talks
 
 * Penney Garrett - [Forgotten Female Programmers: The ENIAC Women](https://gist.github.com/PenneyGadget/fa29ab4ac1a140118b22)
-* Steve Pentler - Computing in Technicolor
+* Steve Pentler - [Computing in Technicolor](https://gist.github.com/stevepentler/9014b65840d17568d580)
 * Jhun de Andres - [Tim Berners Lee and the importance of open source](https://gist.github.com/joshuajhun/3e2fdd4f2dd371571b23) 
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota - [The future of transportation](https://gist.github.com/slotaj/a82a8d6dffc9c06408bd)
