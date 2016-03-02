@@ -96,6 +96,7 @@
 * End-to-End Design Thinking: How might we improve the way junior devs look for and secure job? (Hack Design)
 * Intro to GoLang - Allan Blair
 * Hello Machine Learning - Erinna Chen
+* Intro to Git Workflow - David Whitaker
 
 ### **Week of 3/7**
 
