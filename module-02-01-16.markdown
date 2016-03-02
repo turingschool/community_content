@@ -81,12 +81,11 @@
 
 * Penney Garrett - [Forgotten Female Programmers: The ENIAC Women](https://gist.github.com/PenneyGadget/fa29ab4ac1a140118b22)
 * Steve Pentler - Computing in Technicolor
-* Jhun de Andres - [Tim Berners Lee and the importance of open source](https://gist.github.com/joshuajhun/3e2fdd4f2dd371571b23) 
+* Jhun de Andres - [Tim Berners Lee and the importance of open source](https://gist.github.com/joshuajhun/3e2fdd4f2dd371571b23)
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota - The future of transportation
 * Alexis Navarrete - [Who is Richard Stallman? And Why You Should Care](https://gist.github.com/Salvi6God/8d036bc93fb74c0fd3a0)
 * Admir Draganovic
-* Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano - [Make your own chat app with Firebase](https://gist.github.com/ksk5280/1672995cee3893b67253)
 * Scott Firestone - Fun with MIDI
 
@@ -96,6 +95,7 @@
 * End-to-End Design Thinking: How might we improve the way junior devs look for and secure job? (Hack Design)
 * Intro to GoLang - Allan Blair
 * Hello Machine Learning - Erinna Chen
+* Adam Hundley - [The Turing Fight Song](https://gist.github.com/adamhundley/8fec9d26da5bfc25b38d)
 
 ### **Week of 3/7**
 
