@@ -88,7 +88,7 @@
 * Admir Draganovic
 * Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano - Make your own chat app with Firebase
-* Scott Firestone - Fun with MIDI
+* Scott Firestone - [Fun with MIDI](https://gist.github.com/scottfirestone/6ff2226907ee004b0735)
 
 ##### Electives and Student-Led Sessions
 
