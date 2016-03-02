@@ -84,7 +84,7 @@
 * Jhun de Andres - [Tim Berners Lee and the importance of open source](https://gist.github.com/joshuajhun/3e2fdd4f2dd371571b23) 
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota - The future of transportation
-* Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
+* Alexis Navarrete - [Who is Richard Stallman? And Why You Should Care](https://gist.github.com/Salvi6God/8d036bc93fb74c0fd3a0)
 * Admir Draganovic
 * Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano - [Make your own chat app with Firebase](https://gist.github.com/ksk5280/1672995cee3893b67253)
