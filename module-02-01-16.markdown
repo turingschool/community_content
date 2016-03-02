@@ -85,7 +85,7 @@
 * Jill Donohue - [Not Your Average Cover Letters](https://gist.github.com/jillmd501/dc1c50d6cf14b1986596)
 * John Slota - The future of transportation
 * Alexis Navarrete - [Who is Richard Stallman? And Why You Should Care](https://gist.github.com/Salvi6God/8d036bc93fb74c0fd3a0)
-* Admir Draganovic
+* Admir Draganovic - https://github.com/Draganovic/lightning_talks.git
 * Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano - [Make your own chat app with Firebase](https://gist.github.com/ksk5280/1672995cee3893b67253)
 * Scott Firestone - Fun with MIDI
