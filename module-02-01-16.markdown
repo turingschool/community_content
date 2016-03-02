@@ -86,7 +86,6 @@
 * John Slota - The future of transportation
 * Alexis Navarrete - Why you should know who Richard Stallman is if your're a software developer
 * Admir Draganovic
-* Adam Hundley - Musical Creativity on your Computer without Sounding like Skrillex
 * Kimiko Kano - Make your own chat app with Firebase
 * Scott Firestone - Fun with MIDI
 
@@ -94,7 +93,7 @@
 
 * DevOps continued (Jason & Ryan)
 * End-to-End Design Thinking: How might we improve the way junior devs look for and secure job? (Hack Design)
-
+* Adam Hundley - [The Turing Fight Song] (https://gist.github.com/adamhundley/8fec9d26da5bfc25b38d)
 ### **Week of 3/7**
 
 ##### Lightning Talks
