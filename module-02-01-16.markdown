@@ -107,7 +107,7 @@
 * Taylor Moore
 * Toni Rib
 * Lenny Myerson
-* Chelsea Johnson
+* Chelsea Johnson - Introduction to MMORPGs
 * David Whitaker - [Technology in the food system: Tracking where YOUR food comes from](https://gist.github.com/damwhit/b887b2b04d67520bcd87)
 * Nate Venn
 
