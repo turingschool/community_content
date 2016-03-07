@@ -102,7 +102,7 @@
 
 ##### Lightning Talks
 
-* Joseph Perry
+* Joseph Perry [Using Devise and Omniauth For External Authorization](https://gist.github.com/jwperry/dcf64e2c73d503697c95)
 * Steven Olson
 * Taylor Moore
 * Toni Rib
