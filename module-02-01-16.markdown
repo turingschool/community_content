@@ -103,7 +103,7 @@
 ##### Lightning Talks
 
 * Joseph Perry
-* Steven Olson
+* Steven Olson - [Blog: Building an interactive map using jVectorMap](https://gist.github.com/SteveOscar/5dae242ba10eee128dd3)
 * Taylor Moore
 * Toni Rib
 * Lenny Myerson
