@@ -105,7 +105,7 @@
 * Joseph Perry
 * Steven Olson - [Blog: Building an interactive map using jVectorMap](https://gist.github.com/SteveOscar/5dae242ba10eee128dd3)
 * Taylor Moore
-* Toni Rib
+* Toni Rib - Rails ActiveRecord::Concern - How to share scopes between classes
 * Lenny Myerson
 * Chelsea Johnson - Introduction to MMORPGs
 * David Whitaker - [Technology in the food system: Tracking where YOUR food comes from](https://gist.github.com/damwhit/b887b2b04d67520bcd87)
