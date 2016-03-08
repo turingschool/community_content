@@ -105,7 +105,7 @@
 * Joseph Perry - [Using Devise and Omniauth For External Authorization](https://gist.github.com/jwperry/3da5722e38c16d0f1eeb)
 * Steven Olson - [Blog: Building an interactive map using jVectorMap](https://gist.github.com/SteveOscar/5dae242ba10eee128dd3)
 * Taylor Moore - Blog: Hot-Keys. How they improved my performance. 
-* Toni Rib - Rails ActiveRecord::Concern - How to share scopes between classes
+* Toni Rib - [Rails ActiveRecord::Concern - How to share scopes between classes](https://gist.github.com/ToniRib/c6fcd9f0c3689b23b503)
 * Lenny Myerson
 * Chelsea Johnson - Introduction to MMORPGs
 * Nate Venn - Content Centric Networking - restructuring the internet
