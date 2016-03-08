@@ -108,7 +108,7 @@
 * Toni Rib - Rails ActiveRecord::Concern - How to share scopes between classes
 * Lenny Myerson
 * Chelsea Johnson - Introduction to MMORPGs
-* Nate Venn - Content Centric Networking - restructuring the internet
+* Nate Venn - [Content Centric Networking] (https://gist.github.com/natevenn/1f277022e142657150bb)
 
 ##### Electives and Student-Led Sessions
 
