@@ -114,3 +114,4 @@
 
 * Brennan Holtzclaw - Podcasting 102
 * Aaron Careaga - [Cognitive Coding: A Mindful Geek](https://gist.github.com/acareaga/62d026cb821f3c99d369)
+* Justin Pease: Preparation for API Projects in Mod 3
