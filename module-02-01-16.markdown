@@ -102,16 +102,15 @@
 
 ##### Lightning Talks
 
-* Joseph Perry
-* Steven Olson
-* Taylor Moore
-* Toni Rib
-* Lenny Myerson
-* Chelsea Johnson
-* David Whitaker - [Technology in the food system: Tracking where YOUR food comes from](https://gist.github.com/damwhit/b887b2b04d67520bcd87)
-* Nate Venn
+* Joseph Perry - [Using Devise and Omniauth For External Authorization](https://gist.github.com/jwperry/3da5722e38c16d0f1eeb)
+* Steven Olson - [Blog: Building an interactive map using jVectorMap](https://gist.github.com/SteveOscar/5dae242ba10eee128dd3)
+* Taylor Moore - Blog: Hot-Keys. How they improved my performance. 
+* Toni Rib - [Rails ActiveRecord::Concern - How to share scopes between classes](https://gist.github.com/ToniRib/c6fcd9f0c3689b23b503)
+* Chelsea Johnson - Introduction to MMORPGs
+* Nate Venn - [Content Centric Networking] (https://gist.github.com/natevenn/1f277022e142657150bb)
 
 ##### Electives and Student-Led Sessions
 
 * Brennan Holtzclaw - Podcasting 102
 * Aaron Careaga - [Cognitive Coding: A Mindful Geek](https://gist.github.com/acareaga/62d026cb821f3c99d369)
+* Justin Pease: Preparation for API Projects in Mod 3
