@@ -1,15 +1,17 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will give one five-minute lightning talk to their peers. Lightning talk preparation will take approximately 2-4 hours. **In place of a lightning talk, a student may elect to prepare and lead a 1-hour student-led session for Friday's elective block.**
+Each six-week session, all students in modules 2, 3, and 4 will prepare either a lightning talk, blog post, screencast, or student-led elective. Preparation and completion of any of these options will take approximately 2-4 hours. 
+
+Alternatively, students may pitch and lead a Gear-Up session. Check with Rachel and Jeff to get this approved. 
 
 ## Schedule
 
 During intermission week, submit a pull request for that module's markdown file and add your topic. Topic choices will be first-come, first-served. 
 
-During the week of your lighting talk or student-led session, the schedule will be as follows:
+During the week of your community content, the schedule will be as follows:
 
-* **Monday**: Submit your topic to the markdown file  **before 4pm**. 
-* **Tuesday**: Add your outline as a gist **before 4pm**. Please don't make us hunt you down!
+* **Monday**: Submit your content choice and topic to the markdown file **before 4pm**. 
+* **Tuesday**: Add your outline as a gist **before 4pm**.
 * **Wednesday**: Draft slides and/or content for presentation. You do not need to submit anything.
 * **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory for both lightning talkers and students who are leading sessions. 
 * **Friday**: Present your 5-minute talk or student-led session for your Turing peers.  
