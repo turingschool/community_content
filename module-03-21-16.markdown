@@ -19,6 +19,7 @@
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Ashwin Rao - [Developing for Ecommerce Marketing](https://gist.github.com/theonlyrao/a0d0883cc78792200a29)
 
 #### Blog Posts for turing.io/blog
 
