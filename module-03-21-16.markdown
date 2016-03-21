@@ -9,7 +9,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Beth Sebian
 * Steve Pentler
 * Hector Huertas Baeza
-* Brant Wellman
 * Jared Roth
 * Alexis Navarrete
 * Allan Blair
@@ -21,7 +20,8 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ashwin Rao - [Developing for Ecommerce Marketing](https://gist.github.com/theonlyrao/a0d0883cc78792200a29)
-* Adrienne Domingus [The Turing Test: What it means to Humanity and AI](https://docs.google.com/presentation/d/1Ck98OW9WfBpfubSdgC-c6WYx24y52Q1OMrv5jg_Ljdk/edit?usp=sharing)
+* Adrienne Domingus [The Turing Test: What it means to Humanity and AI](https://docs.google.com/presentation/d/1Ck98OW9WfBpfubSdgC-c6WYx24y52Q1OMrv5jg_Ljdk/edit?usp=sharing)  
+* Brant Wellman - Picking a Personal Project and Lessons Learned
 
 #### Blog Posts for turing.io/blog
 
