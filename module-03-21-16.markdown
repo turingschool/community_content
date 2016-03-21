@@ -35,7 +35,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Thomas Pickett - Enumerables for Mod 1 Students
-* * Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
+* Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
 
 ### **Week of 3/28**
 
