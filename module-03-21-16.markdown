@@ -15,13 +15,13 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Allan Blair
 * Alireza Andersen
 * Andrew Thompson
-* Jeneve Parrish
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ashwin Rao - [Developing for Ecommerce Marketing](https://gist.github.com/theonlyrao/a0d0883cc78792200a29)
 * Adrienne Domingus [The Turing Test: What it means to Humanity and AI](https://docs.google.com/presentation/d/1Ck98OW9WfBpfubSdgC-c6WYx24y52Q1OMrv5jg_Ljdk/edit?usp=sharing)
+* Jeneve Parrish - [Improving the form of your writing](https://gist.github.com/jeneve/bd12fe7ec7937fb9564b)
 
 #### Blog Posts for turing.io/blog
 
