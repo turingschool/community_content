@@ -2,6 +2,8 @@
 
 ### **Week of 3/21**
 
+Make sure to **remove** your name once you select a topic and move it under a format. 
+
 * Aaron Greenspan
 * Beth Secor
 * Greg Armstrong
@@ -36,6 +38,8 @@
 
 ### **Week of 3/28**
 
+Make sure to **remove** your name once you select a topic and move it under a format. 
+
 * Cole Hall
 * Dan Winter
 * Steven Olson
@@ -69,6 +73,8 @@
 
 ### **Week of 4/11**
 
+Make sure to **remove** your name once you select a topic and move it under a format. 
+
 * John Slota
 * Jordan Lawler
 * Joseph Perry
@@ -100,6 +106,8 @@
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
 ### **Week of 4/18**
+
+Make sure to **remove** your name once you select a topic and move it under a format. 
 
 * Lenny Myerson
 * Marlo Major
@@ -133,6 +141,8 @@
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
 ### **Week of 4/25**
+
+Make sure to **remove** your name once you select a topic and move it under a format. 
 
 * Nick Weiland
 * Scott Firestone
