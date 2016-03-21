@@ -5,7 +5,6 @@
 Make sure to **remove** your name once you select a topic and move it under a format. 
 
 * Aaron Greenspan
-* Beth Secor
 * Greg Armstrong
 * Beth Sebian
 * Steve Pentler
@@ -27,6 +26,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Beth Secor - Web Accessibility
 
 #### Screencasts for turing.io/blog
 
