@@ -6,7 +6,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Aaron Greenspan
 * Greg Armstrong
-* Beth Sebian
 * Steve Pentler
 * Hector Huertas Baeza
 * Brant Wellman
@@ -22,6 +21,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ashwin Rao - [Developing for Ecommerce Marketing](https://gist.github.com/theonlyrao/a0d0883cc78792200a29)
 * Adrienne Domingus [The Turing Test: What it means to Humanity and AI](https://docs.google.com/presentation/d/1Ck98OW9WfBpfubSdgC-c6WYx24y52Q1OMrv5jg_Ljdk/edit?usp=sharing)
+* Beth Sebian - [Top Ten Civic Tech Projects](https://gist.github.com/bethsebian/8675c199a66aa2a193a1)
 
 #### Blog Posts for turing.io/blog
 
