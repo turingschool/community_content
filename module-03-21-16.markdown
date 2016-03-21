@@ -14,7 +14,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Allan Blair
 * Alireza Andersen
 * Andrew Thompson
-* Jeneve Parrish
 
 #### Lightning Talks
 
