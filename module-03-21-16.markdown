@@ -12,7 +12,6 @@
 * Adam Hundley
 * Alexis Navarrete
 * Allan Blair
-* Adrienne Domingus
 * Alireza Andersen
 * Andrew Thompson
 * Ashwin Rao
@@ -21,6 +20,7 @@
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Adrienne Domingus [The Turing Test: What it means to Humanity and AI](https://docs.google.com/presentation/d/1Ck98OW9WfBpfubSdgC-c6WYx24y52Q1OMrv5jg_Ljdk/edit?usp=sharing)
 
 #### Blog Posts for turing.io/blog
 
