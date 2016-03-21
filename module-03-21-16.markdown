@@ -4,11 +4,9 @@
 
 Make sure to **remove** your name once you select a topic and move it under a format. 
 
-* Aaron Greenspan
 * Greg Armstrong
 * Steve Pentler
 * Hector Huertas Baeza
-* Brant Wellman
 * Jared Roth
 * Alexis Navarrete
 * Allan Blair
@@ -23,6 +21,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Beth Sebian - [Top Ten Civic Tech Projects](https://gist.github.com/bethsebian/8675c199a66aa2a193a1)
 * Jeneve Parrish - [Improving the form of your writing](https://gist.github.com/jeneve/bd12fe7ec7937fb9564b)
 * Brant Wellman - Picking a Personal Project and Lessons Learned
+* Aaron Greenspan - Categorical products.  Should you care? - I'll know by Friday.  Are they awesome? - Yup, Since the dawn of time.
 
 #### Blog Posts for turing.io/blog
 
