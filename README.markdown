@@ -10,8 +10,8 @@ Choose a topic and a format (ie - Animation with Snap.js, lightning talk). Topic
 
 * **Monday**: Submit your topic and format to the markdown file **before 4pm**. 
 * **Tuesday**: Add your outline as a gist **before 4pm**.
-* **Wednesday**: Draft slides and/or content. You do not need to submit anything.
-* **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. 
+* **Wednesday**: Draft slides and/or content. If you are doing a student-led session, send a 2-3 sentence description of your elective to Rachel.
+* **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. If you're doing a student-led session, send out a gist of setup instructions/things to download/links to materials that you'll use during your session. 
 * **Friday**: Present your 5-minute talk or student-led session for your Turing peers OR send your blog post or screen cast to Allison to post on the Turing blog. 
 
 ## Topics & Themes
