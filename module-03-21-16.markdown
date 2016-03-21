@@ -8,7 +8,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Steve Pentler
 * Hector Huertas Baeza
 * Jared Roth
-* Alexis Navarrete
 * Allan Blair
 * Alireza Andersen
 * Andrew Thompson
@@ -27,6 +26,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Beth Secor - Web Accessibility
+* Alexis Navarrete - The College Dropout
 
 #### Screencasts for turing.io/blog
 
