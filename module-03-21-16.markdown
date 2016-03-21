@@ -15,7 +15,6 @@
 * Adrienne Domingus
 * Alireza Andersen
 * Andrew Thompson
-* Ashwin Rao
 * Jeneve Parrish
 
 #### Lightning Talks
