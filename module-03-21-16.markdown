@@ -3,6 +3,8 @@
 ### **Week of 3/21**
 
 * Aaron Greenspan
+* Beth Secor
+* Greg Armstrong
 * Beth Sebian
 * Steve Pentler
 * Hector Huertas Baeza
@@ -37,6 +39,8 @@
 * Cole Hall
 * Dan Winter
 * Steven Olson
+* Brenna Martenson
+* Taylor Moore
 * Edgar Duran
 * David Stinnette
 * Brennan Holtzclaw
@@ -63,43 +67,14 @@
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-### **Week of 4/4**
-
-* Beth Secor
-* Greg Armstrong
-* Brenna Martenson
-* Taylor Moore
-* James Crockett
-* Chelsea Johnson
-* Erinna Chen
-* Heidi Hoopes
-* Jerrod Junker
-* Gurusundesh Khalsa
-* Hedy Woo
-* Jared Roth
-
-#### Lightning Talks
-
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
-#### Blog Posts for turing.io/blog
-
-* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
-
-#### Screencasts for turing.io/blog
-
-* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
-
-#### Student-Led Electives
-
-* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
 ### **Week of 4/11**
 
 * John Slota
 * Jordan Lawler
 * Joseph Perry
 * Justin Pease
+* James Crockett
+* Chelsea Johnson
 * Julian Feliciano
 * July Tran
 * Kimiko Kano
@@ -131,12 +106,15 @@
 * Penney Garrett
 * Toni Rib
 * Shannon Paige
+* Erinna Chen
+* Heidi Hoopes
 * Lenny Myerson
 * Nate Venn
 * Brian Rippeto
 * Kris Foss
 * Ling Tran
 * Marina Corona
+* Jared Roth
 
 #### Lightning Talks
 
@@ -160,6 +138,9 @@
 * Scott Firestone
 * Mark Miranda
 * Matt DesMarteau
+* Jerrod Junker
+* Gurusundesh Khalsa
+* Hedy Woo
 * Matt Pindell
 * Patrick Hardy
 * Sal Espinosa
