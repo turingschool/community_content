@@ -2,7 +2,7 @@
 
 Each six-week session, all students in modules 2, 3, and 4 will prepare either a lightning talk, blog post for turing.io/blog, screencast for turing.io/blog, or student-led elective. Preparation and completion of any of these options will take approximately 2-4 hours. 
 
-Alternatively, students may pitch and lead a Gear-Up session. Check with Jeff to get this approved. 
+Alternatively, students may pitch and lead a Gear-Up session. Check with both Jeff and Allison to get this approved. 
 
 ## Community Content How-To
 
