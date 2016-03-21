@@ -2,9 +2,8 @@
 
 ### **Week of 3/21**
 
-Make sure to **remove** your name once you select a topic and move it under a format. 
+Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Greg Armstrong
 * Steve Pentler
 * Hector Huertas Baeza
 * Jared Roth
@@ -21,6 +20,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Jeneve Parrish - [Improving the form of your writing](https://gist.github.com/jeneve/bd12fe7ec7937fb9564b)
 * Brant Wellman - Picking a Personal Project and Lessons Learned
 * Aaron Greenspan - Categorical products.  Should you care? - I'll know by Friday.  Are they awesome? - Yup, Since the dawn of time.
+* Greg Armstrong - Saving the World one App at a Time: Medical & Education Applications
 
 #### Blog Posts for turing.io/blog
 
@@ -39,7 +39,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 3/28**
 
-Make sure to **remove** your name once you select a topic and move it under a format. 
+Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Cole Hall
 * Dan Winter
@@ -74,7 +74,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 4/11**
 
-Make sure to **remove** your name once you select a topic and move it under a format. 
+Make sure to **remove** your name once you select a topic and move it under a format.
 
 * John Slota
 * Jordan Lawler
@@ -108,7 +108,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 4/18**
 
-Make sure to **remove** your name once you select a topic and move it under a format. 
+Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Lenny Myerson
 * Marlo Major
@@ -143,7 +143,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 4/25**
 
-Make sure to **remove** your name once you select a topic and move it under a format. 
+Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Nick Weiland
 * Scott Firestone
