@@ -1,6 +1,6 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will prepare either a lightning talk, blog post for turing.io/blog, screencast for turing.io/blog, or student-led elective. Preparation and completion of any of these options will take approximately 2-4 hours. 
+Each six-week session, all students in modules 2, 3, and 4 will prepare either a lightning talk, blog post for turing.io/blog, screencast for turing.io/blog, or student-led elective. Preparation and completion of any of these options will take approximately 2-4 hours. If you choose to write a blog, you'll be expected to attend Allison's blog workshop on Friday during electives in order to revise and publish your blog post. 
 
 Alternatively, students may pitch and lead a Gear-Up session. Check with both Jeff and Allison to get this approved. 
 
@@ -12,7 +12,7 @@ Choose a topic and a format (ie - Animation with Snap.js, lightning talk). Topic
 * **Tuesday**: Add your outline as a gist **before 4pm**.
 * **Wednesday**: Draft slides and/or content. If you are doing a student-led session, send a 2-3 sentence description of your elective to Rachel.
 * **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. If you're doing a student-led session, send out a gist of setup instructions/things to download/links to materials that you'll use during your session. 
-* **Friday**: Present your 5-minute talk or student-led session for your Turing peers OR send your blog post or screen cast to Allison to post on the Turing blog. 
+* **Friday**: Present your 5-minute talk or student-led session for your Turing peers OR work on your blog post with Allison during Electives. 
 
 ## Topics & Themes
 
