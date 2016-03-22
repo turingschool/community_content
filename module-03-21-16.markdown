@@ -36,6 +36,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20)
 * Steve Pentler - Materialize CSS for Mod 2/3
 * Allison Singer - Blogging Workshop
+* Scott Firestone - Learn R for Fantasy Baseball Supremacy: Part I
 
 ### **Week of 3/28**
 
@@ -146,7 +147,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Nick Weiland
-* Scott Firestone
 * Mark Miranda
 * Matt DesMarteau
 * Jerrod Junker
