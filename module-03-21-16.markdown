@@ -23,7 +23,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Beth Secor - Web Accessibility
 * Alexis Navarrete - The College Dropout
-* Scott Firestone - Learn R for Fantasy Baseball Supremacy: Part I
 
 #### Screencasts for turing.io/blog
 
@@ -37,6 +36,8 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20)
 * Steve Pentler - Materialize CSS for Mod 2/3
 * Allison Singer - Blogging Workshop
+* Scott Firestone - Learn R for Fantasy Baseball Supremacy: Part I
+
 
 ### **Week of 3/28**
 
