@@ -38,7 +38,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Allison Singer - Blogging Workshop
 * Scott Firestone - Learn R for Fantasy Baseball Supremacy: Part I
 
-
 ### **Week of 3/28**
 
 Make sure to **remove** your name once you select a topic and move it under a format.
