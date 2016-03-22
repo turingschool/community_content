@@ -23,6 +23,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Beth Secor - Web Accessibility
 * Alexis Navarrete - The College Dropout
+* Scott Firestone - Learn R for Fantasy Baseball Supremacy: Part I
 
 #### Screencasts for turing.io/blog
 
@@ -146,7 +147,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Nick Weiland
-* Scott Firestone
 * Mark Miranda
 * Matt DesMarteau
 * Jerrod Junker
