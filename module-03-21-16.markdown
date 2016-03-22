@@ -51,7 +51,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * David Whitaker
 * Nicholas Dorans
 * Charissa Lawrence
-* Christopher Soden
 * Claudia Kiesenhofer
 * Deborah Hamel
 
@@ -70,6 +69,8 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Gurusundesh Khalsa- [A group mind mythical creature creation, mod 1
+                       preferred](https://gist.github.com/GKhalsa/6abbfc7f270258e763a1) 
 
 ### **Week of 4/11**
 
@@ -149,7 +150,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Mark Miranda
 * Matt DesMarteau
 * Jerrod Junker
-* Gurusundesh Khalsa
+* Christopher Soden
 * Hedy Woo
 * Matt Pindell
 * Patrick Hardy
