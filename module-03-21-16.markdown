@@ -48,7 +48,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * David Stinnette
 * Brennan Holtzclaw
 * David Whitaker
-* Nicholas Dorans
 * Charissa Lawrence
 * Claudia Kiesenhofer
 * Deborah Hamel
@@ -56,6 +55,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Nicholas Dorans - Health
 
 #### Blog Posts for turing.io/blog
 
