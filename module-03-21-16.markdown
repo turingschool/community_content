@@ -5,10 +5,8 @@
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Steve Pentler
-* Jared Roth
 * Allan Blair
 * Alireza Andersen
-* Andrew Thompson
 
 #### Lightning Talks
 
@@ -36,6 +34,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Thomas Pickett - Enumerables for Mod 1 Students
 * Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
+* Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20)
 
 ### **Week of 3/28**
 
