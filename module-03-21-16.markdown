@@ -33,7 +33,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Thomas Pickett - Enumerables for Mod 1 Students
 * Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
-* Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20)
+* Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20) Make Mod 1 a little easier: Using Atom, Terminal, and other tools*​ with Andrew Thompson and Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be ​_incredibly_​ useful throughout Turing, but especially at the beginning.
 * Steve Pentler - [Materialize CSS for Mod 2/3](https://gist.github.com/stevepentler/8072fd65431c7cfdbbba) Materialize/CSS: Save hours of your life and hide your gnasty back-end code with Materialize CSS. "People that style are 1.4X more valuable during group projects." - Dennis Rodman
 * Allison Singer - Blogging Workshop
 * Scott Firestone - [Learn R for Fantasy Baseball Supremacy: Part I](https://gist.github.com/scottfirestone/c386d7ea3ef29a9f62a3)
