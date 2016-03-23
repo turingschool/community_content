@@ -34,7 +34,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Thomas Pickett - Enumerables for Mod 1 Students
 * Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
 * Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20)
-* Steve Pentler - [Materialize CSS for Mod 2/3](https://gist.github.com/stevepentler/8072fd65431c7cfdbbba)
+* Steve Pentler - [Materialize CSS for Mod 2/3](https://gist.github.com/stevepentler/8072fd65431c7cfdbbba) Materialize/CSS: Save hours of your life and hide your gnasty back-end code with Materialize CSS. "People that style are 1.4X more valuable during group projects." - Dennis Rodman
 * Allison Singer - Blogging Workshop
 * Scott Firestone - [Learn R for Fantasy Baseball Supremacy: Part I](https://gist.github.com/scottfirestone/c386d7ea3ef29a9f62a3)
 * Allan Blair: Introduction to Go: Compiled, Statically typed and Fun! Description: Interested in learning what the difference is between a statically vs. dynamically typed language? Always wonder what they meant by compiled? Want to check out some cool resources on learning Go? Then check out this week’s Introduction to Go student elective hosted by your very own Gopher!
