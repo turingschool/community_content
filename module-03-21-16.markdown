@@ -21,7 +21,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
-* Beth Secor - Web Accessibility
+* Beth Secor - [Web Accessibility](https://gist.github.com/bethsecor/589e3629c443cccff144)
 * Alexis Navarrete - The College Dropout
 
 #### Screencasts for turing.io/blog
