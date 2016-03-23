@@ -4,7 +4,7 @@
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Alireza Andersen
+
 
 #### Lightning Talks
 
@@ -16,6 +16,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Brant Wellman - [Picking a Personal Project and Lessons Learned](https://gist.github.com/brantwellman/0b0be0f602f9c32eac10)
 * Aaron Greenspan - Categorical products.  Should you care? - I'll know by Friday.  Are they awesome? - Yup, Since the dawn of time.
 * Greg Armstrong - [Saving the World one App at a Time: Medical & Education Applications](https://gist.github.com/GregoryArmstrong/dcf58f0fefa0c82bc12a)
+* Alireza Andersen[New Years Resolution](https://github.com/alirezaandersen/lighting_talks.git)
 
 #### Blog Posts for turing.io/blog
 
