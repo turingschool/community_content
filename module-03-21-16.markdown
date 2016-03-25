@@ -120,7 +120,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Erinna Chen
 * Heidi Hoopes
 * Lenny Myerson
-* Nate Venn
 * Brian Rippeto
 * Kris Foss
 * Ling Tran
@@ -142,6 +141,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Nate Venn & Hedy Woo [Intro to Vim] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
 
 ### **Week of 4/25**
 
@@ -152,7 +152,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Matt DesMarteau
 * Jerrod Junker
 * Christopher Soden
-* Hedy Woo
 * Matt Pindell
 * Patrick Hardy
 * Sal Espinosa
@@ -173,3 +172,4 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Hedy Woo & Nate Venn [Getting Started with Vim Dotfile] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
