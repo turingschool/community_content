@@ -53,12 +53,13 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * David Whitaker
 * Charissa Lawrence
 * Claudia Kiesenhofer
-* Deborah Hamel
+
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Nicholas Dorans - Health
+* Marina Corona - Immigration and Technology
 
 #### Blog Posts for turing.io/blog
 
@@ -124,7 +125,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Brian Rippeto
 * Kris Foss
 * Ling Tran
-* Marina Corona
+* Deb Hammel 
 * Adam Hundley
 
 #### Lightning Talks
