@@ -50,7 +50,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Edgar Duran
 * David Stinnette
 * Brennan Holtzclaw
-* David Whitaker
 * Charissa Lawrence
 * Claudia Kiesenhofer
 
@@ -143,6 +142,8 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Nate Venn & Hedy Woo [Intro to Vim] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
+* David Whitaker [Git Flow](https://github.com/damwhit/git_flow_class)
+
 
 ### **Week of 4/25**
 
