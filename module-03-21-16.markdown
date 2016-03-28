@@ -56,7 +56,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Nicholas Dorans - Health
+* Nicholas Dorans - Status of Global Health in the Modern World
 * Marina Corona - Immigration and Technology
 
 #### Blog Posts for turing.io/blog
