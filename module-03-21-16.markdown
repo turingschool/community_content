@@ -45,7 +45,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Dan Winter
 * Taylor Moore
-* Edgar Duran
 * David Stinnette
 * Charissa Lawrence
 * Claudia Kiesenhofer
@@ -61,6 +60,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Steven Olson - [HTLM Canvas Animations](https://gist.github.com/SteveOscar/33fab7055f5a90f82cf7)
+* Edgar Duran - []()
 
 #### Podcast(in all ways superior to blog posts)
 
