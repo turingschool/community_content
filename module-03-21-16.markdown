@@ -43,7 +43,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Dan Winter
 * Steven Olson
 * Taylor Moore
 * Edgar Duran
@@ -61,6 +60,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Dan Winter - Making the Slack Stache Bot
 
 #### Podcast(in all ways superior to blog posts)
 
