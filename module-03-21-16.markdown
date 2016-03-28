@@ -43,7 +43,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Dan Winter
 * Taylor Moore
 * David Stinnette
 * Charissa Lawrence
@@ -61,6 +60,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Steven Olson - [HTLM Canvas Animations](https://gist.github.com/SteveOscar/33fab7055f5a90f82cf7)
 * Edgar Duran - []()
+* Dan Winter - Making the Slack Stache Bot
 
 #### Podcast(in all ways superior to blog posts)
 
