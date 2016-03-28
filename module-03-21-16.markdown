@@ -45,7 +45,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Dan Winter
 * Steven Olson
-* Brenna Martenson
 * Taylor Moore
 * Edgar Duran
 * David Stinnette
@@ -73,6 +72,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Gurusundesh Khalsa- [A group mind mythical creature creation, mod 1
                        preferred](https://gist.github.com/GKhalsa/6abbfc7f270258e763a1): "Ah yes, you are a wise traveller indeed! come with me on a stroll to the venerable Tristram itself where we will be embraced by the wisdom of Deckard Cain."
+* Brenna Martenson - Document replication with HTML/CSS. In technical challenges you may be asked to replicate a document or image with straight HTML/CSS. In this session we will recreate a simple PNG without the help of any CSS frameworks. 
 
 ### **Week of 4/11**
 
