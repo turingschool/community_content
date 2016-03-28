@@ -48,7 +48,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Taylor Moore
 * Edgar Duran
 * David Stinnette
-* Brennan Holtzclaw
 * Charissa Lawrence
 * Claudia Kiesenhofer
 
@@ -62,6 +61,10 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Podcast(in all ways superior to blog posts)
+
+* Brennan Holtzclaw - [Turing Podcast](https://soundcloud.com/user-760220162)
 
 #### Screencasts for turing.io/blog
 
