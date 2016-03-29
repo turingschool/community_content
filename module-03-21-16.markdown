@@ -96,11 +96,11 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -130,11 +130,11 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -163,11 +163,11 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
