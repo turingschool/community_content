@@ -47,7 +47,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Marina Corona - Immigration and Technology
-* Claudia Kiesenhofer - Working in Groups - The Okanagan Model
+* Claudia Kiesenhofer - Working in Groups - The Okanagan Model [Working in Groups - The Okanagan Model](https://gist.github.com/Claudia108/a12510eaa382b43da7b5f4cad6b4cbb7)
 * Charissa Lawrence - How can Technology Address Mental Health
 
 #### Blog Posts for turing.io/blog
