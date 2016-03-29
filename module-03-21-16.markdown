@@ -45,7 +45,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Taylor Moore
 * David Stinnette
-* Charissa Lawrence
 * Claudia Kiesenhofer
 
 
@@ -54,6 +53,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Nicholas Dorans - Technology for Humanity VS Technology for Profit
 * Marina Corona - Immigration and Technology
+* Charissa Lawrence - How can Technology Address Mental Health
 
 #### Blog Posts for turing.io/blog
 
