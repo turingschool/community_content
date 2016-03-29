@@ -44,7 +44,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Taylor Moore
-* David Stinnette
 * Charissa Lawrence
 
 
@@ -61,6 +60,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Steven Olson - [HTLM Canvas Animations](https://gist.github.com/SteveOscar/33fab7055f5a90f82cf7)
 * Edgar Duran - [Interacting w/ API's gems v no gems](https://gist.github.com/edgarduran/61a3d7a1fa4ebcc00e6c)
 * Dan Winter - Making the Slack Stache Bot
+* David Stinnette - React Tutorial - Not just for the Amish
 
 #### Podcast(in all ways superior to blog posts)
 
