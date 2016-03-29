@@ -55,7 +55,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Steven Olson - [HTLM Canvas Animations](https://gist.github.com/SteveOscar/33fab7055f5a90f82cf7)
 * Edgar Duran - [Interacting w/ API's gems v no gems](https://gist.github.com/edgarduran/61a3d7a1fa4ebcc00e6c)
-* Dan Winter - Making the Slack Stache Bot
+* Dan Winter - [Making the Slack Stache Bot](https://gist.github.com/danjwinter/6beff0cbc456d90df142448ccca0881c)
 * David Stinnette - React Tutorial - Not just for the Amish
 
 #### Podcast(in all ways superior to blog posts)
