@@ -46,7 +46,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Marina Corona - Immigration and Technology
+* Marina Corona - [Immigration and Technology] (https://gist.github.com/marinacor1/ce45ac15236ffc91ab181de4922fd2ad)
 * Claudia Kiesenhofer - Working in Groups - The Okanagan Model
 * Charissa Lawrence - How can Technology Address Mental Health
 
