@@ -49,6 +49,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Marina Corona - [Immigration and Technology] (https://gist.github.com/marinacor1/ce45ac15236ffc91ab181de4922fd2ad)
 * Claudia Kiesenhofer - Working in Groups - The Okanagan Model [Working in Groups - The Okanagan Model](https://gist.github.com/Claudia108/a12510eaa382b43da7b5f4cad6b4cbb7)
 * Charissa Lawrence - How can Technology Address Mental Health
+* Brenna Martenson - [Make Divs Do What You Want](https://gist.github.com/martensonbj/99d398d58da12da24329592b5394f010)*TENTATIVE*
 
 #### Blog Posts for turing.io/blog
 
