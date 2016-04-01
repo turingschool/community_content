@@ -132,7 +132,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Ling Tran - Lessons Learned to Becoming "Comfortable" with Uncertainty
+* Ling Tran - How to Follow in My Footsteps
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
