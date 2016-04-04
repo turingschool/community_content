@@ -126,13 +126,13 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Lenny Myerson
 * Brian Rippeto
 * Kris Foss
-* Ling Tran
 * Deb Hammel 
 * Adam Hundley
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Ling Tran - How to Follow in My Footsteps
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
