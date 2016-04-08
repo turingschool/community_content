@@ -98,6 +98,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Denali Lord - [Yogic Breathing and Nutrition for Success at Turing]()
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
