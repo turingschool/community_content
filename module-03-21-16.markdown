@@ -89,7 +89,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Erinna Chen 
 * Julian Feliciano
 * July Tran
-* Kimiko Kano
 * Jonathan Bernesser
 * Jonathan Liss
 * Joshua Washke
@@ -99,6 +98,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Denali Lord - [Yogic Breathing and Nutrition for Success at Turing]()
+* Kimiko Kano - [The Future of Food](https://gist.github.com/ksk5280/82da928967617214086ddc697e4a0a77)
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
