@@ -90,7 +90,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Julian Feliciano
 * July Tran
 * Kimiko Kano
-* Jonathan Bernesser
 * Jonathan Liss
 * Joshua Washke
 * Kami Boers
@@ -112,6 +111,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Avital Schoenberg - How to use Skillful effectively
+* Jonathan Bernesser - An Intro to Elm 
 
 ### **Week of 4/18**
 
