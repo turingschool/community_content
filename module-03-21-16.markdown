@@ -86,7 +86,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Justin Pease
 * Erinna Chen
 * Joshua Washke
-* Kami Boers
 
 #### Lightning Talks
 
@@ -94,6 +93,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Denali Lord - [Yogic Breathing and Nutrition for Success at Turing]()
 * Kimiko Kano - [The Future of Food](https://gist.github.com/ksk5280/82da928967617214086ddc697e4a0a77)
 * John Slota  - Nokogiri in 5 minutes
+* Kami Boers - A Brief Introduction to Agile Development
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
