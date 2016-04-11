@@ -86,8 +86,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Joseph Perry
 * Justin Pease
 * James Crockett
-* Erinna Chen 
-* Julian Feliciano
+* Erinna Chen
 * July Tran
 * Jonathan Bernesser
 * Jonathan Liss
@@ -103,6 +102,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* * Julian Feliciano - Using VCR to test external services
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
