@@ -83,7 +83,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Jordan Lawler
 * Erinna Chen
-* Kami Boers
 
 #### Lightning Talks
 
