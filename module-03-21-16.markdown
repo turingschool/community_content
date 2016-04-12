@@ -83,7 +83,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Jordan Lawler
 * Joseph Perry
-* Justin Pease
 * Erinna Chen
 * Joshua Washke
 * Kami Boers
@@ -112,6 +111,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Avital Schoenberg - How to use Skillful effectively
 * Jonathan Bernesser - Having Fun With Elm Lang
 * Jonathan Liss - [Having fun or crying with C/C++](https://gist.github.com/jdliss/61deef9f1d6c66af7b72e4f1d5eb44b8)
+* * Justin Pease - [Beginners Object Model](https://gist.github.com/Jpease1020/fc8ced94c7a2a882b44da90b461bdd8d)
 
 ### **Week of 4/18**
 
