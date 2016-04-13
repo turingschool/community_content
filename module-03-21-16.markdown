@@ -102,7 +102,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * * Julian Feliciano - Using VCR to test external services
 * John Slota - Nokogiri in 5 minutes
-* James Crockett - Communication Gaps at Tech Companies: Devs and Support
+* James Crockett - [Communication Gaps at Tech Companies: Devs and Support](https://gist.github.com/jecrockett/4ab2084977c23e32e344ca22e8d57956)
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
