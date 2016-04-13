@@ -110,7 +110,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Avital Schoenberg - How to use Skillful effectively
 * Jonathan Bernesser - [Having Fun With Elm Lang](https://gist.github.com/Jbern16/157ccf3649587cfbc560ecf7a5a372d8)
 * Jonathan Liss - [Having fun or crying with C/C++](https://gist.github.com/jdliss/61deef9f1d6c66af7b72e4f1d5eb44b8)
-* * Justin Pease - [Beginners Object Model](https://gist.github.com/Jpease1020/fc8ced94c7a2a882b44da90b461bdd8d)
+* Justin Pease - [Mod one basic/mid level understandings and an intro to the Object Model](https://gist.github.com/Jpease1020/fc8ced94c7a2a882b44da90b461bdd8d)
 
 #### Gear-up
 * Erinna Chen: [Something serious](https://github.com/erinnachen/gear-up/blob/master/gender_business_and_tech.markdown)
