@@ -91,7 +91,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * John Slota  - [Nokogiri in 5 minutes](https://gist.github.com/slotaj/dddc3bf0cd0b695625821da32fa5b4be)
 * Joshua Washke - DRY up your css with Sass
 * Joe Perry - Using WebSockets in NodeJS
-* Kami Boers - A Brief Introduction to Agile Development
+* Kami Boers - [A Brief Introduction to Agile Development](https://gist.github.com/kamiboers/17c7987dd357935752015d24fb54e692)
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
