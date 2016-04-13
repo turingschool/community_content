@@ -96,7 +96,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
-* * Julian Feliciano - Using VCR to test external services
+* * Julian Feliciano - [Using VCR to test external services](https://gist.github.com/julsfelic/ade8af817487eff78c98182dbe762225)
 * John Slota - Nokogiri in 5 minutes
 * James Crockett - [Communication Gaps at Tech Companies: Devs and Support](https://gist.github.com/jecrockett/4ab2084977c23e32e344ca22e8d57956)
 
