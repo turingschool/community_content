@@ -90,7 +90,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Kimiko Kano - [The Future of Food](https://gist.github.com/ksk5280/82da928967617214086ddc697e4a0a77)
 * John Slota  - [Nokogiri in 5 minutes](https://gist.github.com/slotaj/dddc3bf0cd0b695625821da32fa5b4be)
 * Joshua Washke - DRY up your css with Sass
-* Joe Perry - Using WebSockets in NodeJS
+* Joe Perry - [Intro to WebSockets](https://gist.github.com/jwperry/5ffc1e5aa6a3910d0cc036af862145bc)
 * Kami Boers - A Brief Introduction to Agile Development
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
