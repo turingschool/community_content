@@ -89,7 +89,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Denali Lord - [Yogic Breathing and Nutrition for Success at Turing]()
 * Kimiko Kano - [The Future of Food](https://gist.github.com/ksk5280/82da928967617214086ddc697e4a0a77)
 * John Slota  - [Nokogiri in 5 minutes](https://gist.github.com/slotaj/dddc3bf0cd0b695625821da32fa5b4be)
-* Joshua Washke - DRY up your css with Sass
+* Joshua Washke - [DRY up your css with Sass](https://gist.github.com/jwashke/1c7a77acf96ba5ae387e3bcbb4285f78)
 * Joe Perry - Using WebSockets in NodeJS
 * Kami Boers - A Brief Introduction to Agile Development
 
