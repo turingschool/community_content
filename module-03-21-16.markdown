@@ -131,7 +131,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Brian Rippeto
 * Kris Foss
 * Deb Hammel 
-* Adam Hundley
 
 #### Lightning Talks
 
@@ -157,7 +156,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Nick Weiland
 * Mark Miranda
 * Matt DesMarteau
 * Jerrod Junker
@@ -183,6 +181,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Hedy Woo & Nate Venn [Getting Started with Vim Dotfile] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
+* Adam Hundley & Nick Weiland - Technical Interview prep with a timed code challenge
 
 ### End-of-Module Posse Updates
 
