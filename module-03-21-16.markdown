@@ -151,6 +151,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Nate Venn & Hedy Woo [Intro to Vim] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
 * David Whitaker [Git Flow](https://github.com/damwhit/git_flow_class)
 * Aaron Moore - Building Strong LinkedIn Profiles
+* Adam Hundley & Nick Weiland - Technical Interview prep with a timed code challenge
 
 ### **Week of 4/25**
 
@@ -181,7 +182,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Hedy Woo & Nate Venn [Getting Started with Vim Dotfile] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
-* Adam Hundley & Nick Weiland - Technical Interview prep with a timed code challenge
 
 ### End-of-Module Posse Updates
 
