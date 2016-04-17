@@ -124,7 +124,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Marlo Major
 * Penney Garrett
 * Shannon Paige
-* Chelsea Johnson
 * Heidi Hoopes
 * Brian Rippeto
 * Kris Foss
@@ -134,6 +133,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ling Tran - How to Follow in My Footsteps
+* Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
