@@ -150,6 +150,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * David Whitaker [Git Flow](https://github.com/damwhit/git_flow_class)
 * Aaron Moore - Building Strong LinkedIn Profiles
 * Adam Hundley & Nick Weiland - Technical Interview prep with a timed code challenge
+* Marlo Major - Becoming Kanye: Why You Should Be More Like Mr. West
 
 ### **Week of 4/25**
 
