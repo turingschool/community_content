@@ -126,7 +126,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Shannon Paige
 * Heidi Hoopes
 * Brian Rippeto
-* Kris Foss
 * Deb Hammel 
 
 #### Lightning Talks
@@ -134,6 +133,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ling Tran - How to Follow in My Footsteps
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
+* Kris Foss - [The Elements and Principles of Design](https://gist.github.com/kristindiannefoss/7ebac3e4273aad317b1cd77219147516)
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
