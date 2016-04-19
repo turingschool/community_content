@@ -124,7 +124,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Marlo Major
 * Penney Garrett
 * Shannon Paige
-* Heidi Hoopes
 * Deb Hammel 
 
 #### Lightning Talks
@@ -138,6 +137,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Heidi Hoopes - [9 API Documentations Done Well: Good Principles by Example](https://gist.github.com/hhoopes/7de07374a5a3390122addc5af7f8940d)
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
