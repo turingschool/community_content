@@ -129,7 +129,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Ling Tran - How to Follow in My Footsteps
+* Ling Tran - Seize the vuja de
 * Brian Rippeto - Deep Work
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 * Kris Foss - [The Elements and Principles of Design](https://gist.github.com/kristindiannefoss/7ebac3e4273aad317b1cd77219147516)
