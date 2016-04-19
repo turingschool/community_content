@@ -4,8 +4,6 @@
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-
-
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
@@ -136,6 +134,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Heidi Hoopes - [9 API Documentations Done Well: Good Principles by Example](https://gist.github.com/hhoopes/7de07374a5a3390122addc5af7f8940d)
+* Penney Garret - http://penneygadget.github.io/ last two blogs
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
