@@ -118,7 +118,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Lenny Myerson
 * Shannon Paige
 
 #### Lightning Talks
@@ -129,6 +128,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 * Kris Foss - [The Elements and Principles of Design](https://gist.github.com/kristindiannefoss/7ebac3e4273aad317b1cd77219147516)
 * Deb Hamel - Library as Incubator(value of libraries/equal access learning centers for tech literacy)
+* Lenny Meyerson - Dunning-Kruger and Imposter Syndrome 
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
