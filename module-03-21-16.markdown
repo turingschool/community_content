@@ -126,7 +126,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Brian Rippeto - Deep Work
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 * Kris Foss - [The Elements and Principles of Design](https://gist.github.com/kristindiannefoss/7ebac3e4273aad317b1cd77219147516)
-* Deb Hamel - Library as Incubator(value of libraries/equal access learning centers for tech literacy)
+* Deb Hamel - [Public Library as Incubator for Tech Literacy] (https://gist.github.com/deborahleehamel/965cdc917f73729a3148d2c3a51b8603)
 * Lenny Meyerson - Dunning-Kruger and Imposter Syndrome 
 * Shannon Paige - Cyberpunk fashion and it’s practical application
 
