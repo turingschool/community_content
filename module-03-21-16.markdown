@@ -154,8 +154,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 * Mark Miranda
-* Matt DesMarteau
-* Jerrod Junker
 * Christopher Soden
 * Matt Pindell
 * Patrick Hardy
@@ -169,6 +167,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* July Tran - Posse Update
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
@@ -181,4 +180,3 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### End-of-Module Posse Updates
 
-* July Tran
