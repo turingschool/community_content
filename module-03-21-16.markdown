@@ -156,13 +156,13 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Mark Miranda
 * Christopher Soden
 * Matt Pindell
-* Patrick Hardy
 * Sal Espinosa
 * Thomas Pickett
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Patrick Hardy - Lean Methodology
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
