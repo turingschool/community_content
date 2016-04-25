@@ -153,7 +153,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Mark Miranda
 * Christopher Soden
 * Matt Pindell
 * Patrick Hardy
