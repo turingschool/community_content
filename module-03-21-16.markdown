@@ -31,7 +31,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Thomas Pickett - Enumerables for Mod 1 Students
 * Hector Huertas Baeza [From Ruby to Elixir](https://gist.github.com/hectorhuertas/0593c40c70f26be93171)
-* Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20) Make Mod 1 a little easier: Using Atom, Terminal, and other tools*​ with Andrew Thompson and Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be ​_incredibly_​ useful throughout Turing, but especially at the beginning.
+* Andrew Thompson & Jared Roth - [Make Mod 1 a little easier: Using Atom, Terminal, and other tools](https://gist.github.com/JaredRoth/1e72f28baaf2802e2a20) Make Mod 1 a little easier: Using Atom, Terminal, and other tool with Andrew Thompson and Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be ​_incredibly_​ useful throughout Turing, but especially at the beginning.
 * Steve Pentler - [Materialize CSS for Mod 2/3](https://gist.github.com/stevepentler/8072fd65431c7cfdbbba) Materialize/CSS: Save hours of your life and hide your gnasty back-end code with Materialize CSS. "People that style are 1.4X more valuable during group projects." - Dennis Rodman
 * Allison Singer - Blogging Workshop
 * Scott Firestone - [Learn R for Fantasy Baseball Supremacy: Part I](https://gist.github.com/scottfirestone/c386d7ea3ef29a9f62a3)
@@ -70,7 +70,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Gurusundesh Khalsa- [A group mind mythical creature creation, mod 1
                        preferred](https://gist.github.com/GKhalsa/6abbfc7f270258e763a1): "Ah yes, you are a wise traveller indeed! come with me on a stroll to the venerable Tristram itself where we will be embraced by the wisdom of Deckard Cain."
-* Brenna Martenson - Document replication with HTML/CSS. In technical challenges you may be asked to replicate a document or image with straight HTML/CSS. In this session we will recreate a simple PNG without the help of any CSS frameworks. 
+* Brenna Martenson - Document replication with HTML/CSS. In technical challenges you may be asked to replicate a document or image with straight HTML/CSS. In this session we will recreate a simple PNG without the help of any CSS frameworks.
 * Armstrong Posse - Elixir
 * Nicholas Dorans - [Ruby Refactoring, Testing & Recursion](https://gist.github.com/NickyBobby/468d57102d2f7d391edc547cd452ee2d)
 * Nick W. & Brian - Code Challenge / Tech Interview Prep
@@ -126,7 +126,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 * Kris Foss - [The Elements and Principles of Design](https://gist.github.com/kristindiannefoss/7ebac3e4273aad317b1cd77219147516)
 * Deb Hamel - [Public Library as Incubator for Tech Literacy] (https://gist.github.com/deborahleehamel/965cdc917f73729a3148d2c3a51b8603)
-* Lenny Meyerson - Dunning-Kruger and Imposter Syndrome 
+* Lenny Meyerson - Dunning-Kruger and Imposter Syndrome
 * Shannon Paige - Cyberpunk fashion and it’s practical application
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
@@ -157,7 +157,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Christopher Soden
 * Matt Pindell
 * Patrick Hardy
-* Sal Espinosa
 * Thomas Pickett
 
 #### Lightning Talks
@@ -178,6 +177,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Hedy Woo & Nate Venn [Getting Started with Vim Dotfile] (https://gist.github.com/thePaulista/ae4b09879a1ea8758795)
+* Sal Espinosa - [Just Enough HTML and SASS (to get you through mod 2)](https://gist.github.com/s-espinosa/9c2406709f1887a9897522c3d107ae72)
 
 ### End-of-Module Posse Updates
-
