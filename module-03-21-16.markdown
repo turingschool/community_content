@@ -155,7 +155,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Mark Miranda
 * Christopher Soden
-* Matt Pindell
 * Patrick Hardy
 * Sal Espinosa
 * Thomas Pickett
@@ -173,6 +172,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Screencasts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Matt Pindell - Using Rust code from within Ruby using Foreign Function Interface
 
 #### Student-Led Electives
 
