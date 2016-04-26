@@ -153,13 +153,13 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
-* Christopher Soden
 * Thomas Pickett
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Patrick Hardy - Lean Methodology
+* Christopher Soden - Using Atom's Merge Conflicts package
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
