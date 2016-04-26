@@ -1,0 +1,105 @@
+# Community Content Schedule
+
+### **Week of 5/9**
+
+Make sure to **remove** your name once you select a topic and move it under a format.
+
+#### Lightning Talks
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Posts for turing.io/blog
+
+* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Screencasts for turing.io/blog
+
+* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-Led Electives
+
+* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+
+### **Week of 5/16**
+
+Make sure to **remove** your name once you select a topic and move it under a format.
+
+#### Lightning Talks
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Posts for turing.io/blog
+
+* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Screencasts for turing.io/blog
+
+* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-Led Electives
+
+* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+
+### **Week of 5/30**
+
+Make sure to **remove** your name once you select a topic and move it under a format.
+
+#### Lightning Talks
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Posts for turing.io/blog
+
+* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Screencasts for turing.io/blog
+
+* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-Led Electives
+
+* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+
+### **Week of 6/6**
+
+Make sure to **remove** your name once you select a topic and move it under a format.
+
+#### Lightning Talks
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Posts for turing.io/blog
+
+* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Screencasts for turing.io/blog
+
+* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-Led Electives
+
+* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+
+### **Week of 6/13**
+
+Make sure to **remove** your name once you select a topic and move it under a format.
+
+#### Lightning Talks
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Posts for turing.io/blog
+
+* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Screencasts for turing.io/blog
+
+* Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-Led Electives
+
+* Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
