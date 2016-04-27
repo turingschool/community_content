@@ -171,6 +171,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 * Matt Pindell - Using Rust code from within Ruby using Foreign Function Interface
+* Thom Pickett - [Rails Migrations](https://gist.github.com/thompickett/c26edea685f194f2cfa08080cf64dde5)
 
 #### Student-Led Electives
 
