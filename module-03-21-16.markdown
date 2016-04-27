@@ -158,7 +158,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Patrick Hardy - Lean Methodology
+* Patrick Hardy - [Lean Methodology][ https://gist.github.com/patrickwhardy/fcc292b756a82c6944528d83449845fd]
 * Christopher Soden - Using Atom's Merge Conflicts package
 
 #### Blog Posts for turing.io/blog (*Limit 2*)
