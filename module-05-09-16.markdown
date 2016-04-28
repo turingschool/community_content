@@ -2,17 +2,31 @@
 
 ### **Week of 5/9**
 
+* Nicholas Dorans
+* Adam Hundley
+* Alexis Navarrete
+* Adrienne Domingus
+* Allan Blair
+* Alireza Andersen
+* Andrew Thompson
+* Ashwin Rao
+* Christopher Soden
+* Anna Weisbrodt
+* Brian Sayler
+* Charles Kaminer
+* Christine Gamble
+
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -23,17 +37,31 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 5/16**
 
+* David Whitaker
+* Nick Weiland
+* Brennan Holtzclaw
+* Brian Rippeto
+* Charissa Lawrence
+* Chelsea Johnson
+* Claudia Kiesenhofer
+* Deborah Hamel
+* Gurusundesh Khalsa
+* Hedy Woo
+* Colin Osborn
+* Erin Greenhalgh
+* Ilana Corson
+
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -44,17 +72,30 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 5/30**
 
+* Erinna Chen
+* Heidi Hoopes
+* Julian Feliciano
+* Jared Roth
+* Jeneve Parrish
+* Jonathan Bernesser
+* Jonathan Liss
+* Joshua Washke
+* Jennifer Soden
+* Karina Gonzales
+* Kerry Sheldon
+* Lucy Fox
+
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -65,17 +106,29 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 6/6**
 
+* Scott Firestone
+* July Tran
+* Kimiko Kano
+* Lenny Myerson
+* Nate Venn
+* Mark Miranda
+* Thomas Pickett
+* Matt Pindell
+* Marcella Wigg
+* Nick Pisciotta
+* Parker Phillips
+
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
@@ -86,17 +139,26 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 6/13**
 
+* Kami Boers
+* Kris Foss
+* Ling Tran
+* Marina Corona
+* Patrick Hardy
+* Sal Espinosa
+* Robert Jaeger
+* Ryan Batty
+
 Make sure to **remove** your name once you select a topic and move it under a format.
 
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Blog Posts for turing.io/blog
+#### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Screencasts for turing.io/blog
+#### Screencasts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Screencast Title](http://gist.github.com/username/link-to-my-outline-gist)
 
