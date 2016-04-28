@@ -165,7 +165,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 * July Tran - Posse Update
-* Mark Miranda - Non-relational Databases
+* Mark Miranda - [Non-relational Databases](https://medium.com/@notmarkmiranda/a-students-limited-view-of-non-relational-databases-f07af8ca4891#.gg8pe35eo)
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
