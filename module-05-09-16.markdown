@@ -14,7 +14,6 @@
 * Anna Weisbrodt
 * Brian Sayler
 * Charles Kaminer
-* Christine Gamble
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
@@ -33,7 +32,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
+Christine Gamble & July Tran - Intro to Mapping
 
 ### **Week of 5/16**
 
@@ -107,7 +106,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 ### **Week of 6/6**
 
 * Scott Firestone
-* July Tran
 * Kimiko Kano
 * Lenny Myerson
 * Nate Venn
