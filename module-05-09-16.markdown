@@ -5,7 +5,6 @@
 * Anna Weisbrodt
 * Brian Sayler
 * Charles Kaminer
-* Christine Gamble
 * Colin Osborn
 * Erin Greenhalgh
 * Jennifer Soden
@@ -24,6 +23,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Christine Gamble & July Tran - Intro to Mapping
 
 ### **Week of 6/6**
 
