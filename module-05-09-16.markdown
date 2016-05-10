@@ -5,7 +5,6 @@
 * Anna Weisbrodt
 * Brian Sayler
 * Charles Kaminer
-* Christine Gamble
 * Colin Osborn
 * Erin Greenhalgh
 * Ilana Corson
