@@ -8,7 +8,6 @@
 * Christine Gamble
 * Colin Osborn
 * Erin Greenhalgh
-* Ilana Corson
 * Jennifer Soden
 
 Make sure to **remove** your name once you select a topic and move it under a format.
@@ -20,6 +19,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Ilana Corson 
 
 #### Student-Led Electives
 
@@ -50,4 +50,3 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
