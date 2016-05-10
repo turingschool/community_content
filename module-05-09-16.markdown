@@ -3,7 +3,6 @@
 ### **Week of 5/9**
 
 * Nicholas Dorans
-* Adam Hundley
 * Alexis Navarrete
 * Adrienne Domingus
 * Allan Blair
@@ -21,6 +20,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Adam Hundley - [The Turing Fight Song](https://vimeo.com/158586392)
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
