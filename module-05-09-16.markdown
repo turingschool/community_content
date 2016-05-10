@@ -2,7 +2,6 @@
 
 ### **Week of 5/9**
 
-* Anna Weisbrodt
 * Brian Sayler
 * Charles Kaminer
 * Colin Osborn
@@ -14,6 +13,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Anna Weisbrodt - Apple v. FBI 
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
