@@ -13,7 +13,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
-* Ilana Corson 
+* Ilana Corson - [Why We Repeat?](https://gist.github.com/icorson3/1c1a3cdeb2c52236975a372f2cc4e610)
 
 #### Student-Led Electives
 
