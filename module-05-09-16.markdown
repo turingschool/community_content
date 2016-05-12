@@ -7,8 +7,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Anna Weisbrodt - [Apple v. FBI](https://github.com/AnnaCW/lightning_talk_mod2_apple_v_FBI/blob/master/outline.md)
-* Colin Osborn - How Formula 1 technology is creating cleaner cars for the public
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
@@ -39,6 +37,8 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Anna Weisbrodt - [Apple v. FBI](https://github.com/AnnaCW/lightning_talk_mod2_apple_v_FBI/blob/master/outline.md)
+* Colin Osborn - How Formula 1 technology is creating cleaner cars for the public
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
