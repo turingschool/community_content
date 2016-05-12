@@ -18,7 +18,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Christine Gamble & July Tran - Intro to Mapping
+* Christine Gamble & July Tran - [Mapping for Developers](https://gist.github.com/ccgamble/ac424a791ab312524881265bca3a8eca)
 * Erin Greenhalgh and Jennifer Soden - [How, why and when to use Pry](https://gist.github.com/MsJennyGiraffe/00cf837da59df4479d513287cf3b3d45)
 * Brian Sayler & Charles Kaminer - Intro to 3D printing
 
