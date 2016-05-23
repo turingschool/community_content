@@ -45,3 +45,4 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Student-Led Electives
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Patrick W - Command Line Hot Keys
