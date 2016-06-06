@@ -27,7 +27,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Lucy Fox
 * Marcella Wigg
 * Matt DesMarteau
-* Nick Pisciotta
 * Parker Phillips
 * Robert Jaeger
 * Ryan Batty
@@ -37,12 +36,12 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
+*  Nick Pisciotta - [Using DNA to Store Data]
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Student-Led Electives - *one student leader per session* 
+#### Student-Led Electives - *one student leader per session*
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Patrick W - Command Line Hot Keys
