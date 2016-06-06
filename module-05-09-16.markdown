@@ -25,7 +25,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Karina Gonzalez
 * Kerry Sheldon
 * Lucy Fox
-* Marcella Wigg
 * Matt DesMarteau
 * Parker Phillips
 * Robert Jaeger
@@ -36,7 +35,9 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-*  Nick Pisciotta - [Using DNA to Store Data]
+* Nick Pisciotta - [Using DNA to Store Data]
+* Marcella Wigg - [Backpacking Technologies and Their Implications](https://gist.github.com/marcellawigg/81cae1e457402b8be4fcaec5891f91f8) 
+
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
