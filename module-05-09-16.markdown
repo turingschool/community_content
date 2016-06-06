@@ -42,7 +42,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
 
-#### Student-Led Electives
+#### Student-Led Electives - *ONE STUDENT LEADER PER SESSION* 
 
 * Student Name - [Elective Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Patrick W - Command Line Hot Keys
