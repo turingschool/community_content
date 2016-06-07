@@ -30,7 +30,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Nick Pisciotta - [Using DNA to Store Data]
+* Nick Pisciotta - [Using DNA to Store Data](https://gist.github.com/nickpisciotta/8d7791d4e5c06bd59bc0cdee7f8b6104)
 * Marcella Wigg - [Backpacking Technologies and Their Implications](https://gist.github.com/marcellawigg/81cae1e457402b8be4fcaec5891f91f8)
 * Ryan Batty - [The Importance of Understanding and Implementing Security in Your Applications](https://gist.github.com/Riizu/c060dacdb8d7f9895fa3dc83ea793ed3)
 * Kerry Sheldon - [10,000 Hours Isn't Enough](https://gist.github.com/kjs222/97355f58a28ed5c65bcc8001cfcbab26)
