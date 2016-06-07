@@ -22,7 +22,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 ### **Week of 6/6**
 
-* Lucy Fox
+
 * Parker Phillips
 
 Make sure to **remove** your name once you select a topic and move it under a format.
@@ -39,7 +39,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
-* Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Student Name - Lucy Fox [Hands off the mouse](https://gist.github.com/lucyfox4131/f9914e9eb212c0b853c89a0c51ca4a6d)
 
 #### Student-Led Electives - *one student leader per session*
 
