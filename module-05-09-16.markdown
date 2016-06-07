@@ -23,12 +23,9 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 ### **Week of 6/6**
 
 * Karina Gonzalez
-* Kerry Sheldon
 * Lucy Fox
-* Matt DesMarteau
 * Parker Phillips
 * Robert Jaeger
-* Ryan Batty
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
@@ -38,6 +35,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Nick Pisciotta - [Using DNA to Store Data]
 * Marcella Wigg - [Backpacking Technologies and Their Implications](https://gist.github.com/marcellawigg/81cae1e457402b8be4fcaec5891f91f8) 
 * Ryan Batty - [The Importance of Understanding and Implementing Security in Your Applications](https://gist.github.com/Riizu/c060dacdb8d7f9895fa3dc83ea793ed3)
+* Kerry Sheldon - [10,000 Hours Isn't Enough](https://gist.github.com/kjs222/97355f58a28ed5c65bcc8001cfcbab26)
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
