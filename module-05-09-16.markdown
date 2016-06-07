@@ -37,6 +37,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Nick Pisciotta - [Using DNA to Store Data]
 * Marcella Wigg - [Backpacking Technologies and Their Implications](https://gist.github.com/marcellawigg/81cae1e457402b8be4fcaec5891f91f8) 
+* Ryan Batty - [The Importance of Understanding and Implementing Security in Your Applications](https://gist.github.com/Riizu/c060dacdb8d7f9895fa3dc83ea793ed3)
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
