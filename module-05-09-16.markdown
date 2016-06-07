@@ -36,7 +36,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Lightning Talks
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-*  Nick Pisciotta - [Using DNA to Store Data]
+*  Nick Pisciotta - [Using DNA to Store Data](https://gist.github.com/nickpisciotta/8d7791d4e5c06bd59bc0cdee7f8b6104)
 #### Blog Posts for turing.io/blog - *LIMIT 2*
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
