@@ -47,3 +47,4 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Patrick W - Command Line Hot Keys
 * David Whitaker - Git Flow
 * Ashwin & Ling (and Horace?) - Intro to Clojure
+* Nicholas Dorans - [Intro to JavaScript and React](https://gist.github.com/NickyBobby/2e6b2a8e206925928fa1308b00c44f97)
