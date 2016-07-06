@@ -1,19 +1,19 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will prepare a lightning talk. Module 2 students will choose a topic from below. Module 3 and 4 students will prepare a talk about their job shadowing experience. Preparation and completion of any of these options will take approximately 2-4 hours.
+Each six-week session, all students in module 2 will prepare a lightning talk based on the topics below. All students in modules 3 and 4 will work in groups to prepare a lightning talk about their job shadowing experience. Preparation and completion of any of these options will take approximately 2-4 hours.
 
 ## Schedule
 
-* Module 2 students - Friday, Week 3 at 1:15 PM
-* Module 3 and 4 students - Friday, Week 4 at 1:15 PM
+* Module 2 students - Friday, July 15 (Week 3) at 1:15 PM
+* Module 3 and 4 students - Friday, July 22 (Week 4) at 1:15 PM
 
 ## Community Content How-To
 
 Choose a topic (ie - Animation with Snap.js). Topics cannot be repeated during the module and are first come, first serve. During the week of your lightning talk, the schedule is as follows: 
 
-* **Monday**: Submit your topic and format to the markdown file **before 4pm**. 
+* **Monday**: Submit your topic to the [markdown file](module-06-26-16.markdown) **before 4pm**. 
 * **Tuesday**: Add your outline as a gist **before 4pm**.
-* **Wednesday**: Draft slides and/or content. If you'd like feedback, send your draft to Casey.
+* **Wednesday**: Draft slides and/or content. If you'd like feedback, send your draft to Casey or Beth.
 * **Thursday**: Rehearsal after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. 
 * **Friday**: Present your 5-minute talk or student-led session for your Turing peers.
 
