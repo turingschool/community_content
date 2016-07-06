@@ -1,26 +1,27 @@
 ## Overview
 
-Each six-week session, all students in modules 2, 3, and 4 will prepare either a lightning talk, blog post for turing.io/blog, screencast for turing.io/blog, or student-led elective. Preparation and completion of any of these options will take approximately 2-4 hours. If you choose to write a blog, you'll be expected to attend Allison's blog workshop on Friday during electives in order to revise and publish your blog post. 
+Each six-week session, all students in modules 2, 3, and 4 will prepare a lightning talk. Module 2 students will choose a topic from below. Module 3 and 4 students will prepare a talk about their job shadowing experience. Preparation and completion of any of these options will take approximately 2-4 hours.
 
-Alternatively, students may pitch and lead a Gear-Up session. Check with both Jeff and Allison to get this approved. 
+## Schedule
+
+* Module 2 students - Friday, Week 3 at 1:15 PM
+* Module 3 and 4 students - Friday, Week 4 at 1:15 PM
 
 ## Community Content How-To
 
-Choose a topic and a format (ie - Animation with Snap.js, lightning talk). Topics cannot be repeated during the module and are first come, first serve. During the week you are assigned to community content, the schedule is as follows: 
+Choose a topic (ie - Animation with Snap.js). Topics cannot be repeated during the module and are first come, first serve. During the week of your lightning talk, the schedule is as follows: 
 
 * **Monday**: Submit your topic and format to the markdown file **before 4pm**. 
 * **Tuesday**: Add your outline as a gist **before 4pm**.
-* **Wednesday**: Draft slides and/or content. If you are doing a student-led session, send a 2-3 sentence description of your elective to Rachel.
-* **Thursday**: Rehearsal in Classroom C after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. If you're doing a student-led session, send out a gist of setup instructions/things to download/links to materials that you'll use during your session. 
-* **Friday**: Present your 5-minute talk or student-led session for your Turing peers OR work on your blog post with Allison during Electives. 
+* **Wednesday**: Draft slides and/or content. If you'd like feedback, send your draft to Casey.
+* **Thursday**: Rehearsal after wrap up. Your slides and/or content should be prepared in advance as laptops will be closed during rehearsal. Attendance is mandatory. 
+* **Friday**: Present your 5-minute talk or student-led session for your Turing peers.
 
 ## Topics & Themes
 
 All topics must be approved 
 
-**Module 2 students**: It is preferred that your topic fit into one of the themes below. That said, feel free to pitch a topic related to your experience prior to Turing. Keep in mind that the topic should be of interest to a school of software developers and that the topic must be approved before moving forward. 
-
-**Module 3 and 4 students**: Your topic should fit into one of the themes below:
+**Module 2 students**: It is preferred that your topic fit into one of the themes below. That said, feel free to pitch a topic related to your experience prior to Turing. Keep in mind that the topic should be of interest to a school of software developers and that the topic must be approved before moving forward.
 
 * Computer Hardware
 * Computer Science
@@ -40,6 +41,8 @@ All topics must be approved
 * Technology & Society
 * Technology & Ethics
 * Web Technologies
+
+**Module 3 and 4 students**: Your topic will be your job shadowing experience.
 
 When considering the content of your presentation, take care to promote a welcoming environment for all students regardless of their age, gender, socio-economic background, religious beliefs, or sexual orientation. 
 
