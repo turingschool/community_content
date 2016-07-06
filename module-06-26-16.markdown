@@ -1,0 +1,13 @@
+# Community Content Schedule
+
+### **Week of 7/10**
+
+#### Lightning Talks - Module 2 Students
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+### **Week of 7/17**
+
+#### Lightning Talks - Module 3 and 4 Students
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
