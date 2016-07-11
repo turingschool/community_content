@@ -5,10 +5,12 @@
 #### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Angela Lindow - Human Trafficking & Tech
 
 #### Student-Led Sessions (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Angela Lindow (w/Lucy Fox) - Hopper Led Student Support Session
 
 #### Blog Post (M2 students)
 
