@@ -5,6 +5,7 @@
 #### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Jason Hanna - The Ethics of Implant Technology
 
 #### Student-Led Sessions (M2 students)
 
