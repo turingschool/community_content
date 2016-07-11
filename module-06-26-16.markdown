@@ -4,6 +4,7 @@
 
 #### Lightning Talks (M2 students)
 
+* Ryan Flach - Discover Weekly: Neural Networks in Music Curation
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
 #### Student-Led Sessions (M2 students)
