@@ -2,12 +2,21 @@
 
 ### **Week of 7/10**
 
-#### Lightning Talks - Module 2 Students
+#### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Student-led Sessions (M2 students)
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+#### Blog Post (M2 students)
+
+* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
 
 ### **Week of 7/17**
 
 #### Lightning Talks - Module 3 and 4 Students
 
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* *Presenter*, Student 1, Student 2, Student 3 - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
