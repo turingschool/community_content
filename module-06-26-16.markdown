@@ -4,6 +4,7 @@
 
 #### Lightning Talks (M2 students)
 
+* Ryan Flach - Discover Weekly: Neural Networks in Music Curation
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
 
