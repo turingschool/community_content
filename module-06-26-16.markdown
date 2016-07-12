@@ -5,7 +5,7 @@
 #### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Chris Concannon - Algorithm Performance and Big O Notation
+* Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
 
 #### Student-Led Sessions (M2 students)
 
