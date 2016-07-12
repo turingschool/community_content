@@ -5,6 +5,8 @@
 #### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* DJ Greenfield - [What is an API?](https://gist.github.com/AllPurposeName/71b0fefbbca41c475302fad499d470f7)
+* DJ Greenfield - [Trollin' Ain't Easy](https://gist.github.com/AllPurposeName/262a51887c71b3edef205b80216e57c9)
 
 #### Student-Led Sessions (M2 students)
 
@@ -20,3 +22,5 @@
 #### Lightning Talks - Module 3 and 4 Students
 
 * **Presenter**, Student 1, Student 2, Student 3 - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+
+
