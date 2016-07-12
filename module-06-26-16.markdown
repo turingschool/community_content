@@ -3,7 +3,7 @@
 ### **Week of 7/10**
 
 #### Lightning Talks (M2 students)
-
+* Tommasina - [Technology & Society: Are You Living In a Computer Simulation?]
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
 #### Student-Led Sessions (M2 students)
