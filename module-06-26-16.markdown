@@ -4,8 +4,8 @@
 
 #### Lightning Talks (M2 students)
 
-* Ryan Flach - Discover Weekly: Neural Networks in Music Curation
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Ryan Flach - Discover Weekly: Neural Networks in Music Curation
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
 
 #### Student-Led Sessions (M2 students)
@@ -16,6 +16,7 @@
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * David Tinianow - Mindfulness and Programming
+* Caleb Cowen - Pay it forward-Pairing (http://gist.github.com/username/link-to-my-outline-gist)
 
 
 ### **Week of 7/17**
