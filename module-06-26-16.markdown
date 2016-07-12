@@ -1,22 +1,7 @@
-# Community Content Schedule
 
-### **Week of 7/10**
-
-#### Lightning Talks (M2 students)
-
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-
-#### Student-Led Sessions (M2 students)
-
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 
 #### Blog Post (M2 students)
 
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Trent Whitinger - [VR](https://gist.github.com/twhitinger/736a6ca83448bdc0200b22684eff9efa)
 
 
-### **Week of 7/17**
-
-#### Lightning Talks - Module 3 and 4 Students
-
-* **Presenter**, Student 1, Student 2, Student 3 - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
