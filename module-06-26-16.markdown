@@ -5,19 +5,31 @@
 #### Lightning Talks (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Ryan Flach - Discover Weekly: Neural Networks in Music Curation
+* Ryan Flach - [Discover Weekly: Machine Learning in Music Curation](https://gist.github.com/ryanflach/0baff2307228e878102bd8897561d777)
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
 * Nicole Marino - [Web Applications Implemeneting Machine Learning](http://gist.github.com/username/link-to-my-outline-gist)
+* Jason Hanna - The Ethics of Implant Technology
+* Angela Lindow - Human Trafficking & Tech
+* Sonia Gupta - [Electronic Discovery Overview](https://gist.github.com/tgisg/856fbb7215fd2ea701517b9fe46219f7)
+* Zack Forbing - [Technology & Ethics: Privacy -  or, How Pokemon Go Could Potentially Tell All Your Friends Just How Weird You Really Are](http://gist.github.com/username/link-to-my-outline-gist)
+* Tommasina - [Technology & Society: Are You Living In a Computer Simulation?]()
+* Matt Campbell
 
 #### Student-Led Sessions (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Pat Wentz
 
 #### Blog Post (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * David Tinianow - Mindfulness and Programming
 * Caleb Cowen - Pay it forward-Pairing (http://gist.github.com/username/link-to-my-outline-gist)
+* Kris Sparks - [Programming & the Arts](http://gist.github.com/username/link-to-my-outline-gist)
+* Matt Packer - Design / User Experience - App Prototyping for Entrepreneurs
+* Garrett Smestad - [Technology's Influence on the Accounting World](http://gist.github.com/username/link-to-my-outline-gist)
+* Trent Whitinger - [VR](https://gist.github.com/twhitinger/736a6ca83448bdc0200b22684eff9efa)
+* Lane Winham - [Using the Kanban board cycle in your everyday life.](https://gist.github.com/Laner12/32f7c16faf392901d5db1977ece5b7a9)
 
 
 ### **Week of 7/17**
