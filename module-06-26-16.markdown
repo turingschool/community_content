@@ -4,7 +4,7 @@
 
 #### Lightning Talks (M2 students)
 
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Sonia Gupta - [Electronic Discovery Overview](https://gist.github.com/tgisg/856fbb7215fd2ea701517b9fe46219f7)
 
 #### Student-Led Sessions (M2 students)
 
