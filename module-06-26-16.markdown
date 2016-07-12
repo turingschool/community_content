@@ -3,7 +3,7 @@
 ### **Week of 7/10**
 
 #### Lightning Talks (M2 students)
-
+* Tommasina - [Technology & Society: Are You Living In a Computer Simulation?]
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * Ryan Flach - [Discover Weekly: Machine Learning in Music Curation](https://gist.github.com/ryanflach/0baff2307228e878102bd8897561d777)
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
