@@ -14,6 +14,7 @@
 #### Blog Post (M2 students)
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* David Tinianow - Mindfulness and Programming
 
 
 ### **Week of 7/17**
