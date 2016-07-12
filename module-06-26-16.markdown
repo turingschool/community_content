@@ -4,7 +4,7 @@
 
 #### Lightning Talks (M2 students)
 
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* Ryan Flach - [Discover Weekly: Machine Learning in Music Curation](https://gist.github.com/ryanflach/0baff2307228e878102bd8897561d777)
 
 #### Student-Led Sessions (M2 students)
 
