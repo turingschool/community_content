@@ -9,7 +9,7 @@
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
 * Nicole Marino - [Web Applications Implemeneting Machine Learning](http://gist.github.com/username/link-to-my-outline-gist)
 * Jason Hanna - The Ethics of Implant Technology
-* Angela Lindow - Human Trafficking & Tech
+* Angela Lindow - [Human Trafficking & Tech](https://gist.github.com/allindow/e47f8efe7f40b40c745b32a7b5ce71d3)
 * Sonia Gupta - [Electronic Discovery Overview](https://gist.github.com/tgisg/856fbb7215fd2ea701517b9fe46219f7)
 * Zack Forbing - [Technology & Ethics: Privacy -  or, How Pokemon Go Could Potentially Tell All Your Friends Just How Weird You Really Are](http://gist.github.com/username/link-to-my-outline-gist)
 * Tommasina - [Technology & Society: Are You Living In a Computer Simulation?]()
