@@ -6,20 +6,15 @@
 
 * Ryan Flach - [Discover Weekly: Machine Learning in Music Curation](https://gist.github.com/ryanflach/0baff2307228e878102bd8897561d777)
 * Chris Concannon - [Algorithm Performance and Big O Notation](https://gist.github.com/concach/b73c0672bff3bf4a246ea6513882ed60)
-* Nicole Marino - [Web Applications Implemeneting Machine Learning](http://gist.github.com/username/link-to-my-outline-gist)
-* Jason Hanna - The Ethics of Implant Technology
+* Nicole Marino - [Web Applications Implemeneting Machine Learning](https://gist.github.com/NicoleKMarino/d976bb663a2626b95e90c345df9e85c3)
+* Jason Hanna - [Seeking the Singularity: The Ethics of Implant Technology](https://gist.github.com/Automatic365/b450abc97108f4799446ac46b84f4437)
 * Angela Lindow - [Human Trafficking & Tech](https://gist.github.com/allindow/e47f8efe7f40b40c745b32a7b5ce71d3)
 * Sonia Gupta - [Electronic Discovery Overview](https://gist.github.com/tgisg/856fbb7215fd2ea701517b9fe46219f7)
 * Zack Forbing - [Technology & Ethics: Privacy -  or, How Pokemon Go Could Potentially Tell All Your Friends Just How Weird You Really Are](http://gist.github.com/username/link-to-my-outline-gist)
 * Tommasina - [Technology & Society: Are You Living In a Computer Simulation?]()
-* Matt Campbell
+* Matt Campbell - [How Technology is Affecting the Presidential Election](https://gist.github.com/matthewecampbell/5d6ed2105492b635ac6638887fed0e8b)
 * DJ Greenfield - [What is an API?](https://gist.github.com/AllPurposeName/71b0fefbbca41c475302fad499d470f7)
 * DJ Greenfield - [Trollin' Ain't Easy - TBD](https://gist.github.com/AllPurposeName/262a51887c71b3edef205b80216e57c9)
-
-#### Student-Led Sessions (M2 students)
-
-* Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
-* Pat Wentz
 
 #### Blog Post (M2 students)
 
@@ -36,5 +31,8 @@
 ### **Week of 7/17**
 
 #### Lightning Talks - Module 3 and 4 Students
+
+#### Student-Led Sessions (M2 students)
+* Pat Wentz and Kris Sparks - Pry and Other Debugging Techniques
 
 * **Presenter**, Student 1, Student 2, Student 3 - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
