@@ -21,7 +21,7 @@
 
 * Student Name - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
 * David Tinianow - Mindfulness and Programming
-* Caleb Cowen - [Pay it forward-Pairing](http://gist.github.com/username/link-to-my-outline-gist)
+* Caleb Cowen - [Pay it forward-Pairing](https://caleb9193.github.io/2016/07/15/pay-it-forward.html)
 * Kris Sparks - [Programming & the Arts](http://gist.github.com/username/link-to-my-outline-gist)
 * Matt Packer - Design / User Experience - App Prototyping for Entrepreneurs
 * Garrett Smestad - [Technology's Influence on the Accounting World](http://gist.github.com/username/link-to-my-outline-gist)
