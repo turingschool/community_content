@@ -37,3 +37,4 @@
 * Pat Wentz and Kris Sparks - Pry and Other Debugging Techniques
 
 * **Presenter**, Student 1, Student 2, Student 3 - [Topic](http://gist.github.com/username/link-to-my-outline-gist)
+* **Drew and Anna**, Drew Thompson, Anna Weisbrodt - [ParkiFi Shadow](https://gist.github.com/drew-t/159fca0c0d1ffc79fb9f3bd4f1309ba9)
