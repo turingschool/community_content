@@ -41,3 +41,5 @@
 * Sal Espinosa, Kriss Foss, Ilana Corson, Erin Greenhalgh - [Coding in the Wild](https://github.com/s-espinosa/AIS/blob/master/outline.md)
 * Marina Carona, Jonathan Bernesser, Jeneve Parrish, Ling Tran, Marcella Wigg - [Tack Mobile](https://gist.github.com/marcellawigg/f6f44bab833fb2055bbd703f401f897e)
 * Robbie Jaeger, Kerry Sheldon, Lucy Fox - [GoSpotCheck Shadow](https://gist.github.com/lucyfox4131/ddb8e0724da84ab0464cc1787e2a59cb)
+* Nick Pisciotta, Charlie Kaminer -
+[Modeset/Ello](https://gist.github.com/nickpisciotta/fc793eca1c798f20c4dcde13400687d0)
