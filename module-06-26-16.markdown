@@ -32,6 +32,7 @@
 ### **Week of 7/17**
 
 #### Lightning Talks - Module 3 and 4 Students
+*Karina, Deb, Matt, Ali, Patrick -[Cognizant-Quickleft] - https://gist.github.com/deborahleehamel/90601c5e4f4fe9c8e52d602f2e5f9277
 
 #### Student-Led Sessions (M2 students)
 * Pat Wentz and Kris Sparks - Pry and Other Debugging Techniques
@@ -41,5 +42,3 @@
 * Sal Espinosa, Kriss Foss, Ilana Corson, Erin Greenhalgh - [Coding in the Wild](https://github.com/s-espinosa/AIS/blob/master/outline.md)
 * Marina Carona, Jonathan Bernesser, Jeneve Parrish, Ling Tran, Marcella Wigg - [Tack Mobile](https://gist.github.com/marcellawigg/f6f44bab833fb2055bbd703f401f897e)
 * Robbie Jaeger, Kerry Sheldon, Lucy Fox - [GoSpotCheck Shadow](https://gist.github.com/lucyfox4131/ddb8e0724da84ab0464cc1787e2a59cb)
-* Nick Pisciotta, Charlie Kaminer -
-[Modeset/Ello](https://gist.github.com/nickpisciotta/fc793eca1c798f20c4dcde13400687d0)
