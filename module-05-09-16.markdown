@@ -23,7 +23,6 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 ### **Week of 6/6**
 
 
-* Parker Phillips
 
 Make sure to **remove** your name once you select a topic and move it under a format.
 
@@ -36,6 +35,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 * Kerry Sheldon - [10,000 Hours Isn't Enough](https://gist.github.com/kjs222/97355f58a28ed5c65bcc8001cfcbab26)
 * Robbie Jaeger - [Space Carving](https://gist.github.com/robbiejaeger/2f922416a50df232c7e7a03651a73ecd)
 * Karina Gonzalez - [Intro to Mandlebrot Sets//Mandlebrot animation]
+* Parker Phillips [Double Slit Experiment](https://gist.github.com/ExCaelum/204e7f65b015d73fc12a61fdf03d5577)
 
 
 #### Blog Posts for turing.io/blog - *LIMIT 2*
