@@ -28,7 +28,7 @@
 * Trent Whitinger - [VR](https://gist.github.com/twhitinger/736a6ca83448bdc0200b22684eff9efa)
 * Lane Winham - [Using the Kanban board cycle in your everyday life.](https://gist.github.com/Laner12/32f7c16faf392901d5db1977ece5b7a9)
 
-
+* Matt Packer - Design / User Experience - App Prototyping for Entrepreneurs
 ### **Week of 7/17**
 
 #### Lightning Talks - Module 3 and 4 Students
